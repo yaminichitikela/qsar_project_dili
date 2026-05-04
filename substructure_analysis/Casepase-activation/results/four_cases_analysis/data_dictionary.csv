@@ -1,0 +1,12 @@
+Column,Description
+CID,PubChem Compound ID - unique identifier for each molecule
+SMILES,Canonical SMILES string representing molecular structure
+assay_name,Unique identifier for the bioassay (AID_xxx_description)
+assay_type,"Type of assay: caspase, mitochondrial, or viability"
+cell_line,Cell line used in the assay
+outcome,"Activity classification: Active, Inactive, or Inconclusive"
+score,Numeric activity score from PubChem (higher = more confident activity)
+source,Data source: Tox21 or NCATS
+is_counter_screen,Boolean: True if assay is a counter-screen for false positives
+biological_process,"Primary biological process measured: apoptosis, mitochondria, cytotoxicity"
+endpoint_level,Endpoint classification: mechanistic (specific) or general_toxicity
