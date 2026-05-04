@@ -1,0 +1,12 @@
+Model,Training,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,F1
+RF-clin,"Clinical only (12,900)",49.6,77.3,63.4,0.6956,0.7874,0.2625,0.612
+Stack: RF+XGB+TL-GIN,Stacking meta-learner (LR),37.7,85.1,61.4,0.694,0.7696,0.2383,0.5169
+TL-GIN,"Pretrain 307K -> Fine-tune 12,900",60.6,64.7,62.6,0.6708,0.7568,0.242,0.6735
+XGB-clin,"Clinical only (12,900)",58.6,64.2,61.4,0.6612,0.7699,0.218,0.6577
+Random Forest,Direct (assay merged),59.0,53.1,56.1,0.5858,0.7146,0.1166,0.6391
+GIN,Direct (assay merged),50.8,57.5,54.2,0.5667,0.6923,0.0797,0.5839
+XGBoost,Direct (assay merged),52.8,56.2,54.5,0.5635,0.7028,0.0862,0.5974
+SAGE,Direct (assay merged),51.8,57.0,54.4,0.5488,0.6755,0.0841,0.591
+GNN-Consensus,Direct (assay merged),51.0,58.2,54.6,0.547,0.6746,0.0884,0.5865
+GCN,Direct (assay merged),50.0,57.0,53.5,0.5423,0.674,0.0666,0.5761
+GAT,Direct (assay merged),49.0,55.7,52.3,0.5125,0.6565,0.0448,0.5656

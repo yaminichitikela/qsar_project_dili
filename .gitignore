@@ -1,0 +1,17 @@
+# Large raw data files
+*.xlsx
+liver/cache/
+liver/AID_686978_datatable.csv
+liver/AID_743202_datatable.csv
+caspase/combined_hepg2_casepase.csv
+caspase/combined_all_caspase_cell_to_one_casepase.xlsx
+mito/AID_720635_cleaned.xlsx
+qsar_cho-k1/AID_1346980_cleaned.csv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

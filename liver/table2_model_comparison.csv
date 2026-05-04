@@ -1,0 +1,6 @@
+Model,AUC-ROC,AUC-PR,BA,MCC,F1,Sens,Spec,LR+,PPV
+Chemical structure only (Morgan + MACCS),0.593,0.776,0.531,0.076,0.778,0.853,0.209,1.078,0.715
+Physicochemical properties (Mordred),0.613,0.792,0.56,0.111,0.597,0.494,0.627,1.323,0.755
+Structure + Physicochemical,0.626,0.8,0.581,0.148,0.649,0.564,0.597,1.4,0.765
+Proxy-DILI labels only (FeatureNet),0.652,0.807,0.589,0.163,0.644,0.551,0.627,1.477,0.775
+DILIPredictor (ALL combined),0.618,0.786,0.582,0.15,0.669,0.596,0.567,1.377,0.762
