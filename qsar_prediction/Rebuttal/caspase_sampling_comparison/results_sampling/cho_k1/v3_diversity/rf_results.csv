@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,Random Forest,0.5,70.6,43.9,57.3,0.67,0.0448,0.0436,57.3,0.0545
+Test,Random Forest,0.5,82.4,46.8,64.6,0.6679,0.1031,0.087,64.6,0.0665
+Val,Random Forest,0.8,0.0,98.6,49.3,0.67,0.0448,-0.0177,49.3,0.0
+Test,Random Forest,0.8,5.9,99.5,52.7,0.6679,0.1031,0.0976,52.7,0.0909

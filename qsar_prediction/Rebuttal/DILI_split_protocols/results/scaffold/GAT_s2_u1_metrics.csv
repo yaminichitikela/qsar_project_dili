@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+scaffold,2,1,val,GAT,0.5,76.2,60.0,68.1,0.7428,0.5627,0.3441,68.1,0.6037
+scaffold,2,1,itest,GAT,0.5,79.8,58.0,68.9,0.7448,0.581,0.3666,68.9,0.6326
+scaffold,2,1,test,GAT,0.5,65.2,46.3,55.7,0.5993,0.7497,0.1079,55.7,0.6918
+scaffold,2,1,val,GAT,0.8,28.0,92.0,60.0,0.7428,0.5627,0.2678,60.0,0.3915
+scaffold,2,1,itest,GAT,0.8,26.0,91.5,58.7,0.7448,0.581,0.2366,58.7,0.3697
+scaffold,2,1,test,GAT,0.8,14.8,88.1,51.4,0.5993,0.7497,0.0384,51.4,0.2473

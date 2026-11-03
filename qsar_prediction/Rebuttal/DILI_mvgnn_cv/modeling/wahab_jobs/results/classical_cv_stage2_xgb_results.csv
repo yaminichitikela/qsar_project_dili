@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,XGB-CV Stage-2 (Proxy+DILI) Ensemble,0.5,45.8,62.7,54.2,0.5898,0.7643,0.0787,54.2,0.5657
+Test,XGB-CV Stage-2 (Proxy+DILI) BestFold,0.5,44.5,62.7,53.6,0.5603,0.7585,0.0669,53.6,0.5542
+Test,XGB-CV Stage-2 (Proxy+DILI) Ensemble,0.8,3.2,97.0,50.1,0.5898,0.7643,0.0063,50.1,0.0617
+Test,XGB-CV Stage-2 (Proxy+DILI) BestFold,0.8,9.0,97.0,53.0,0.5603,0.7585,0.1073,53.0,0.1637

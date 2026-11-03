@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,GAT Stage-2 (Proxy+DILI),0.5,68.8,77.3,73.0,0.8013,0.6038,0.4318,73.0,0.6056
+Test,GAT Stage-2 (Proxy+DILI),0.5,56.1,62.7,59.4,0.6393,0.775,0.1727,59.4,0.6517
+Val,GAT Stage-2 (Proxy+DILI),0.8,23.3,95.3,59.3,0.8013,0.6038,0.2808,59.3,0.345
+Test,GAT Stage-2 (Proxy+DILI),0.8,10.3,95.5,52.9,0.6393,0.775,0.0959,52.9,0.1839

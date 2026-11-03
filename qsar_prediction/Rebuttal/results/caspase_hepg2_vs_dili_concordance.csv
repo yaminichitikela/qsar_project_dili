@@ -1,0 +1,10 @@
+evidence,dili_set,n_matched,n_caspase_active,caspase_active_and_DILI_pos,caspase_active_but_DILI_neg,PPV_pct,DILI_base_rate_pct,enrichment,odds_ratio,fisher_p
+measured assay activity,Held-223,79,6,4,2,66.7,81.0,0.82,0.43,0.9211902957405955
+measured assay activity,NCV-888,228,15,11,4,73.3,67.1,1.09,1.38,0.4137482467849179
+measured assay activity,Gold-1111,307,21,15,6,71.4,70.7,1.01,1.04,0.5790005640574682
+measured assay activity,Alloriginal,5037,141,79,62,56.0,30.4,1.84,3.02,1.405443733865985e-10
+model prediction (p>=0.5),Held-223,222,23,17,6,73.9,69.8,1.06,1.25,0.42610118968357535
+model prediction (p>=0.5),NCV-888,874,101,69,32,68.3,63.3,1.08,1.29,0.1565568854015799
+model prediction (p>=0.5),Alloriginal,12145,884,412,472,46.6,33.0,1.41,1.86,1.7950250707814093e-18
+model prediction (p>=0.5),ALL (pooled),13241,1008,498,510,49.4,35.6,1.39,1.86,6.819783410616027e-21
+"model prediction (p>=0.5), overlap removed",ALL (pooled),8204,821,416,405,50.7,38.8,1.31,1.71,2.3006958206410027e-13

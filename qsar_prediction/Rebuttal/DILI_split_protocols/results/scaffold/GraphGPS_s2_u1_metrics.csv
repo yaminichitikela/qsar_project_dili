@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+scaffold,2,1,val,GraphGPS,0.5,80.4,56.8,68.6,0.7413,0.5848,0.3559,68.6,0.6121
+scaffold,2,1,itest,GraphGPS,0.5,78.0,50.8,64.4,0.7082,0.5534,0.2828,64.4,0.5934
+scaffold,2,1,test,GraphGPS,0.5,69.0,47.8,58.4,0.6063,0.7634,0.1606,58.4,0.7205
+scaffold,2,1,val,GraphGPS,0.8,37.6,87.9,62.7,0.7413,0.5848,0.2975,62.7,0.468
+scaffold,2,1,itest,GraphGPS,0.8,36.0,85.3,60.7,0.7082,0.5534,0.2459,60.7,0.4463
+scaffold,2,1,test,GraphGPS,0.8,33.5,82.1,57.8,0.6063,0.7634,0.1585,57.8,0.4749

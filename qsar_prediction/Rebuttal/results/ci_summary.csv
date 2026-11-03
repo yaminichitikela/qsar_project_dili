@@ -1,0 +1,925 @@
+Assay,SplitScheme,Model,Metric,CPT,N,Mean,SD,Corrected_SE,CI95_Low,CI95_High,Reported
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,ROC-AUC,,10,0.8791,0.0235,0.0171,0.8404,0.9179,0.88 +/- 0.04
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,PR-AUC,,10,0.6356,0.0484,0.0353,0.5557,0.7156,0.64 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,Sensitivity,0.5,10,81.66,4.6438,3.3902,73.9908,89.3292,82.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,Specificity,0.5,10,79.66,1.5262,1.1142,77.1395,82.1805,79.7 +/- 2.5
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,CCR,0.5,10,80.68,2.4966,1.8226,76.5569,84.8031,81.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,MCC,0.5,10,0.4745,0.0391,0.0285,0.41,0.539,0.47 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,Bal-Acc,0.5,10,80.68,2.4966,1.8226,76.5569,84.8031,81.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,F1,0.5,10,0.5407,0.0291,0.0212,0.4927,0.5887,0.54 +/- 0.05
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,Sensitivity,0.8,10,38.27,6.6133,4.8281,27.3482,49.1918,38.0 +/- 11.0
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,Specificity,0.8,10,97.92,0.4237,0.3094,97.2202,98.6198,97.9 +/- 0.7
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,CCR,0.8,10,68.11,3.3946,2.4782,62.5039,73.7161,68.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,MCC,0.8,10,0.4882,0.0707,0.0516,0.3715,0.6049,0.49 +/- 0.12
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,Bal-Acc,0.8,10,68.11,3.3946,2.4782,62.5039,73.7161,68.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),Random Forest,F1,0.8,10,0.5067,0.0715,0.0522,0.3887,0.6247,0.51 +/- 0.12
+AID_720637 (MMP summary),LOO (10-fold),SVM,ROC-AUC,,10,0.8825,0.0205,0.015,0.8487,0.9164,0.88 +/- 0.03
+AID_720637 (MMP summary),LOO (10-fold),SVM,PR-AUC,,10,0.6354,0.0467,0.0341,0.5584,0.7125,0.64 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),SVM,Sensitivity,0.5,10,81.92,3.7085,2.7074,75.7954,88.0446,82.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,Specificity,0.5,10,79.78,1.8353,1.3399,76.749,82.811,80.0 +/- 3.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,CCR,0.5,10,80.84,2.2756,1.6613,77.0819,84.5981,81.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,MCC,0.5,10,0.4778,0.0385,0.0281,0.4142,0.5414,0.48 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),SVM,Bal-Acc,0.5,10,80.84,2.2756,1.6613,77.0819,84.5981,81.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,F1,0.5,10,0.5435,0.0301,0.022,0.4938,0.5931,0.54 +/- 0.05
+AID_720637 (MMP summary),LOO (10-fold),SVM,Sensitivity,0.8,10,51.71,4.7517,3.469,43.8626,59.5574,52.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,Specificity,0.8,10,95.48,1.1292,0.8244,93.6151,97.3449,95.5 +/- 1.9
+AID_720637 (MMP summary),LOO (10-fold),SVM,CCR,0.8,10,73.57,2.4743,1.8064,69.4836,77.6564,74.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,MCC,0.8,10,0.523,0.051,0.0372,0.4389,0.6072,0.52 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),SVM,Bal-Acc,0.8,10,73.57,2.4743,1.8064,69.4836,77.6564,74.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),SVM,F1,0.8,10,0.5785,0.0449,0.0328,0.5044,0.6526,0.58 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,ROC-AUC,,10,0.8729,0.0229,0.0167,0.8351,0.9107,0.87 +/- 0.04
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,PR-AUC,,10,0.6082,0.05,0.0365,0.5256,0.6908,0.61 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,Sensitivity,0.5,10,78.88,4.7316,3.4544,71.0657,86.6943,79.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,Specificity,0.5,10,80.53,1.6248,1.1862,77.8466,83.2134,80.5 +/- 2.7
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,CCR,0.5,10,79.7,2.7329,1.9952,75.1866,84.2134,80.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,MCC,0.5,10,0.4651,0.0441,0.0322,0.3923,0.538,0.47 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,Bal-Acc,0.5,10,79.7,2.7329,1.9952,75.1866,84.2134,80.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,F1,0.5,10,0.5364,0.0336,0.0245,0.4809,0.5919,0.54 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,Sensitivity,0.8,10,58.7,5.1271,3.743,50.2327,67.1673,59.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,Specificity,0.8,10,92.07,0.9934,0.7252,90.4295,93.7105,92.1 +/- 1.6
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,CCR,0.8,10,75.4,2.5499,1.8616,71.1888,79.6112,75.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,MCC,0.8,10,0.4966,0.0432,0.0316,0.4252,0.568,0.5 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,Bal-Acc,0.8,10,75.4,2.5499,1.8616,71.1888,79.6112,75.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),XGBoost,F1,0.8,10,0.5705,0.0376,0.0275,0.5083,0.6326,0.57 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),GCN,ROC-AUC,,10,0.8922,0.016,0.0117,0.8658,0.9186,0.892 +/- 0.026
+AID_720637 (MMP summary),LOO (10-fold),GCN,PR-AUC,,10,0.6025,0.0592,0.0432,0.5047,0.7003,0.6 +/- 0.1
+AID_720637 (MMP summary),LOO (10-fold),GCN,Sensitivity,0.5,10,82.25,5.0158,3.6618,73.9664,90.5336,82.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,Specificity,0.5,10,81.19,5.5354,4.0412,72.0483,90.3317,81.0 +/- 9.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,CCR,0.5,10,81.72,2.1514,1.5706,78.167,85.273,82.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,MCC,0.5,10,0.5029,0.0549,0.04,0.4123,0.5935,0.5 +/- 0.09
+AID_720637 (MMP summary),LOO (10-fold),GCN,Bal-Acc,0.5,10,81.72,2.1514,1.5706,78.167,85.273,82.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,F1,0.5,10,0.5649,0.0516,0.0377,0.4797,0.6501,0.56 +/- 0.09
+AID_720637 (MMP summary),LOO (10-fold),GCN,Sensitivity,0.8,10,57.65,9.2648,6.7638,42.3493,72.9507,58.0 +/- 15.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,Specificity,0.8,10,93.38,2.8362,2.0706,88.696,98.064,93.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,CCR,0.8,10,75.53,3.5217,2.571,69.7139,81.3461,76.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,MCC,0.8,10,0.5226,0.0367,0.0268,0.462,0.5832,0.52 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),GCN,Bal-Acc,0.8,10,75.53,3.5217,2.571,69.7139,81.3461,76.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),GCN,F1,0.8,10,0.5838,0.0386,0.0281,0.5201,0.6475,0.58 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),GAT,ROC-AUC,,10,0.8796,0.0158,0.0115,0.8535,0.9056,0.88 +/- 0.026
+AID_720637 (MMP summary),LOO (10-fold),GAT,PR-AUC,,10,0.577,0.0496,0.0362,0.4951,0.6589,0.58 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),GAT,Sensitivity,0.5,10,81.68,5.4162,3.9541,72.7352,90.6248,82.0 +/- 9.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,Specificity,0.5,10,77.92,3.976,2.9027,71.3537,84.4863,78.0 +/- 7.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,CCR,0.5,10,79.8,1.8601,1.358,76.728,82.872,80.0 +/- 3.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,MCC,0.5,10,0.4564,0.0307,0.0224,0.4057,0.5071,0.46 +/- 0.05
+AID_720637 (MMP summary),LOO (10-fold),GAT,Bal-Acc,0.5,10,79.8,1.8601,1.358,76.728,82.872,80.0 +/- 3.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,F1,0.5,10,0.5241,0.0268,0.0196,0.4798,0.5683,0.52 +/- 0.04
+AID_720637 (MMP summary),LOO (10-fold),GAT,Sensitivity,0.8,10,58.46,12.3888,9.0445,37.9999,78.9201,58.0 +/- 20.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,Specificity,0.8,10,92.36,3.312,2.4179,86.8902,97.8298,92.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,CCR,0.8,10,75.39,4.7608,3.4757,67.5275,83.2525,75.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,MCC,0.8,10,0.5055,0.0403,0.0295,0.4388,0.5721,0.51 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),GAT,Bal-Acc,0.8,10,75.39,4.7608,3.4757,67.5275,83.2525,75.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),GAT,F1,0.8,10,0.5683,0.0575,0.042,0.4734,0.6632,0.57 +/- 0.09
+AID_720637 (MMP summary),LOO (10-fold),GIN,ROC-AUC,,10,0.8945,0.0132,0.0096,0.8727,0.9163,0.895 +/- 0.022
+AID_720637 (MMP summary),LOO (10-fold),GIN,PR-AUC,,10,0.6157,0.0469,0.0342,0.5383,0.6931,0.62 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),GIN,Sensitivity,0.5,10,80.99,5.4897,4.0078,71.9238,90.0562,81.0 +/- 9.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,Specificity,0.5,10,82.0,4.4652,3.2598,74.6258,89.3742,82.0 +/- 7.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,CCR,0.5,10,81.49,2.1794,1.5911,77.8907,85.0893,81.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,MCC,0.5,10,0.5021,0.0452,0.033,0.4274,0.5768,0.5 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),GIN,Bal-Acc,0.5,10,81.49,2.1794,1.5911,77.8907,85.0893,81.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,F1,0.5,10,0.566,0.0413,0.0301,0.4978,0.6342,0.57 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),GIN,Sensitivity,0.8,10,64.07,8.443,6.1639,50.1264,78.0136,64.0 +/- 14.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,Specificity,0.8,10,91.89,2.4808,1.8111,87.793,95.987,92.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,CCR,0.8,10,77.98,3.3329,2.4332,72.4757,83.4843,78.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,MCC,0.8,10,0.5367,0.0383,0.0279,0.4735,0.5999,0.54 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),GIN,Bal-Acc,0.8,10,77.98,3.3329,2.4332,72.4757,83.4843,78.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),GIN,F1,0.8,10,0.6027,0.0382,0.0279,0.5395,0.6658,0.6 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),SAGE,ROC-AUC,,10,0.8895,0.015,0.011,0.8647,0.9144,0.89 +/- 0.025
+AID_720637 (MMP summary),LOO (10-fold),SAGE,PR-AUC,,10,0.5979,0.0502,0.0367,0.515,0.6809,0.6 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),SAGE,Sensitivity,0.5,10,82.02,4.6692,3.4088,74.3088,89.7312,82.0 +/- 8.0
+AID_720637 (MMP summary),LOO (10-fold),SAGE,Specificity,0.5,10,81.06,3.5265,2.5745,75.236,86.884,81.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),SAGE,CCR,0.5,10,81.57,1.5889,1.16,78.946,84.194,81.6 +/- 2.6
+AID_720637 (MMP summary),LOO (10-fold),SAGE,MCC,0.5,10,0.4959,0.0293,0.0214,0.4475,0.5443,0.5 +/- 0.05
+AID_720637 (MMP summary),LOO (10-fold),SAGE,Bal-Acc,0.5,10,81.57,1.5889,1.16,78.946,84.194,81.6 +/- 2.6
+AID_720637 (MMP summary),LOO (10-fold),SAGE,F1,0.5,10,0.5591,0.027,0.0197,0.5146,0.6036,0.56 +/- 0.04
+AID_720637 (MMP summary),LOO (10-fold),SAGE,Sensitivity,0.8,10,58.14,8.736,6.3778,43.7125,72.5675,58.0 +/- 14.0
+AID_720637 (MMP summary),LOO (10-fold),SAGE,Specificity,0.8,10,93.24,2.2486,1.6416,89.5265,96.9535,93.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),SAGE,CCR,0.8,10,75.7,3.5434,2.5869,69.8481,81.5519,76.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),SAGE,MCC,0.8,10,0.5204,0.0402,0.0294,0.454,0.5869,0.52 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),SAGE,Bal-Acc,0.8,10,75.7,3.5434,2.5869,69.8481,81.5519,76.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),SAGE,F1,0.8,10,0.5844,0.0366,0.0267,0.5239,0.6449,0.58 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,ROC-AUC,,10,0.8563,0.0211,0.0154,0.8214,0.8912,0.86 +/- 0.03
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,PR-AUC,,10,0.5306,0.0628,0.0458,0.427,0.6343,0.53 +/- 0.1
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,Sensitivity,0.5,10,79.23,7.8918,5.7614,66.1968,92.2632,79.0 +/- 13.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,Specificity,0.5,10,76.92,5.1938,3.7917,68.3425,85.4975,77.0 +/- 9.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,CCR,0.5,10,78.09,2.9565,2.1584,73.2073,82.9727,78.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,MCC,0.5,10,0.4297,0.0451,0.033,0.3551,0.5042,0.43 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,Bal-Acc,0.5,10,78.09,2.9565,2.1584,73.2073,82.9727,78.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,F1,0.5,10,0.5035,0.0366,0.0267,0.4431,0.5639,0.5 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,Sensitivity,0.8,10,53.77,9.2086,6.7228,38.5621,68.9779,54.0 +/- 15.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,Specificity,0.8,10,90.74,3.0398,2.2192,85.7198,95.7602,91.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,CCR,0.8,10,72.23,3.3373,2.4364,66.7184,77.7416,72.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,MCC,0.8,10,0.4334,0.034,0.0248,0.3772,0.4895,0.43 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,Bal-Acc,0.8,10,72.23,3.3373,2.4364,66.7184,77.7416,72.0 +/- 6.0
+AID_720637 (MMP summary),LOO (10-fold),Graphormer,F1,0.8,10,0.5126,0.0397,0.029,0.447,0.5783,0.51 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,ROC-AUC,,10,0.8767,0.0192,0.014,0.845,0.9084,0.88 +/- 0.03
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,PR-AUC,,10,0.5861,0.077,0.0562,0.459,0.7133,0.59 +/- 0.13
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,Sensitivity,0.5,10,84.48,4.4482,3.2474,77.1339,91.8261,84.0 +/- 7.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,Specificity,0.5,10,74.08,6.4774,4.7289,63.3825,84.7775,74.0 +/- 11.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,CCR,0.5,10,79.29,2.9418,2.1477,74.4316,84.1484,79.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,MCC,0.5,10,0.4388,0.0599,0.0438,0.3398,0.5378,0.44 +/- 0.1
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,Bal-Acc,0.5,10,79.29,2.9418,2.1477,74.4316,84.1484,79.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,F1,0.5,10,0.5051,0.0532,0.0388,0.4173,0.5929,0.51 +/- 0.09
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,Sensitivity,0.8,10,73.39,8.6354,6.3043,59.1287,87.6513,73.0 +/- 14.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,Specificity,0.8,10,83.79,6.4834,4.7332,73.0827,94.4973,84.0 +/- 11.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,CCR,0.8,10,78.59,2.7683,2.021,74.0182,83.1618,79.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,MCC,0.8,10,0.4779,0.0616,0.045,0.3761,0.5796,0.48 +/- 0.1
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,Bal-Acc,0.8,10,78.59,2.7683,2.021,74.0182,83.1618,79.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),GraphGPS,F1,0.8,10,0.5507,0.0526,0.0384,0.4639,0.6376,0.55 +/- 0.09
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,ROC-AUC,,10,0.8949,0.0222,0.0162,0.8582,0.9316,0.89 +/- 0.04
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,PR-AUC,,10,0.6373,0.0629,0.046,0.5334,0.7413,0.64 +/- 0.1
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,Sensitivity,0.5,10,85.4,6.7238,4.9087,74.2957,96.5043,85.0 +/- 11.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,Specificity,0.5,10,79.13,2.9227,2.1337,74.3031,83.9569,79.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,CCR,0.5,10,82.27,2.8515,2.0818,77.5607,86.9793,82.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,MCC,0.5,10,0.4951,0.0403,0.0294,0.4285,0.5616,0.5 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,Bal-Acc,0.5,10,82.27,2.8515,2.0818,77.5607,86.9793,82.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,F1,0.5,10,0.5528,0.0299,0.0218,0.5035,0.6022,0.55 +/- 0.05
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,Sensitivity,0.8,10,63.37,5.5662,4.0636,54.1775,72.5625,63.0 +/- 9.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,Specificity,0.8,10,92.98,0.6408,0.4678,91.9217,94.0383,93.0 +/- 1.1
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,CCR,0.8,10,78.19,2.7807,2.03,73.5977,82.7823,78.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,MCC,0.8,10,0.5523,0.0439,0.0321,0.4797,0.6248,0.55 +/- 0.07
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,Bal-Acc,0.8,10,78.19,2.7807,2.03,73.5977,82.7823,78.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross,F1,0.8,10,0.6177,0.0385,0.0281,0.5542,0.6813,0.62 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Consensus,ROC-AUC,,10,0.9114,0.0184,0.0134,0.8811,0.9417,0.91 +/- 0.03
+AID_720637 (MMP summary),LOO (10-fold),Consensus,PR-AUC,,10,0.6979,0.0505,0.0369,0.6145,0.7813,0.7 +/- 0.08
+AID_720637 (MMP summary),LOO (10-fold),Consensus,Sensitivity,0.5,10,86.1,3.9606,2.8915,79.559,92.641,86.0 +/- 7.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,Specificity,0.5,10,83.05,1.9506,1.4241,79.8285,86.2715,83.0 +/- 3.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,CCR,0.5,10,84.58,2.209,1.6127,80.9319,88.2281,85.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,MCC,0.5,10,0.5487,0.0377,0.0275,0.4865,0.611,0.55 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Consensus,Bal-Acc,0.5,10,84.58,2.209,1.6127,80.9319,88.2281,85.0 +/- 4.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,F1,0.5,10,0.6017,0.0303,0.0221,0.5516,0.6517,0.6 +/- 0.05
+AID_720637 (MMP summary),LOO (10-fold),Consensus,Sensitivity,0.8,10,52.75,6.9478,5.0723,41.2758,64.2242,53.0 +/- 11.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,Specificity,0.8,10,96.71,1.2206,0.8911,94.6942,98.7258,96.7 +/- 2.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,CCR,0.8,10,74.73,3.0074,2.1956,69.7633,79.6967,75.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,MCC,0.8,10,0.5704,0.0351,0.0256,0.5125,0.6284,0.57 +/- 0.06
+AID_720637 (MMP summary),LOO (10-fold),Consensus,Bal-Acc,0.8,10,74.73,3.0074,2.1956,69.7633,79.6967,75.0 +/- 5.0
+AID_720637 (MMP summary),LOO (10-fold),Consensus,F1,0.8,10,0.6104,0.0417,0.0305,0.5415,0.6793,0.61 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,ROC-AUC,,5,0.8115,0.0161,0.0128,0.7758,0.8472,0.81 +/- 0.04
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,PR-AUC,,5,0.5409,0.0234,0.0186,0.4892,0.5927,0.54 +/- 0.05
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,Sensitivity,0.5,5,74.46,3.3411,2.6582,67.0797,81.8403,74.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,Specificity,0.5,5,71.9,3.2642,2.597,64.6896,79.1104,72.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,CCR,0.5,5,73.22,1.4132,1.1243,70.0984,76.3416,73.0 +/- 3.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,MCC,0.5,5,0.3816,0.0105,0.0083,0.3584,0.4048,0.382 +/- 0.023
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,Bal-Acc,0.5,5,73.22,1.4132,1.1243,70.0984,76.3416,73.0 +/- 3.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,F1,0.5,5,0.516,0.0248,0.0197,0.4612,0.5707,0.52 +/- 0.05
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,Sensitivity,0.8,5,7.32,4.1698,3.3175,-1.8908,16.5308,7.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,Specificity,0.8,5,98.94,1.1824,0.9407,96.3282,101.5518,98.9 +/- 2.6
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,CCR,0.8,5,53.12,1.5991,1.2722,49.5878,56.6522,53.0 +/- 4.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,MCC,0.8,5,0.1702,0.0457,0.0363,0.0693,0.2711,0.17 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,Bal-Acc,0.8,5,53.12,1.5991,1.2722,49.5878,56.6522,53.0 +/- 4.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Random Forest,F1,0.8,5,0.1284,0.0655,0.0521,-0.0163,0.2731,0.13 +/- 0.14
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,ROC-AUC,,5,0.8225,0.0265,0.021,0.764,0.8809,0.82 +/- 0.06
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,PR-AUC,,5,0.5666,0.039,0.0311,0.4804,0.6528,0.57 +/- 0.09
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,Sensitivity,0.5,5,81.16,2.7428,2.1822,75.1013,87.2187,81.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,Specificity,0.5,5,68.46,5.4183,4.3108,56.4913,80.4287,68.0 +/- 12.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,CCR,0.5,5,74.84,3.4969,2.7821,67.1157,82.5643,75.0 +/- 8.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,MCC,0.5,5,0.4012,0.0452,0.036,0.3013,0.5011,0.401 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,Bal-Acc,0.5,5,74.84,3.4969,2.7821,67.1157,82.5643,75.0 +/- 8.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,F1,0.5,5,0.5268,0.0281,0.0223,0.4647,0.5888,0.53 +/- 0.06
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,Sensitivity,0.8,5,40.18,8.2436,6.5586,21.9704,58.3896,40.0 +/- 18.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,Specificity,0.8,5,94.1,2.9917,2.3802,87.4916,100.7084,94.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,CCR,0.8,5,67.16,3.2377,2.5759,60.008,74.312,67.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,MCC,0.8,5,0.4152,0.0491,0.0391,0.3068,0.5237,0.42 +/- 0.11
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,Bal-Acc,0.8,5,67.16,3.2377,2.5759,60.008,74.312,67.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SVM,F1,0.8,5,0.4891,0.0585,0.0465,0.3598,0.6183,0.49 +/- 0.13
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,ROC-AUC,,5,0.7959,0.0151,0.012,0.7625,0.8293,0.8 +/- 0.03
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,PR-AUC,,5,0.51,0.0533,0.0424,0.3922,0.6278,0.51 +/- 0.12
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,Sensitivity,0.5,5,72.34,6.2123,4.9425,58.6174,86.0626,72.0 +/- 14.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,Specificity,0.5,5,71.48,4.1758,3.3222,62.256,80.704,71.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,CCR,0.5,5,71.94,1.9907,1.5838,67.5426,76.3374,72.0 +/- 4.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,MCC,0.5,5,0.3618,0.0278,0.0221,0.3005,0.4232,0.36 +/- 0.06
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,Bal-Acc,0.5,5,71.94,1.9907,1.5838,67.5426,76.3374,72.0 +/- 4.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,F1,0.5,5,0.5021,0.0341,0.0271,0.4269,0.5774,0.5 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,Sensitivity,0.8,5,42.26,13.0308,10.3673,13.4757,71.0443,42.0 +/- 29.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,Specificity,0.8,5,90.84,6.5531,5.2136,76.3646,105.3154,91.0 +/- 14.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,CCR,0.8,5,66.58,3.3656,2.6776,59.1457,74.0143,67.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,MCC,0.8,5,0.3752,0.0306,0.0243,0.3077,0.4428,0.38 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,Bal-Acc,0.8,5,66.58,3.3656,2.6776,59.1457,74.0143,67.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),XGBoost,F1,0.8,5,0.4664,0.0555,0.0441,0.3439,0.5889,0.47 +/- 0.12
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,ROC-AUC,,5,0.841,0.0385,0.0306,0.756,0.926,0.84 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,PR-AUC,,5,0.5606,0.0362,0.0288,0.4806,0.6405,0.56 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,Sensitivity,0.5,5,80.74,10.5581,8.4,57.4179,104.0621,81.0 +/- 23.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,Specificity,0.5,5,68.44,12.0218,9.5645,41.8847,94.9953,68.0 +/- 27.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,CCR,0.5,5,74.62,3.4113,2.714,67.0846,82.1554,75.0 +/- 8.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,MCC,0.5,5,0.4083,0.0621,0.0494,0.2711,0.5456,0.41 +/- 0.14
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,Bal-Acc,0.5,5,74.62,3.4113,2.714,67.0846,82.1554,75.0 +/- 8.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,F1,0.5,5,0.5284,0.0532,0.0423,0.4109,0.6459,0.53 +/- 0.12
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,Sensitivity,0.8,5,48.92,19.5831,15.5803,5.6622,92.1778,50.0 +/- 40.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,Specificity,0.8,5,90.86,6.9745,5.5489,75.4539,106.2661,91.0 +/- 15.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,CCR,0.8,5,69.9,8.2489,6.5629,51.6786,88.1214,70.0 +/- 18.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,MCC,0.8,5,0.4284,0.1253,0.0997,0.1516,0.7051,0.43 +/- 0.28
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,Bal-Acc,0.8,5,69.9,8.2489,6.5629,51.6786,88.1214,70.0 +/- 18.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GCN,F1,0.8,5,0.5117,0.1528,0.1216,0.1742,0.8492,0.5 +/- 0.3
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,ROC-AUC,,5,0.8304,0.0433,0.0344,0.7348,0.926,0.83 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,PR-AUC,,5,0.5409,0.0976,0.0776,0.3254,0.7564,0.54 +/- 0.22
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,Sensitivity,0.5,5,83.04,4.0685,3.2369,74.0529,92.0271,83.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,Specificity,0.5,5,66.76,6.06,4.8213,53.3739,80.1461,67.0 +/- 13.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,CCR,0.5,5,74.9,3.9351,3.1308,66.2076,83.5924,75.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,MCC,0.5,5,0.4009,0.0517,0.0411,0.2868,0.5151,0.4 +/- 0.11
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,Bal-Acc,0.5,5,74.9,3.9351,3.1308,66.2076,83.5924,75.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,F1,0.5,5,0.5248,0.0288,0.0229,0.4611,0.5885,0.52 +/- 0.06
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,Sensitivity,0.8,5,52.12,9.7246,7.7369,30.6391,73.6009,52.0 +/- 21.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,Specificity,0.8,5,88.3,8.214,6.5351,70.1558,106.4442,88.0 +/- 18.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,CCR,0.8,5,70.2,2.8879,2.2976,63.8208,76.5792,70.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,MCC,0.8,5,0.4237,0.0873,0.0695,0.2309,0.6166,0.42 +/- 0.19
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,Bal-Acc,0.8,5,70.2,2.8879,2.2976,63.8208,76.5792,70.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GAT,F1,0.8,5,0.5271,0.0494,0.0393,0.418,0.6363,0.53 +/- 0.11
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,ROC-AUC,,5,0.8358,0.0346,0.0275,0.7594,0.9122,0.84 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,PR-AUC,,5,0.5494,0.0375,0.0298,0.4666,0.6323,0.55 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,Sensitivity,0.5,5,70.76,13.2145,10.5134,41.57,99.95,71.0 +/- 29.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,Specificity,0.5,5,78.64,7.3012,5.8089,62.512,94.768,79.0 +/- 16.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,CCR,0.5,5,74.72,4.4155,3.513,64.9663,84.4737,75.0 +/- 10.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,MCC,0.5,5,0.4299,0.0608,0.0484,0.2956,0.5642,0.43 +/- 0.13
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,Bal-Acc,0.5,5,74.72,4.4155,3.513,64.9663,84.4737,75.0 +/- 10.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,F1,0.5,5,0.5479,0.0501,0.0399,0.4372,0.6586,0.55 +/- 0.11
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,Sensitivity,0.8,5,43.94,21.998,17.5016,-4.6523,92.5323,40.0 +/- 50.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,Specificity,0.8,5,92.22,5.2794,4.2003,80.5581,103.8819,92.0 +/- 12.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,CCR,0.8,5,68.1,9.2282,7.342,47.7154,88.4846,68.0 +/- 20.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,MCC,0.8,5,0.3987,0.1345,0.107,0.1015,0.6959,0.4 +/- 0.3
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,Bal-Acc,0.8,5,68.1,9.2282,7.342,47.7154,88.4846,68.0 +/- 20.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GIN,F1,0.8,5,0.4706,0.1748,0.1391,0.0845,0.8567,0.5 +/- 0.4
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,ROC-AUC,,5,0.8371,0.0433,0.0344,0.7414,0.9327,0.84 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,PR-AUC,,5,0.5635,0.0437,0.0348,0.4669,0.6602,0.56 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,Sensitivity,0.5,5,77.78,10.3343,8.2219,54.9523,100.6077,78.0 +/- 23.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,Specificity,0.5,5,73.5,6.0605,4.8218,60.1127,86.8873,74.0 +/- 13.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,CCR,0.5,5,75.64,4.0538,3.2252,66.6855,84.5945,76.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,MCC,0.5,5,0.4255,0.0523,0.0416,0.31,0.5409,0.43 +/- 0.12
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,Bal-Acc,0.5,5,75.64,4.0538,3.2252,66.6855,84.5945,76.0 +/- 9.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,F1,0.5,5,0.5448,0.0367,0.0292,0.4638,0.6258,0.54 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,Sensitivity,0.8,5,50.96,25.3814,20.1934,-5.1058,107.0258,50.0 +/- 60.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,Specificity,0.8,5,90.02,6.0735,4.832,76.6041,103.4359,90.0 +/- 13.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,CCR,0.8,5,70.5,10.8021,8.5941,46.6389,94.3611,70.0 +/- 24.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,MCC,0.8,5,0.4151,0.1642,0.1306,0.0524,0.7778,0.4 +/- 0.4
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,Bal-Acc,0.8,5,70.5,10.8021,8.5941,46.6389,94.3611,70.0 +/- 24.0
+AID_720637 (MMP summary),Scaffold (5-repeat),SAGE,F1,0.8,5,0.4969,0.2097,0.1668,0.0337,0.9601,0.5 +/- 0.5
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,ROC-AUC,,5,0.8171,0.0317,0.0252,0.7472,0.887,0.82 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,PR-AUC,,5,0.4912,0.0455,0.0362,0.3906,0.5918,0.49 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,Sensitivity,0.5,5,77.42,16.9699,13.5012,39.9346,114.9054,80.0 +/- 40.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,Specificity,0.5,5,66.36,14.0753,11.1983,35.2686,97.4514,70.0 +/- 30.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,CCR,0.5,5,71.9,3.5777,2.8464,63.9971,79.8029,72.0 +/- 8.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,MCC,0.5,5,0.3639,0.0467,0.0372,0.2606,0.4671,0.36 +/- 0.1
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,Bal-Acc,0.5,5,71.9,3.5777,2.8464,63.9971,79.8029,72.0 +/- 8.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,F1,0.5,5,0.4939,0.0519,0.0413,0.3793,0.6084,0.49 +/- 0.11
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,Sensitivity,0.8,5,57.82,21.5863,17.174,10.1373,105.5027,60.0 +/- 50.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,Specificity,0.8,5,84.38,8.4384,6.7136,65.74,103.02,84.0 +/- 19.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,CCR,0.8,5,71.08,7.323,5.8262,54.9038,87.2562,71.0 +/- 16.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,MCC,0.8,5,0.3979,0.0846,0.0673,0.2111,0.5848,0.4 +/- 0.19
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,Bal-Acc,0.8,5,71.08,7.323,5.8262,54.9038,87.2562,71.0 +/- 16.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Graphormer,F1,0.8,5,0.5078,0.0984,0.0783,0.2905,0.7251,0.51 +/- 0.22
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,ROC-AUC,,5,0.8316,0.0324,0.0258,0.7599,0.9033,0.83 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,PR-AUC,,5,0.514,0.0592,0.0471,0.3832,0.6448,0.51 +/- 0.13
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,Sensitivity,0.5,5,83.14,11.2594,8.9579,58.2688,108.0112,83.0 +/- 25.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,Specificity,0.5,5,66.82,7.2251,5.7483,50.8602,82.7798,67.0 +/- 16.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,CCR,0.5,5,74.98,2.6725,2.1262,69.0767,80.8833,75.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,MCC,0.5,5,0.4042,0.022,0.0175,0.3557,0.4527,0.4 +/- 0.05
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,Bal-Acc,0.5,5,74.98,2.6725,2.1262,69.0767,80.8833,75.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,F1,0.5,5,0.5219,0.0335,0.0266,0.448,0.5958,0.52 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,Sensitivity,0.8,5,63.16,28.8035,22.9161,-0.4652,126.7852,60.0 +/- 60.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,Specificity,0.8,5,80.54,9.4925,7.5522,59.5716,101.5084,81.0 +/- 21.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,CCR,0.8,5,71.82,10.1869,8.1047,49.3179,94.3221,72.0 +/- 23.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,MCC,0.8,5,0.3825,0.1414,0.1125,0.0702,0.6947,0.4 +/- 0.3
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,Bal-Acc,0.8,5,71.82,10.1869,8.1047,49.3179,94.3221,72.0 +/- 23.0
+AID_720637 (MMP summary),Scaffold (5-repeat),GraphGPS,F1,0.8,5,0.488,0.1703,0.1355,0.1117,0.8643,0.5 +/- 0.4
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,ROC-AUC,,5,0.8178,0.0264,0.021,0.7595,0.8761,0.82 +/- 0.06
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,PR-AUC,,5,0.5141,0.0336,0.0267,0.4399,0.5883,0.51 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,Sensitivity,0.5,5,83.62,6.4239,5.1109,69.4299,97.8101,84.0 +/- 14.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,Specificity,0.5,5,63.86,5.9197,4.7097,50.7837,76.9363,64.0 +/- 13.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,CCR,0.5,5,73.74,2.9091,2.3145,67.3139,80.1661,74.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,MCC,0.5,5,0.3802,0.036,0.0286,0.3008,0.4597,0.38 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,Bal-Acc,0.5,5,73.74,2.9091,2.3145,67.3139,80.1661,74.0 +/- 6.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,F1,0.5,5,0.507,0.0313,0.0249,0.4379,0.5761,0.51 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,Sensitivity,0.8,5,44.58,21.571,17.1619,-3.0689,92.2289,40.0 +/- 50.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,Specificity,0.8,5,90.4,7.5621,6.0164,73.6958,107.1042,90.0 +/- 17.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,CCR,0.8,5,67.5,7.4505,5.9276,51.0423,83.9577,68.0 +/- 16.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,MCC,0.8,5,0.3851,0.0881,0.0701,0.1905,0.5797,0.39 +/- 0.19
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,Bal-Acc,0.8,5,67.5,7.4505,5.9276,51.0423,83.9577,68.0 +/- 16.0
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross,F1,0.8,5,0.4626,0.1447,0.1152,0.1428,0.7823,0.5 +/- 0.3
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,ROC-AUC,,5,0.8678,0.0297,0.0236,0.8023,0.9334,0.87 +/- 0.07
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,PR-AUC,,5,0.6282,0.0289,0.023,0.5643,0.6921,0.63 +/- 0.06
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,Sensitivity,0.5,5,82.74,8.3599,6.6511,64.2735,101.2065,83.0 +/- 18.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,Specificity,0.5,5,73.54,4.9212,3.9153,62.6694,84.4106,74.0 +/- 11.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,CCR,0.5,5,78.16,3.1045,2.4699,71.3023,85.0177,78.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,MCC,0.5,5,0.4637,0.0371,0.0295,0.3817,0.5458,0.46 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,Bal-Acc,0.5,5,78.16,3.1045,2.4699,71.3023,85.0177,78.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,F1,0.5,5,0.5701,0.0341,0.0272,0.4947,0.6455,0.57 +/- 0.08
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,Sensitivity,0.8,5,39.6,15.2707,12.1494,5.8679,73.3321,40.0 +/- 30.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,Specificity,0.8,5,95.54,3.1037,2.4693,88.6841,102.3959,96.0 +/- 7.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,CCR,0.8,5,67.6,6.8451,5.4459,52.4797,82.7203,68.0 +/- 15.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,MCC,0.8,5,0.4415,0.1074,0.0855,0.2042,0.6789,0.44 +/- 0.24
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,Bal-Acc,0.8,5,67.6,6.8451,5.4459,52.4797,82.7203,68.0 +/- 15.0
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus,F1,0.8,5,0.4906,0.1325,0.1054,0.1979,0.7833,0.49 +/- 0.29
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,ROC-AUC,,10,0.8453,0.04,0.0524,0.7267,0.9639,0.85 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,PR-AUC,,10,0.3097,0.0656,0.0859,0.1154,0.504,0.31 +/- 0.19
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,Sensitivity,0.5,10,70.21,11.7051,15.3269,35.5381,104.8819,70.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,Specificity,0.5,10,82.36,1.6181,2.1188,77.567,87.153,82.0 +/- 5.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,CCR,0.5,10,76.28,5.7673,7.5518,59.1966,93.3634,76.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,MCC,0.5,10,0.2549,0.0555,0.0727,0.0904,0.4194,0.25 +/- 0.16
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,Bal-Acc,0.5,10,76.28,5.7673,7.5518,59.1966,93.3634,76.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,F1,0.5,10,0.2306,0.0371,0.0486,0.1206,0.3406,0.23 +/- 0.11
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,Sensitivity,0.8,10,21.58,6.1561,8.0609,3.345,39.815,22.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,Specificity,0.8,10,99.05,0.178,0.233,98.5229,99.5771,99.0 +/- 0.5
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,CCR,0.8,10,60.31,3.1214,4.0872,51.064,69.556,60.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,MCC,0.8,10,0.3014,0.0826,0.1081,0.0568,0.5459,0.3 +/- 0.24
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,Bal-Acc,0.8,10,60.31,3.1214,4.0872,51.064,69.556,60.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Random Forest,F1,0.8,10,0.2954,0.0781,0.1022,0.064,0.5267,0.3 +/- 0.23
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,ROC-AUC,,10,0.8497,0.0392,0.0514,0.7336,0.9659,0.85 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,PR-AUC,,10,0.3038,0.0664,0.087,0.107,0.5006,0.3 +/- 0.2
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,Sensitivity,0.5,10,74.47,9.4401,12.3611,46.5073,102.4327,74.0 +/- 28.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,Specificity,0.5,10,76.7,1.6097,2.1078,71.9319,81.4681,77.0 +/- 5.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,CCR,0.5,10,75.59,4.8443,6.3433,61.2405,89.9395,76.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,MCC,0.5,10,0.2274,0.043,0.0563,0.1,0.3548,0.23 +/- 0.13
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,Bal-Acc,0.5,10,75.59,4.8443,6.3433,61.2405,89.9395,76.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,F1,0.5,10,0.1981,0.025,0.0328,0.1239,0.2723,0.2 +/- 0.07
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,Sensitivity,0.8,10,42.82,9.9706,13.0557,13.2859,72.3541,40.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,Specificity,0.8,10,95.64,1.3459,1.7624,91.6532,99.6268,96.0 +/- 4.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,CCR,0.8,10,69.25,4.4935,5.8839,55.9397,82.5603,69.0 +/- 13.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,MCC,0.8,10,0.3169,0.0481,0.063,0.1744,0.4594,0.32 +/- 0.14
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,Bal-Acc,0.8,10,69.25,4.4935,5.8839,55.9397,82.5603,69.0 +/- 13.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SVM,F1,0.8,10,0.3397,0.0428,0.0561,0.2129,0.4665,0.34 +/- 0.13
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,ROC-AUC,,10,0.8355,0.039,0.0511,0.72,0.9511,0.84 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,PR-AUC,,10,0.2506,0.0415,0.0544,0.1276,0.3736,0.25 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,Sensitivity,0.5,10,73.72,11.8726,15.5463,38.5519,108.8881,70.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,Specificity,0.5,10,77.41,1.3852,1.8138,73.3069,81.5131,77.0 +/- 4.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,CCR,0.5,10,75.55,5.6159,7.3536,58.9151,92.1849,76.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,MCC,0.5,10,0.2288,0.0481,0.063,0.0863,0.3712,0.23 +/- 0.14
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,Bal-Acc,0.5,10,75.55,5.6159,7.3536,58.9151,92.1849,76.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,F1,0.5,10,0.2001,0.0268,0.0352,0.1205,0.2796,0.2 +/- 0.08
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,Sensitivity,0.8,10,46.4,10.3009,13.4882,15.8875,76.9125,50.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,Specificity,0.8,10,92.53,2.0532,2.6885,86.4482,98.6118,93.0 +/- 6.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,CCR,0.8,10,69.48,4.6079,6.0337,55.8308,83.1292,69.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,MCC,0.8,10,0.2642,0.0496,0.065,0.1172,0.4111,0.26 +/- 0.15
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,Bal-Acc,0.8,10,69.48,4.6079,6.0337,55.8308,83.1292,69.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),XGBoost,F1,0.8,10,0.2799,0.0421,0.0552,0.1551,0.4047,0.28 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,ROC-AUC,,10,0.8279,0.0268,0.035,0.7486,0.9071,0.83 +/- 0.08
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,PR-AUC,,10,0.1846,0.0538,0.0704,0.0254,0.3439,0.18 +/- 0.16
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,Sensitivity,0.5,10,76.28,7.7185,10.1068,53.4169,99.1431,76.0 +/- 23.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,Specificity,0.5,10,73.68,3.9606,5.1861,61.9483,85.4117,74.0 +/- 12.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,CCR,0.5,10,75.0,2.8449,3.7251,66.5731,83.4269,75.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,MCC,0.5,10,0.2151,0.0221,0.0289,0.1497,0.2805,0.22 +/- 0.07
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,Bal-Acc,0.5,10,75.0,2.8449,3.7251,66.5731,83.4269,75.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,F1,0.5,10,0.1849,0.0144,0.0189,0.1422,0.2277,0.18 +/- 0.04
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,Sensitivity,0.8,10,36.08,13.8003,18.0704,-4.7981,76.9581,40.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,Specificity,0.8,10,93.16,2.8691,3.7568,84.6615,101.6585,93.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,CCR,0.8,10,64.61,5.8451,7.6537,47.2961,81.9239,65.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,MCC,0.8,10,0.2075,0.0654,0.0856,0.0139,0.4012,0.21 +/- 0.19
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,Bal-Acc,0.8,10,64.61,5.8451,7.6537,47.2961,81.9239,65.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GCN,F1,0.8,10,0.2316,0.0581,0.076,0.0596,0.4037,0.23 +/- 0.17
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,ROC-AUC,,10,0.8286,0.0311,0.0408,0.7364,0.9208,0.83 +/- 0.09
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,PR-AUC,,10,0.1928,0.0587,0.0769,0.0188,0.3668,0.19 +/- 0.17
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,Sensitivity,0.5,10,81.18,11.1034,14.5391,48.2903,114.0697,80.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,Specificity,0.5,10,68.43,9.2856,12.1588,40.925,95.935,68.0 +/- 28.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,CCR,0.5,10,74.81,2.4044,3.1483,67.688,81.932,75.0 +/- 7.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,MCC,0.5,10,0.2087,0.0255,0.0334,0.133,0.2843,0.21 +/- 0.08
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,Bal-Acc,0.5,10,74.81,2.4044,3.1483,67.688,81.932,75.0 +/- 7.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,F1,0.5,10,0.1746,0.0296,0.0388,0.0869,0.2622,0.17 +/- 0.09
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,Sensitivity,0.8,10,46.75,18.0017,23.5719,-6.5733,100.0733,50.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,Specificity,0.8,10,89.69,5.9787,7.8287,71.9803,107.3997,90.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,CCR,0.8,10,68.21,6.3749,8.3474,49.3269,87.0931,68.0 +/- 19.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,MCC,0.8,10,0.227,0.0495,0.0648,0.0803,0.3736,0.23 +/- 0.15
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,Bal-Acc,0.8,10,68.21,6.3749,8.3474,49.3269,87.0931,68.0 +/- 19.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GAT,F1,0.8,10,0.2356,0.0486,0.0636,0.0917,0.3795,0.24 +/- 0.14
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,ROC-AUC,,10,0.8373,0.0372,0.0487,0.7271,0.9474,0.84 +/- 0.11
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,PR-AUC,,10,0.2002,0.0503,0.0658,0.0513,0.3492,0.2 +/- 0.15
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,Sensitivity,0.5,10,76.59,12.9125,16.9079,38.3417,114.8383,80.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,Specificity,0.5,10,73.01,8.2566,10.8114,48.5529,97.4671,73.0 +/- 24.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,CCR,0.5,10,74.78,4.8828,6.3936,60.3166,89.2434,75.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,MCC,0.5,10,0.2154,0.0431,0.0564,0.0877,0.3431,0.22 +/- 0.13
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,Bal-Acc,0.5,10,74.78,4.8828,6.3936,60.3166,89.2434,75.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,F1,0.5,10,0.1856,0.0316,0.0413,0.0921,0.2791,0.19 +/- 0.09
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,Sensitivity,0.8,10,43.29,21.4745,28.1192,-20.32,106.9,40.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,Specificity,0.8,10,90.79,6.0101,7.8697,72.9875,108.5925,91.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,CCR,0.8,10,67.03,8.2217,10.7656,42.6765,91.3835,67.0 +/- 24.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,MCC,0.8,10,0.2166,0.0779,0.102,-0.0142,0.4474,0.22 +/- 0.23
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,Bal-Acc,0.8,10,67.03,8.2217,10.7656,42.6765,91.3835,67.0 +/- 24.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GIN,F1,0.8,10,0.2294,0.0671,0.0879,0.0306,0.4281,0.23 +/- 0.2
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,ROC-AUC,,10,0.8277,0.0307,0.0402,0.7369,0.9185,0.83 +/- 0.09
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,PR-AUC,,10,0.1877,0.0507,0.0663,0.0377,0.3378,0.19 +/- 0.15
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,Sensitivity,0.5,10,75.19,7.8438,10.2709,51.9557,98.4243,75.0 +/- 23.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,Specificity,0.5,10,74.5,5.1387,6.7288,59.2785,89.7215,74.0 +/- 15.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,CCR,0.5,10,74.84,2.9152,3.8172,66.2049,83.4751,75.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,MCC,0.5,10,0.2173,0.0292,0.0382,0.1309,0.3037,0.22 +/- 0.09
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,Bal-Acc,0.5,10,74.84,2.9152,3.8172,66.2049,83.4751,75.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,F1,0.5,10,0.1889,0.0249,0.0327,0.115,0.2628,0.19 +/- 0.07
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,Sensitivity,0.8,10,36.4,13.7066,17.9477,-4.2006,77.0006,40.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,Specificity,0.8,10,93.09,2.7998,3.6661,84.7967,101.3833,93.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,CCR,0.8,10,64.72,5.943,7.7819,47.1161,82.3239,65.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,MCC,0.8,10,0.2102,0.0668,0.0875,0.0122,0.4082,0.21 +/- 0.2
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,Bal-Acc,0.8,10,64.72,5.943,7.7819,47.1161,82.3239,65.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),SAGE,F1,0.8,10,0.2352,0.0572,0.0749,0.0658,0.4046,0.24 +/- 0.17
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,ROC-AUC,,10,0.7877,0.0411,0.0538,0.666,0.9094,0.79 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,PR-AUC,,10,0.1274,0.0461,0.0604,-0.0092,0.264,0.13 +/- 0.14
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,Sensitivity,0.5,10,73.77,8.5658,11.2163,48.397,99.143,74.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,Specificity,0.5,10,67.34,11.0919,14.5239,34.4846,100.1954,70.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,CCR,0.5,10,70.54,2.6315,3.4458,62.7451,78.3349,71.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,MCC,0.5,10,0.172,0.0253,0.0331,0.097,0.247,0.17 +/- 0.07
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,Bal-Acc,0.5,10,70.54,2.6315,3.4458,62.7451,78.3349,71.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,F1,0.5,10,0.1549,0.0222,0.029,0.0892,0.2206,0.15 +/- 0.07
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,Sensitivity,0.8,10,22.87,21.8548,28.6171,-41.8664,87.6064,20.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,Specificity,0.8,10,94.01,5.3157,6.9605,78.2643,109.7557,94.0 +/- 16.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,CCR,0.8,10,58.43,8.47,11.0907,33.341,83.519,58.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,MCC,0.8,10,0.1016,0.1042,0.1365,-0.2071,0.4104,0.1 +/- 0.3
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,Bal-Acc,0.8,10,58.43,8.47,11.0907,33.341,83.519,58.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Graphormer,F1,0.8,10,0.1182,0.1086,0.1422,-0.2035,0.4399,0.1 +/- 0.3
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,ROC-AUC,,10,0.835,0.0392,0.0513,0.7189,0.9512,0.84 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,PR-AUC,,10,0.195,0.063,0.0825,0.0084,0.3816,0.19 +/- 0.19
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,Sensitivity,0.5,10,81.99,13.2026,17.2877,42.8825,121.0975,80.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,Specificity,0.5,10,69.47,5.6176,7.3559,52.8299,86.1101,69.0 +/- 17.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,CCR,0.5,10,75.73,5.1112,6.6927,60.59,90.87,76.0 +/- 15.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,MCC,0.5,10,0.213,0.0398,0.0521,0.0951,0.3309,0.21 +/- 0.12
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,Bal-Acc,0.5,10,75.73,5.1112,6.6927,60.59,90.87,76.0 +/- 15.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,F1,0.5,10,0.1752,0.0215,0.0281,0.1116,0.2389,0.18 +/- 0.06
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,Sensitivity,0.8,10,58.09,23.5959,30.8969,-11.8037,127.9837,60.0 +/- 70.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,Specificity,0.8,10,82.75,9.9432,13.0198,53.2971,112.2029,83.0 +/- 29.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,CCR,0.8,10,70.42,7.832,10.2553,47.2208,93.6192,70.0 +/- 23.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,MCC,0.8,10,0.2098,0.0621,0.0814,0.0257,0.3939,0.21 +/- 0.18
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,Bal-Acc,0.8,10,70.42,7.832,10.2553,47.2208,93.6192,70.0 +/- 23.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),GraphGPS,F1,0.8,10,0.2006,0.0573,0.075,0.0309,0.3703,0.2 +/- 0.17
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,ROC-AUC,,10,0.8305,0.0282,0.037,0.7469,0.9141,0.83 +/- 0.08
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,PR-AUC,,10,0.2213,0.0629,0.0823,0.035,0.4075,0.22 +/- 0.19
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,Sensitivity,0.5,10,76.54,19.7017,25.7979,18.1812,134.8988,80.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,Specificity,0.5,10,71.84,9.1885,12.0317,44.6225,99.0575,72.0 +/- 27.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,CCR,0.5,10,74.17,6.1074,7.9971,56.0792,92.2608,74.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,MCC,0.5,10,0.2065,0.0373,0.0488,0.096,0.3169,0.21 +/- 0.11
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,Bal-Acc,0.5,10,74.17,6.1074,7.9971,56.0792,92.2608,74.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,F1,0.5,10,0.176,0.0183,0.0239,0.1219,0.2302,0.18 +/- 0.05
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,Sensitivity,0.8,10,17.21,20.8533,27.3058,-44.56,78.98,20.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,Specificity,0.8,10,97.42,2.8413,3.7204,89.0038,105.8362,97.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,CCR,0.8,10,57.3,9.0976,11.9126,30.3518,84.2482,57.0 +/- 27.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,MCC,0.8,10,0.1222,0.1287,0.1685,-0.259,0.5033,0.1 +/- 0.4
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,Bal-Acc,0.8,10,57.3,9.0976,11.9126,30.3518,84.2482,57.0 +/- 27.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross,F1,0.8,10,0.1368,0.1329,0.1741,-0.257,0.5306,0.1 +/- 0.4
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,ROC-AUC,,10,0.8726,0.0269,0.0352,0.793,0.9521,0.87 +/- 0.08
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,PR-AUC,,10,0.3339,0.0616,0.0806,0.1515,0.5163,0.33 +/- 0.18
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,Sensitivity,0.5,10,81.59,6.7634,8.8561,61.5561,101.6239,82.0 +/- 20.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,Specificity,0.5,10,76.61,2.7871,3.6494,68.3544,84.8656,77.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,CCR,0.5,10,79.13,2.817,3.6887,70.7856,87.4744,79.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,MCC,0.5,10,0.2578,0.023,0.0301,0.1898,0.3258,0.26 +/- 0.07
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,Bal-Acc,0.5,10,79.13,2.817,3.6887,70.7856,87.4744,79.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,F1,0.5,10,0.2148,0.0148,0.0194,0.1709,0.2586,0.21 +/- 0.04
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,Sensitivity,0.8,10,31.47,11.3305,14.8364,-2.0922,65.0322,30.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,Specificity,0.8,10,97.79,2.1053,2.7567,91.554,104.026,98.0 +/- 6.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,CCR,0.8,10,64.62,4.7201,6.1806,50.6384,78.6016,65.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,MCC,0.8,10,0.3323,0.0292,0.0382,0.2459,0.4188,0.33 +/- 0.09
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,Bal-Acc,0.8,10,64.62,4.7201,6.1806,50.6384,78.6016,65.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus,F1,0.8,10,0.3345,0.0492,0.0645,0.1887,0.4804,0.33 +/- 0.15
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,ROC-AUC,,5,0.7607,0.0588,0.0791,0.5409,0.9804,0.76 +/- 0.22
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,PR-AUC,,5,0.2434,0.0615,0.0829,0.0132,0.4736,0.24 +/- 0.23
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,Sensitivity,0.5,5,69.86,11.3876,15.3399,27.2697,112.4503,70.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,Specificity,0.5,5,67.5,3.6797,4.9568,53.7378,81.2622,68.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,CCR,0.5,5,68.7,5.4507,7.3424,48.3141,89.0859,69.0 +/- 20.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,MCC,0.5,5,0.1848,0.0594,0.0801,-0.0375,0.4071,0.18 +/- 0.22
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,Bal-Acc,0.5,5,68.7,5.4507,7.3424,48.3141,89.0859,69.0 +/- 20.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,F1,0.5,5,0.2027,0.0541,0.0729,0.0003,0.405,0.2 +/- 0.2
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,Sensitivity,0.8,5,3.6,4.3892,5.9125,-12.8158,20.0158,4.0 +/- 16.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,Specificity,0.8,5,99.7,0.2449,0.33,98.7839,100.6161,99.7 +/- 0.9
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,CCR,0.8,5,51.66,2.2177,2.9873,43.3659,59.9541,52.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,MCC,0.8,5,0.0904,0.1221,0.1645,-0.3663,0.547,0.1 +/- 0.5
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,Bal-Acc,0.8,5,51.66,2.2177,2.9873,43.3659,59.9541,52.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Random Forest,F1,0.8,5,0.0639,0.0776,0.1045,-0.2261,0.3539,0.06 +/- 0.29
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,ROC-AUC,,5,0.7905,0.0687,0.0925,0.5337,1.0473,0.79 +/- 0.26
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,PR-AUC,,5,0.2412,0.1024,0.138,-0.1419,0.6244,0.2 +/- 0.4
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,Sensitivity,0.5,5,83.24,6.5744,8.8562,58.6513,107.8287,83.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,Specificity,0.5,5,55.9,9.5008,12.7982,20.3666,91.4334,60.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,CCR,0.5,5,69.6,4.9036,6.6054,51.2604,87.9396,70.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,MCC,0.5,5,0.1851,0.0428,0.0577,0.0249,0.3452,0.19 +/- 0.16
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,Bal-Acc,0.5,5,69.6,4.9036,6.6054,51.2604,87.9396,70.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,F1,0.5,5,0.1889,0.0372,0.0502,0.0496,0.3282,0.19 +/- 0.14
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,Sensitivity,0.8,5,47.1,11.0991,14.9512,5.5888,88.6112,50.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,Specificity,0.8,5,90.44,5.6562,7.6193,69.2854,111.5946,90.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,CCR,0.8,5,68.76,5.5518,7.4787,47.9958,89.5242,69.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,MCC,0.8,5,0.291,0.0951,0.1281,-0.0648,0.6468,0.3 +/- 0.4
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,Bal-Acc,0.8,5,68.76,5.5518,7.4787,47.9958,89.5242,69.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SVM,F1,0.8,5,0.3294,0.0914,0.1231,-0.0124,0.6711,0.3 +/- 0.3
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,ROC-AUC,,5,0.7414,0.0619,0.0833,0.5101,0.9727,0.74 +/- 0.23
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,PR-AUC,,5,0.2127,0.0512,0.069,0.0212,0.4041,0.21 +/- 0.19
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,Sensitivity,0.5,5,73.24,13.2171,17.8044,23.8072,122.6728,70.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,Specificity,0.5,5,63.06,4.9511,6.6694,44.5428,81.5772,63.0 +/- 19.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,CCR,0.5,5,68.14,6.7648,9.1127,42.8392,93.4408,68.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,MCC,0.5,5,0.1766,0.0744,0.1002,-0.1017,0.4549,0.18 +/- 0.28
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,Bal-Acc,0.5,5,68.14,6.7648,9.1127,42.8392,93.4408,68.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,F1,0.5,5,0.1933,0.0589,0.0794,-0.0271,0.4136,0.19 +/- 0.22
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,Sensitivity,0.8,5,53.6,13.7115,18.4703,2.3183,104.8817,50.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,Specificity,0.8,5,83.74,5.5293,7.4483,63.0602,104.4198,84.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,CCR,0.8,5,68.66,6.5048,8.7624,44.3315,92.9885,69.0 +/- 24.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,MCC,0.8,5,0.2312,0.0787,0.106,-0.063,0.5254,0.23 +/- 0.29
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,Bal-Acc,0.8,5,68.66,6.5048,8.7624,44.3315,92.9885,69.0 +/- 24.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),XGBoost,F1,0.8,5,0.2645,0.0638,0.0859,0.026,0.503,0.26 +/- 0.24
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,ROC-AUC,,5,0.7545,0.0294,0.0397,0.6443,0.8646,0.75 +/- 0.11
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,PR-AUC,,5,0.1573,0.0619,0.0834,-0.0741,0.3888,0.16 +/- 0.23
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,Sensitivity,0.5,5,78.6,11.6282,15.6639,35.1099,122.0901,80.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,Specificity,0.5,5,57.58,9.4711,12.7582,22.1575,93.0025,60.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,CCR,0.5,5,68.1,2.5298,3.4078,58.6383,77.5617,68.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,MCC,0.5,5,0.1747,0.0412,0.0555,0.0206,0.3288,0.17 +/- 0.15
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,Bal-Acc,0.5,5,68.1,2.5298,3.4078,58.6383,77.5617,68.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,F1,0.5,5,0.1855,0.0469,0.0632,0.0099,0.361,0.19 +/- 0.18
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,Sensitivity,0.8,5,51.38,7.9785,10.7476,21.5399,81.2201,50.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,Specificity,0.8,5,80.26,3.6308,4.891,66.6805,93.8395,80.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,CCR,0.8,5,65.86,2.6633,3.5876,55.8992,75.8208,65.9 +/- 10.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,MCC,0.8,5,0.1824,0.0424,0.0571,0.0238,0.341,0.18 +/- 0.16
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,Bal-Acc,0.8,5,65.86,2.6633,3.5876,55.8992,75.8208,65.9 +/- 10.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GCN,F1,0.8,5,0.2211,0.053,0.0714,0.023,0.4192,0.22 +/- 0.2
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,ROC-AUC,,5,0.7504,0.0328,0.0442,0.6278,0.873,0.75 +/- 0.12
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,PR-AUC,,5,0.1497,0.0436,0.0588,-0.0136,0.3129,0.15 +/- 0.16
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,Sensitivity,0.5,5,82.4,7.4314,10.0105,54.6064,110.1936,82.0 +/- 28.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,Specificity,0.5,5,54.22,8.5972,11.581,22.066,86.374,50.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,CCR,0.5,5,68.34,3.1895,4.2965,56.4111,80.2689,68.0 +/- 12.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,MCC,0.5,5,0.1759,0.0487,0.0656,-0.0062,0.3579,0.18 +/- 0.18
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,Bal-Acc,0.5,5,68.34,3.1895,4.2965,56.4111,80.2689,68.0 +/- 12.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,F1,0.5,5,0.1836,0.054,0.0727,-0.0183,0.3856,0.18 +/- 0.2
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,Sensitivity,0.8,5,38.84,19.7982,26.6694,-35.2062,112.8862,40.0 +/- 70.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,Specificity,0.8,5,86.66,7.3245,9.8665,59.2661,114.0539,87.0 +/- 27.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,CCR,0.8,5,62.74,6.8919,9.2838,36.964,88.516,63.0 +/- 26.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,MCC,0.8,5,0.1639,0.0693,0.0934,-0.0954,0.4231,0.16 +/- 0.26
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,Bal-Acc,0.8,5,62.74,6.8919,9.2838,36.964,88.516,63.0 +/- 26.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GAT,F1,0.8,5,0.2079,0.0573,0.0772,-0.0064,0.4222,0.21 +/- 0.21
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,ROC-AUC,,5,0.7421,0.0306,0.0412,0.6277,0.8566,0.74 +/- 0.11
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,PR-AUC,,5,0.1549,0.0533,0.0718,-0.0443,0.3542,0.15 +/- 0.2
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,Sensitivity,0.5,5,78.16,14.7468,19.8649,23.0062,133.3138,80.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,Specificity,0.5,5,55.48,14.9279,20.1088,-0.3511,111.3111,60.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,CCR,0.5,5,66.86,2.1663,2.9182,58.7578,74.9622,67.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,MCC,0.5,5,0.1653,0.0351,0.0473,0.0339,0.2966,0.17 +/- 0.13
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,Bal-Acc,0.5,5,66.86,2.1663,2.9182,58.7578,74.9622,67.0 +/- 8.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,F1,0.5,5,0.1801,0.0411,0.0554,0.0264,0.3338,0.18 +/- 0.15
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,Sensitivity,0.8,5,51.38,20.4688,27.5728,-25.1744,127.9344,50.0 +/- 80.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,Specificity,0.8,5,75.5,8.7761,11.822,42.6769,108.3231,80.0 +/- 30.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,CCR,0.8,5,63.46,6.56,8.8367,38.9254,87.9946,63.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,MCC,0.8,5,0.1459,0.0752,0.1013,-0.1353,0.4271,0.15 +/- 0.28
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,Bal-Acc,0.8,5,63.46,6.56,8.8367,38.9254,87.9946,63.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GIN,F1,0.8,5,0.1877,0.0663,0.0894,-0.0604,0.4358,0.19 +/- 0.25
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,ROC-AUC,,5,0.7529,0.0157,0.0212,0.6941,0.8117,0.75 +/- 0.06
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,PR-AUC,,5,0.1569,0.0391,0.0527,0.0107,0.3032,0.16 +/- 0.15
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,Sensitivity,0.5,5,76.1,7.5319,10.146,47.9302,104.2698,76.0 +/- 28.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,Specificity,0.5,5,59.92,6.0226,8.1129,37.3951,82.4449,60.0 +/- 23.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,CCR,0.5,5,67.98,1.8472,2.4882,61.0715,74.8885,68.0 +/- 7.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,MCC,0.5,5,0.1719,0.0297,0.04,0.0609,0.2828,0.17 +/- 0.11
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,Bal-Acc,0.5,5,67.98,1.8472,2.4882,61.0715,74.8885,68.0 +/- 7.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,F1,0.5,5,0.1865,0.0415,0.0559,0.0313,0.3417,0.19 +/- 0.16
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,Sensitivity,0.8,5,41.16,17.6845,23.8222,-24.9811,107.3011,40.0 +/- 70.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,Specificity,0.8,5,84.72,7.5906,10.225,56.3308,113.1092,85.0 +/- 28.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,CCR,0.8,5,62.92,5.4833,7.3864,42.412,83.428,63.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,MCC,0.8,5,0.1629,0.0327,0.0441,0.0405,0.2853,0.16 +/- 0.12
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,Bal-Acc,0.8,5,62.92,5.4833,7.3864,42.412,83.428,63.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),SAGE,F1,0.8,5,0.1992,0.0339,0.0457,0.0724,0.326,0.2 +/- 0.13
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,ROC-AUC,,5,0.7287,0.0293,0.0394,0.6193,0.8381,0.73 +/- 0.11
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,PR-AUC,,5,0.1509,0.0184,0.0247,0.0822,0.2196,0.15 +/- 0.07
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,Sensitivity,0.5,5,74.16,13.387,18.0332,24.0918,124.2282,70.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,Specificity,0.5,5,54.28,21.9847,29.6148,-27.9439,136.5039,50.0 +/- 80.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,CCR,0.5,5,64.22,4.8854,6.5809,45.9484,82.4916,64.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,MCC,0.5,5,0.1439,0.0416,0.056,-0.0116,0.2994,0.14 +/- 0.16
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,Bal-Acc,0.5,5,64.22,4.8854,6.5809,45.9484,82.4916,64.0 +/- 18.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,F1,0.5,5,0.1748,0.0214,0.0289,0.0946,0.255,0.17 +/- 0.08
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,Sensitivity,0.8,5,47.1,20.3186,27.3705,-28.8926,123.0926,50.0 +/- 80.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,Specificity,0.8,5,78.68,14.0455,18.9202,26.149,131.211,80.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,CCR,0.8,5,62.9,4.2977,5.7892,46.8265,78.9735,63.0 +/- 16.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,MCC,0.8,5,0.1553,0.0457,0.0615,-0.0156,0.3261,0.16 +/- 0.17
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,Bal-Acc,0.8,5,62.9,4.2977,5.7892,46.8265,78.9735,63.0 +/- 16.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Graphormer,F1,0.8,5,0.2022,0.0218,0.0294,0.1207,0.2837,0.2 +/- 0.08
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,ROC-AUC,,5,0.8033,0.0446,0.0601,0.6364,0.9702,0.8 +/- 0.17
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,PR-AUC,,5,0.222,0.069,0.0929,-0.036,0.48,0.22 +/- 0.26
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,Sensitivity,0.5,5,87.18,11.5729,15.5894,43.8968,130.4632,90.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,Specificity,0.5,5,49.28,25.1376,33.8619,-44.7358,143.2958,50.0 +/- 90.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,CCR,0.5,5,68.24,6.8635,9.2456,42.5701,93.9099,68.0 +/- 26.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,MCC,0.5,5,0.1878,0.0651,0.0877,-0.0558,0.4314,0.19 +/- 0.24
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,Bal-Acc,0.5,5,68.24,6.8635,9.2456,42.5701,93.9099,68.0 +/- 26.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,F1,0.5,5,0.1925,0.0618,0.0832,-0.0386,0.4236,0.19 +/- 0.23
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,Sensitivity,0.8,5,78.6,16.388,22.0756,17.3082,139.8918,80.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,Specificity,0.8,5,60.32,23.9021,32.1977,-29.0752,149.7152,60.0 +/- 90.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,CCR,0.8,5,69.44,4.2934,5.7834,53.3826,85.4974,69.0 +/- 16.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,MCC,0.8,5,0.2116,0.0634,0.0853,-0.0254,0.4485,0.21 +/- 0.24
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,Bal-Acc,0.8,5,69.44,4.2934,5.7834,53.3826,85.4974,69.0 +/- 16.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),GraphGPS,F1,0.8,5,0.2221,0.0671,0.0904,-0.0289,0.4731,0.22 +/- 0.25
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,ROC-AUC,,5,0.7072,0.0441,0.0594,0.5424,0.872,0.71 +/- 0.16
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,PR-AUC,,5,0.1525,0.0404,0.0544,0.0013,0.3036,0.15 +/- 0.15
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,Sensitivity,0.5,5,74.36,13.7551,18.529,22.9152,125.8048,70.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,Specificity,0.5,5,56.22,15.1904,20.4624,-0.5927,113.0327,60.0 +/- 60.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,CCR,0.5,5,65.28,5.7417,7.7344,43.8058,86.7542,65.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,MCC,0.5,5,0.1502,0.0601,0.0809,-0.0744,0.3748,0.15 +/- 0.22
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,Bal-Acc,0.5,5,65.28,5.7417,7.7344,43.8058,86.7542,65.0 +/- 21.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,F1,0.5,5,0.1754,0.0513,0.0691,-0.0166,0.3674,0.18 +/- 0.19
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,Sensitivity,0.8,5,28.56,14.3773,19.3672,-25.212,82.332,30.0 +/- 50.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,Specificity,0.8,5,91.28,2.8831,3.8837,80.4972,102.0628,91.0 +/- 11.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,CCR,0.8,5,59.94,6.698,9.0226,34.8892,84.9908,60.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,MCC,0.8,5,0.1478,0.0788,0.1061,-0.1468,0.4424,0.15 +/- 0.29
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,Bal-Acc,0.8,5,59.94,6.698,9.0226,34.8892,84.9908,60.0 +/- 25.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross,F1,0.8,5,0.1988,0.0622,0.0837,-0.0337,0.4312,0.2 +/- 0.23
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,ROC-AUC,,5,0.8007,0.029,0.039,0.6923,0.909,0.8 +/- 0.11
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,PR-AUC,,5,0.2797,0.0568,0.0765,0.0672,0.4921,0.28 +/- 0.21
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,Sensitivity,0.5,5,84.96,10.3162,13.8965,46.3771,123.5429,80.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,Specificity,0.5,5,58.26,11.8285,15.9337,14.0209,102.4991,60.0 +/- 40.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,CCR,0.5,5,71.6,3.3226,4.4758,59.1731,84.0269,72.0 +/- 12.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,MCC,0.5,5,0.2084,0.0365,0.0492,0.072,0.3449,0.21 +/- 0.14
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,Bal-Acc,0.5,5,71.6,3.3226,4.4758,59.1731,84.0269,72.0 +/- 12.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,F1,0.5,5,0.2027,0.0365,0.0492,0.0661,0.3393,0.2 +/- 0.14
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,Sensitivity,0.8,5,29.96,7.4184,9.9931,2.2147,57.7053,30.0 +/- 28.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,Specificity,0.8,5,93.86,2.5076,3.3779,84.4815,103.2385,94.0 +/- 9.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,CCR,0.8,5,61.88,3.6955,4.9781,48.0585,75.7015,62.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,MCC,0.8,5,0.22,0.0755,0.1017,-0.0623,0.5022,0.22 +/- 0.28
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,Bal-Acc,0.8,5,61.88,3.6955,4.9781,48.0585,75.7015,62.0 +/- 14.0
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus,F1,0.8,5,0.2697,0.0722,0.0973,-0.0005,0.5398,0.27 +/- 0.27
+AID_1347037,LOO (10-fold),Random Forest,ROC-AUC,,10,0.7769,0.0895,0.1508,0.4357,1.1181,0.8 +/- 0.3
+AID_1347037,LOO (10-fold),Random Forest,PR-AUC,,10,0.177,0.0504,0.0849,-0.0151,0.3692,0.18 +/- 0.19
+AID_1347037,LOO (10-fold),Random Forest,Sensitivity,0.5,10,63.15,16.4446,27.7118,0.4616,125.8384,60.0 +/- 60.0
+AID_1347037,LOO (10-fold),Random Forest,Specificity,0.5,10,78.34,2.57,4.3309,68.5429,88.1371,78.0 +/- 10.0
+AID_1347037,LOO (10-fold),Random Forest,CCR,0.5,10,70.74,8.006,13.4914,40.2204,101.2596,70.0 +/- 30.0
+AID_1347037,LOO (10-fold),Random Forest,MCC,0.5,10,0.1482,0.0565,0.0952,-0.0671,0.3636,0.15 +/- 0.22
+AID_1347037,LOO (10-fold),Random Forest,Bal-Acc,0.5,10,70.74,8.006,13.4914,40.2204,101.2596,70.0 +/- 30.0
+AID_1347037,LOO (10-fold),Random Forest,F1,0.5,10,0.1159,0.0286,0.0481,0.007,0.2247,0.12 +/- 0.11
+AID_1347037,LOO (10-fold),Random Forest,Sensitivity,0.8,10,16.91,5.6783,9.5689,-4.7363,38.5563,17.0 +/- 22.0
+AID_1347037,LOO (10-fold),Random Forest,Specificity,0.8,10,98.93,0.3129,0.5272,97.7373,100.1227,98.9 +/- 1.2
+AID_1347037,LOO (10-fold),Random Forest,CCR,0.8,10,57.92,2.907,4.8988,46.8382,69.0018,58.0 +/- 11.0
+AID_1347037,LOO (10-fold),Random Forest,MCC,0.8,10,0.2014,0.0786,0.1325,-0.0983,0.5011,0.2 +/- 0.3
+AID_1347037,LOO (10-fold),Random Forest,Bal-Acc,0.8,10,57.92,2.907,4.8988,46.8382,69.0018,58.0 +/- 11.0
+AID_1347037,LOO (10-fold),Random Forest,F1,0.8,10,0.2085,0.0735,0.1238,-0.0717,0.4886,0.21 +/- 0.28
+AID_1347037,LOO (10-fold),SVM,ROC-AUC,,10,0.7855,0.0825,0.139,0.4711,1.0999,0.8 +/- 0.3
+AID_1347037,LOO (10-fold),SVM,PR-AUC,,10,0.1631,0.0648,0.1092,-0.0839,0.4102,0.16 +/- 0.25
+AID_1347037,LOO (10-fold),SVM,Sensitivity,0.5,10,71.9,14.1315,23.8139,18.0292,125.7708,70.0 +/- 50.0
+AID_1347037,LOO (10-fold),SVM,Specificity,0.5,10,70.8,1.8227,3.0715,63.8517,77.7483,71.0 +/- 7.0
+AID_1347037,LOO (10-fold),SVM,CCR,0.5,10,71.36,7.1419,12.0353,44.1343,98.5857,71.0 +/- 27.0
+AID_1347037,LOO (10-fold),SVM,MCC,0.5,10,0.139,0.0465,0.0784,-0.0383,0.3164,0.14 +/- 0.18
+AID_1347037,LOO (10-fold),SVM,Bal-Acc,0.5,10,71.36,7.1419,12.0353,44.1343,98.5857,71.0 +/- 27.0
+AID_1347037,LOO (10-fold),SVM,F1,0.5,10,0.1012,0.0201,0.0338,0.0248,0.1776,0.1 +/- 0.08
+AID_1347037,LOO (10-fold),SVM,Sensitivity,0.8,10,27.34,11.7787,19.849,-17.5616,72.2416,30.0 +/- 40.0
+AID_1347037,LOO (10-fold),SVM,Specificity,0.8,10,96.9,1.6526,2.7849,90.6001,103.1999,97.0 +/- 6.0
+AID_1347037,LOO (10-fold),SVM,CCR,0.8,10,62.12,5.198,8.7595,42.3046,81.9354,62.0 +/- 20.0
+AID_1347037,LOO (10-fold),SVM,MCC,0.8,10,0.1943,0.0488,0.0822,0.0084,0.3801,0.19 +/- 0.19
+AID_1347037,LOO (10-fold),SVM,Bal-Acc,0.8,10,62.12,5.198,8.7595,42.3046,81.9354,62.0 +/- 20.0
+AID_1347037,LOO (10-fold),SVM,F1,0.8,10,0.2064,0.0445,0.075,0.0367,0.3761,0.21 +/- 0.17
+AID_1347037,LOO (10-fold),XGBoost,ROC-AUC,,10,0.7518,0.0713,0.1202,0.4798,1.0237,0.75 +/- 0.27
+AID_1347037,LOO (10-fold),XGBoost,PR-AUC,,10,0.1381,0.0849,0.1431,-0.1856,0.4617,0.1 +/- 0.3
+AID_1347037,LOO (10-fold),XGBoost,Sensitivity,0.5,10,69.55,8.8331,14.8851,35.8775,103.2225,70.0 +/- 30.0
+AID_1347037,LOO (10-fold),XGBoost,Specificity,0.5,10,70.84,3.5062,5.9086,57.4738,84.2062,71.0 +/- 13.0
+AID_1347037,LOO (10-fold),XGBoost,CCR,0.5,10,70.19,4.6848,7.8947,52.331,88.049,70.0 +/- 18.0
+AID_1347037,LOO (10-fold),XGBoost,MCC,0.5,10,0.1322,0.0316,0.0532,0.0119,0.2526,0.13 +/- 0.12
+AID_1347037,LOO (10-fold),XGBoost,Bal-Acc,0.5,10,70.19,4.6848,7.8947,52.331,88.049,70.0 +/- 18.0
+AID_1347037,LOO (10-fold),XGBoost,F1,0.5,10,0.0989,0.0149,0.0251,0.0421,0.1557,0.1 +/- 0.06
+AID_1347037,LOO (10-fold),XGBoost,Sensitivity,0.8,10,44.99,9.9691,16.7996,6.9868,82.9932,40.0 +/- 40.0
+AID_1347037,LOO (10-fold),XGBoost,Specificity,0.8,10,88.64,5.1123,8.6151,69.1513,108.1287,89.0 +/- 19.0
+AID_1347037,LOO (10-fold),XGBoost,CCR,0.8,10,66.81,6.3633,10.7233,42.5523,91.0677,67.0 +/- 24.0
+AID_1347037,LOO (10-fold),XGBoost,MCC,0.8,10,0.1688,0.0827,0.1394,-0.1465,0.484,0.2 +/- 0.3
+AID_1347037,LOO (10-fold),XGBoost,Bal-Acc,0.8,10,66.81,6.3633,10.7233,42.5523,91.0677,67.0 +/- 24.0
+AID_1347037,LOO (10-fold),XGBoost,F1,0.8,10,0.1619,0.0719,0.1211,-0.1122,0.4359,0.16 +/- 0.27
+AID_1347037,LOO (10-fold),GCN,ROC-AUC,,10,0.7725,0.0461,0.0777,0.5967,0.9482,0.77 +/- 0.18
+AID_1347037,LOO (10-fold),GCN,PR-AUC,,10,0.0781,0.0186,0.0313,0.0074,0.1488,0.08 +/- 0.07
+AID_1347037,LOO (10-fold),GCN,Sensitivity,0.5,10,73.8,13.2395,22.3107,23.3297,124.2703,70.0 +/- 50.0
+AID_1347037,LOO (10-fold),GCN,Specificity,0.5,10,64.2,10.719,18.0633,23.338,105.062,60.0 +/- 40.0
+AID_1347037,LOO (10-fold),GCN,CCR,0.5,10,69.02,6.5355,11.0134,44.106,93.934,69.0 +/- 25.0
+AID_1347037,LOO (10-fold),GCN,MCC,0.5,10,0.1213,0.0439,0.074,-0.0461,0.2886,0.12 +/- 0.17
+AID_1347037,LOO (10-fold),GCN,Bal-Acc,0.5,10,69.02,6.5355,11.0134,44.106,93.934,69.0 +/- 25.0
+AID_1347037,LOO (10-fold),GCN,F1,0.5,10,0.0902,0.0221,0.0373,0.0058,0.1745,0.09 +/- 0.08
+AID_1347037,LOO (10-fold),GCN,Sensitivity,0.8,10,40.39,20.9055,35.2292,-39.3039,120.0839,40.0 +/- 80.0
+AID_1347037,LOO (10-fold),GCN,Specificity,0.8,10,87.76,8.0182,13.512,57.1938,118.3262,90.0 +/- 30.0
+AID_1347037,LOO (10-fold),GCN,CCR,0.8,10,64.09,7.039,11.8619,37.2566,90.9234,64.0 +/- 27.0
+AID_1347037,LOO (10-fold),GCN,MCC,0.8,10,0.128,0.0439,0.074,-0.0394,0.2954,0.13 +/- 0.17
+AID_1347037,LOO (10-fold),GCN,Bal-Acc,0.8,10,64.09,7.039,11.8619,37.2566,90.9234,64.0 +/- 27.0
+AID_1347037,LOO (10-fold),GCN,F1,0.8,10,0.1232,0.0291,0.049,0.0123,0.2341,0.12 +/- 0.11
+AID_1347037,LOO (10-fold),GAT,ROC-AUC,,10,0.7493,0.0468,0.0788,0.571,0.9277,0.75 +/- 0.18
+AID_1347037,LOO (10-fold),GAT,PR-AUC,,10,0.0737,0.0151,0.0255,0.016,0.1313,0.07 +/- 0.06
+AID_1347037,LOO (10-fold),GAT,Sensitivity,0.5,10,68.95,11.5692,19.496,24.8469,113.0531,70.0 +/- 40.0
+AID_1347037,LOO (10-fold),GAT,Specificity,0.5,10,66.75,8.6926,14.6484,33.6131,99.8869,70.0 +/- 30.0
+AID_1347037,LOO (10-fold),GAT,CCR,0.5,10,67.86,4.6905,7.9042,49.9795,85.7405,68.0 +/- 18.0
+AID_1347037,LOO (10-fold),GAT,MCC,0.5,10,0.1153,0.0319,0.0538,-0.0063,0.237,0.12 +/- 0.12
+AID_1347037,LOO (10-fold),GAT,Bal-Acc,0.5,10,67.86,4.6905,7.9042,49.9795,85.7405,68.0 +/- 18.0
+AID_1347037,LOO (10-fold),GAT,F1,0.5,10,0.0894,0.0175,0.0295,0.0226,0.1562,0.09 +/- 0.07
+AID_1347037,LOO (10-fold),GAT,Sensitivity,0.8,10,32.8,14.5209,24.47,-22.555,88.155,30.0 +/- 60.0
+AID_1347037,LOO (10-fold),GAT,Specificity,0.8,10,88.83,5.8867,9.9201,66.3893,111.2707,89.0 +/- 22.0
+AID_1347037,LOO (10-fold),GAT,CCR,0.8,10,60.8,5.1487,8.6763,41.1727,80.4273,61.0 +/- 20.0
+AID_1347037,LOO (10-fold),GAT,MCC,0.8,10,0.101,0.0404,0.068,-0.0529,0.2549,0.1 +/- 0.15
+AID_1347037,LOO (10-fold),GAT,Bal-Acc,0.8,10,60.8,5.1487,8.6763,41.1727,80.4273,61.0 +/- 20.0
+AID_1347037,LOO (10-fold),GAT,F1,0.8,10,0.1056,0.0298,0.0502,-0.008,0.2193,0.11 +/- 0.11
+AID_1347037,LOO (10-fold),GIN,ROC-AUC,,10,0.7877,0.0496,0.0835,0.5988,0.9766,0.79 +/- 0.19
+AID_1347037,LOO (10-fold),GIN,PR-AUC,,10,0.0812,0.0216,0.0364,-0.001,0.1635,0.08 +/- 0.08
+AID_1347037,LOO (10-fold),GIN,Sensitivity,0.5,10,74.27,7.5198,12.672,45.6039,102.9361,74.0 +/- 29.0
+AID_1347037,LOO (10-fold),GIN,Specificity,0.5,10,70.82,9.1105,15.3527,36.0898,105.5502,70.0 +/- 30.0
+AID_1347037,LOO (10-fold),GIN,CCR,0.5,10,72.53,4.4565,7.5099,55.5415,89.5185,73.0 +/- 17.0
+AID_1347037,LOO (10-fold),GIN,MCC,0.5,10,0.1514,0.0352,0.0593,0.0171,0.2856,0.15 +/- 0.13
+AID_1347037,LOO (10-fold),GIN,Bal-Acc,0.5,10,72.53,4.4565,7.5099,55.5415,89.5185,73.0 +/- 17.0
+AID_1347037,LOO (10-fold),GIN,F1,0.5,10,0.1097,0.0232,0.0391,0.0213,0.1981,0.11 +/- 0.09
+AID_1347037,LOO (10-fold),GIN,Sensitivity,0.8,10,39.8,20.5719,34.667,-38.6222,118.2222,40.0 +/- 80.0
+AID_1347037,LOO (10-fold),GIN,Specificity,0.8,10,86.19,7.6233,12.8464,57.1293,115.2507,86.0 +/- 29.0
+AID_1347037,LOO (10-fold),GIN,CCR,0.8,10,62.99,7.72,13.0095,33.5605,92.4195,63.0 +/- 29.0
+AID_1347037,LOO (10-fold),GIN,MCC,0.8,10,0.1086,0.0569,0.0959,-0.1083,0.3256,0.11 +/- 0.22
+AID_1347037,LOO (10-fold),GIN,Bal-Acc,0.8,10,62.99,7.72,13.0095,33.5605,92.4195,63.0 +/- 29.0
+AID_1347037,LOO (10-fold),GIN,F1,0.8,10,0.1039,0.0363,0.0612,-0.0346,0.2424,0.1 +/- 0.14
+AID_1347037,LOO (10-fold),SAGE,ROC-AUC,,10,0.7562,0.037,0.0624,0.6151,0.8973,0.76 +/- 0.14
+AID_1347037,LOO (10-fold),SAGE,PR-AUC,,10,0.0695,0.0182,0.0307,0.0,0.139,0.07 +/- 0.07
+AID_1347037,LOO (10-fold),SAGE,Sensitivity,0.5,10,77.2,9.7818,16.484,39.9107,114.4893,80.0 +/- 40.0
+AID_1347037,LOO (10-fold),SAGE,Specificity,0.5,10,63.61,9.5076,16.0218,27.3661,99.8539,60.0 +/- 40.0
+AID_1347037,LOO (10-fold),SAGE,CCR,0.5,10,70.39,4.238,7.1418,54.2342,86.5458,70.0 +/- 16.0
+AID_1347037,LOO (10-fold),SAGE,MCC,0.5,10,0.129,0.0302,0.051,0.0138,0.2443,0.13 +/- 0.12
+AID_1347037,LOO (10-fold),SAGE,Bal-Acc,0.5,10,70.39,4.238,7.1418,54.2342,86.5458,70.0 +/- 16.0
+AID_1347037,LOO (10-fold),SAGE,F1,0.5,10,0.0919,0.018,0.0304,0.0232,0.1606,0.09 +/- 0.07
+AID_1347037,LOO (10-fold),SAGE,Sensitivity,0.8,10,41.49,20.3869,34.3552,-36.2268,119.2068,40.0 +/- 80.0
+AID_1347037,LOO (10-fold),SAGE,Specificity,0.8,10,86.64,5.9161,9.9696,64.0872,109.1928,87.0 +/- 23.0
+AID_1347037,LOO (10-fold),SAGE,CCR,0.8,10,64.06,7.8073,13.1565,34.2978,93.8222,60.0 +/- 30.0
+AID_1347037,LOO (10-fold),SAGE,MCC,0.8,10,0.1173,0.061,0.1028,-0.1151,0.3498,0.12 +/- 0.23
+AID_1347037,LOO (10-fold),SAGE,Bal-Acc,0.8,10,64.06,7.8073,13.1565,34.2978,93.8222,60.0 +/- 30.0
+AID_1347037,LOO (10-fold),SAGE,F1,0.8,10,0.1104,0.0397,0.0669,-0.0408,0.2616,0.11 +/- 0.15
+AID_1347037,LOO (10-fold),Graphormer,ROC-AUC,,10,0.7233,0.0589,0.0992,0.499,0.9477,0.72 +/- 0.22
+AID_1347037,LOO (10-fold),Graphormer,PR-AUC,,10,0.0597,0.0163,0.0274,-0.0024,0.1217,0.06 +/- 0.06
+AID_1347037,LOO (10-fold),Graphormer,Sensitivity,0.5,10,73.07,13.1193,22.1081,23.058,123.082,70.0 +/- 50.0
+AID_1347037,LOO (10-fold),Graphormer,Specificity,0.5,10,58.6,8.8702,14.9477,24.786,92.414,60.0 +/- 30.0
+AID_1347037,LOO (10-fold),Graphormer,CCR,0.5,10,65.83,4.1473,6.9889,50.0201,81.6399,66.0 +/- 16.0
+AID_1347037,LOO (10-fold),Graphormer,MCC,0.5,10,0.0971,0.0256,0.0431,-0.0003,0.1946,0.1 +/- 0.1
+AID_1347037,LOO (10-fold),Graphormer,Bal-Acc,0.5,10,65.83,4.1473,6.9889,50.0201,81.6399,66.0 +/- 16.0
+AID_1347037,LOO (10-fold),Graphormer,F1,0.5,10,0.0757,0.0103,0.0173,0.0365,0.115,0.08 +/- 0.04
+AID_1347037,LOO (10-fold),Graphormer,Sensitivity,0.8,10,29.71,26.3841,44.4614,-70.8686,130.2886,30.0 +/- 100.0
+AID_1347037,LOO (10-fold),Graphormer,Specificity,0.8,10,90.07,8.3061,13.9971,58.4063,121.7337,90.0 +/- 30.0
+AID_1347037,LOO (10-fold),Graphormer,CCR,0.8,10,59.88,9.3997,15.8401,24.0473,95.7127,60.0 +/- 40.0
+AID_1347037,LOO (10-fold),Graphormer,MCC,0.8,10,0.0854,0.0712,0.12,-0.186,0.3567,0.09 +/- 0.27
+AID_1347037,LOO (10-fold),Graphormer,Bal-Acc,0.8,10,59.88,9.3997,15.8401,24.0473,95.7127,60.0 +/- 40.0
+AID_1347037,LOO (10-fold),Graphormer,F1,0.8,10,0.0832,0.053,0.0893,-0.1189,0.2853,0.08 +/- 0.2
+AID_1347037,LOO (10-fold),GraphGPS,ROC-AUC,,10,0.7891,0.0353,0.0595,0.6545,0.9236,0.79 +/- 0.13
+AID_1347037,LOO (10-fold),GraphGPS,PR-AUC,,10,0.0934,0.0258,0.0434,-0.0049,0.1916,0.09 +/- 0.1
+AID_1347037,LOO (10-fold),GraphGPS,Sensitivity,0.5,10,81.27,12.9541,21.8298,31.8877,130.6523,80.0 +/- 50.0
+AID_1347037,LOO (10-fold),GraphGPS,Specificity,0.5,10,59.27,11.5887,19.5288,15.0928,103.4472,60.0 +/- 40.0
+AID_1347037,LOO (10-fold),GraphGPS,CCR,0.5,10,70.29,4.4001,7.4149,53.5163,87.0637,70.0 +/- 17.0
+AID_1347037,LOO (10-fold),GraphGPS,MCC,0.5,10,0.1271,0.0317,0.0534,0.0063,0.2479,0.13 +/- 0.12
+AID_1347037,LOO (10-fold),GraphGPS,Bal-Acc,0.5,10,70.29,4.4001,7.4149,53.5163,87.0637,70.0 +/- 17.0
+AID_1347037,LOO (10-fold),GraphGPS,F1,0.5,10,0.0883,0.0205,0.0345,0.0101,0.1664,0.09 +/- 0.08
+AID_1347037,LOO (10-fold),GraphGPS,Sensitivity,0.8,10,61.9,24.1614,40.7159,-30.2058,154.0058,60.0 +/- 90.0
+AID_1347037,LOO (10-fold),GraphGPS,Specificity,0.8,10,75.74,14.179,23.8938,21.6884,129.7916,80.0 +/- 50.0
+AID_1347037,LOO (10-fold),GraphGPS,CCR,0.8,10,68.8,6.9513,11.714,42.3011,95.2989,69.0 +/- 26.0
+AID_1347037,LOO (10-fold),GraphGPS,MCC,0.8,10,0.1335,0.0585,0.0986,-0.0896,0.3566,0.13 +/- 0.22
+AID_1347037,LOO (10-fold),GraphGPS,Bal-Acc,0.8,10,68.8,6.9513,11.714,42.3011,95.2989,69.0 +/- 26.0
+AID_1347037,LOO (10-fold),GraphGPS,F1,0.8,10,0.1041,0.0487,0.0821,-0.0816,0.2898,0.1 +/- 0.19
+AID_1347037,LOO (10-fold),MV-GNN-cross,ROC-AUC,,10,0.7488,0.0205,0.0346,0.6706,0.827,0.75 +/- 0.08
+AID_1347037,LOO (10-fold),MV-GNN-cross,PR-AUC,,10,0.102,0.0539,0.0908,-0.1035,0.3075,0.1 +/- 0.21
+AID_1347037,LOO (10-fold),MV-GNN-cross,Sensitivity,0.5,10,61.8,19.5171,32.8894,-12.6009,136.2009,60.0 +/- 70.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,Specificity,0.5,10,71.26,13.8997,23.4233,18.2728,124.2472,70.0 +/- 50.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,CCR,0.5,10,66.54,4.0219,6.7776,51.208,81.872,67.0 +/- 15.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,MCC,0.5,10,0.1146,0.0212,0.0358,0.0337,0.1955,0.11 +/- 0.08
+AID_1347037,LOO (10-fold),MV-GNN-cross,Bal-Acc,0.5,10,66.54,4.0219,6.7776,51.208,81.872,67.0 +/- 15.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,F1,0.5,10,0.0946,0.0191,0.0322,0.0216,0.1675,0.09 +/- 0.07
+AID_1347037,LOO (10-fold),MV-GNN-cross,Sensitivity,0.8,10,20.46,20.966,35.331,-59.4643,100.3843,20.0 +/- 80.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,Specificity,0.8,10,94.24,6.2174,10.4773,70.5387,117.9413,94.0 +/- 24.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,CCR,0.8,10,57.35,7.5366,12.7004,28.6197,86.0803,57.0 +/- 29.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,MCC,0.8,10,0.0842,0.0562,0.0947,-0.1299,0.2984,0.08 +/- 0.21
+AID_1347037,LOO (10-fold),MV-GNN-cross,Bal-Acc,0.8,10,57.35,7.5366,12.7004,28.6197,86.0803,57.0 +/- 29.0
+AID_1347037,LOO (10-fold),MV-GNN-cross,F1,0.8,10,0.0941,0.0467,0.0787,-0.0839,0.2721,0.09 +/- 0.18
+AID_1347037,LOO (10-fold),Consensus,ROC-AUC,,10,0.817,0.0414,0.0698,0.6592,0.9748,0.82 +/- 0.16
+AID_1347037,LOO (10-fold),Consensus,PR-AUC,,10,0.1813,0.062,0.1044,-0.055,0.4175,0.18 +/- 0.24
+AID_1347037,LOO (10-fold),Consensus,Sensitivity,0.5,10,78.91,10.4726,17.6479,38.9876,118.8324,80.0 +/- 40.0
+AID_1347037,LOO (10-fold),Consensus,Specificity,0.5,10,68.83,5.849,9.8566,46.5329,91.1271,69.0 +/- 22.0
+AID_1347037,LOO (10-fold),Consensus,CCR,0.5,10,73.87,4.7034,7.926,55.94,91.8,74.0 +/- 18.0
+AID_1347037,LOO (10-fold),Consensus,MCC,0.5,10,0.1543,0.0329,0.0554,0.029,0.2796,0.15 +/- 0.13
+AID_1347037,LOO (10-fold),Consensus,Bal-Acc,0.5,10,73.87,4.7034,7.926,55.94,91.8,74.0 +/- 18.0
+AID_1347037,LOO (10-fold),Consensus,F1,0.5,10,0.1061,0.0181,0.0306,0.037,0.1752,0.11 +/- 0.07
+AID_1347037,LOO (10-fold),Consensus,Sensitivity,0.8,10,28.66,10.9172,18.3972,-12.9574,70.2774,30.0 +/- 40.0
+AID_1347037,LOO (10-fold),Consensus,Specificity,0.8,10,96.9,1.5261,2.5717,91.0825,102.7175,97.0 +/- 6.0
+AID_1347037,LOO (10-fold),Consensus,CCR,0.8,10,62.79,5.2535,8.8529,42.7633,82.8167,63.0 +/- 20.0
+AID_1347037,LOO (10-fold),Consensus,MCC,0.8,10,0.2102,0.0842,0.1418,-0.1106,0.531,0.2 +/- 0.3
+AID_1347037,LOO (10-fold),Consensus,Bal-Acc,0.8,10,62.79,5.2535,8.8529,42.7633,82.8167,63.0 +/- 20.0
+AID_1347037,LOO (10-fold),Consensus,F1,0.8,10,0.2236,0.0804,0.1355,-0.083,0.5302,0.2 +/- 0.3
+AID_1347037,Scaffold (5-repeat),Random Forest,ROC-AUC,,5,0.646,0.0553,0.0948,0.3828,0.9093,0.65 +/- 0.26
+AID_1347037,Scaffold (5-repeat),Random Forest,PR-AUC,,5,0.1145,0.0398,0.0683,-0.075,0.3041,0.11 +/- 0.19
+AID_1347037,Scaffold (5-repeat),Random Forest,Sensitivity,0.5,5,45.28,21.3253,36.5638,-56.2373,146.7973,50.0 +/- 100.0
+AID_1347037,Scaffold (5-repeat),Random Forest,Specificity,0.5,5,75.98,7.8465,13.4533,38.6275,113.3325,80.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),Random Forest,CCR,0.5,5,60.62,7.2199,12.3791,26.2502,94.9898,60.0 +/- 30.0
+AID_1347037,Scaffold (5-repeat),Random Forest,MCC,0.5,5,0.0867,0.044,0.0754,-0.1226,0.2961,0.09 +/- 0.21
+AID_1347037,Scaffold (5-repeat),Random Forest,Bal-Acc,0.5,5,60.62,7.2199,12.3791,26.2502,94.9898,60.0 +/- 30.0
+AID_1347037,Scaffold (5-repeat),Random Forest,F1,0.5,5,0.1087,0.0221,0.0379,0.0035,0.2139,0.11 +/- 0.11
+AID_1347037,Scaffold (5-repeat),Random Forest,Sensitivity,0.8,5,2.98,3.7158,6.371,-14.7087,20.6687,3.0 +/- 18.0
+AID_1347037,Scaffold (5-repeat),Random Forest,Specificity,0.8,5,99.84,0.305,0.5229,98.3883,101.2917,99.8 +/- 1.5
+AID_1347037,Scaffold (5-repeat),Random Forest,CCR,0.8,5,51.42,1.9018,3.2608,42.3664,60.4736,51.0 +/- 9.0
+AID_1347037,Scaffold (5-repeat),Random Forest,MCC,0.8,5,0.1114,0.1129,0.1935,-0.426,0.6487,0.1 +/- 0.5
+AID_1347037,Scaffold (5-repeat),Random Forest,Bal-Acc,0.8,5,51.42,1.9018,3.2608,42.3664,60.4736,51.0 +/- 9.0
+AID_1347037,Scaffold (5-repeat),Random Forest,F1,0.8,5,0.0545,0.0653,0.112,-0.2565,0.3656,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),SVM,ROC-AUC,,5,0.6709,0.0733,0.1257,0.3219,1.0198,0.7 +/- 0.3
+AID_1347037,Scaffold (5-repeat),SVM,PR-AUC,,5,0.1437,0.1054,0.1807,-0.3581,0.6455,0.1 +/- 0.5
+AID_1347037,Scaffold (5-repeat),SVM,Sensitivity,0.5,5,67.5,13.6068,23.3299,2.7259,132.2741,70.0 +/- 60.0
+AID_1347037,Scaffold (5-repeat),SVM,Specificity,0.5,5,60.0,8.544,14.6493,19.3269,100.6731,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),SVM,CCR,0.5,5,63.72,4.7214,8.0953,41.2439,86.1961,64.0 +/- 22.0
+AID_1347037,Scaffold (5-repeat),SVM,MCC,0.5,5,0.105,0.037,0.0635,-0.0712,0.2812,0.1 +/- 0.18
+AID_1347037,Scaffold (5-repeat),SVM,Bal-Acc,0.5,5,63.72,4.7214,8.0953,41.2439,86.1961,64.0 +/- 22.0
+AID_1347037,Scaffold (5-repeat),SVM,F1,0.5,5,0.1106,0.0343,0.0588,-0.0527,0.2739,0.11 +/- 0.16
+AID_1347037,Scaffold (5-repeat),SVM,Sensitivity,0.8,5,10.42,9.2627,15.8815,-33.6742,54.5142,10.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),SVM,Specificity,0.8,5,97.74,2.0032,3.4347,88.2037,107.2763,98.0 +/- 10.0
+AID_1347037,Scaffold (5-repeat),SVM,CCR,0.8,5,54.1,4.7165,8.0867,31.6477,76.5523,54.0 +/- 22.0
+AID_1347037,Scaffold (5-repeat),SVM,MCC,0.8,5,0.1043,0.133,0.2281,-0.5291,0.7376,0.1 +/- 0.6
+AID_1347037,Scaffold (5-repeat),SVM,Bal-Acc,0.8,5,54.1,4.7165,8.0867,31.6477,76.5523,54.0 +/- 22.0
+AID_1347037,Scaffold (5-repeat),SVM,F1,0.8,5,0.1198,0.1211,0.2077,-0.4568,0.6965,0.1 +/- 0.6
+AID_1347037,Scaffold (5-repeat),XGBoost,ROC-AUC,,5,0.6337,0.0923,0.1583,0.1942,1.0732,0.6 +/- 0.4
+AID_1347037,Scaffold (5-repeat),XGBoost,PR-AUC,,5,0.0729,0.0207,0.0355,-0.0257,0.1716,0.07 +/- 0.1
+AID_1347037,Scaffold (5-repeat),XGBoost,Sensitivity,0.5,5,55.12,21.9701,37.6694,-49.4671,159.7071,60.0 +/- 100.0
+AID_1347037,Scaffold (5-repeat),XGBoost,Specificity,0.5,5,65.54,5.6629,9.7094,38.5824,92.4976,66.0 +/- 27.0
+AID_1347037,Scaffold (5-repeat),XGBoost,CCR,0.5,5,60.3,9.2415,15.8452,16.3066,104.2934,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),XGBoost,MCC,0.5,5,0.0753,0.0593,0.1017,-0.2069,0.3575,0.08 +/- 0.28
+AID_1347037,Scaffold (5-repeat),XGBoost,Bal-Acc,0.5,5,60.3,9.2415,15.8452,16.3066,104.2934,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),XGBoost,F1,0.5,5,0.0974,0.0204,0.035,0.0004,0.1945,0.1 +/- 0.1
+AID_1347037,Scaffold (5-repeat),XGBoost,Sensitivity,0.8,5,28.52,11.4877,19.6965,-26.1663,83.2063,30.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),XGBoost,Specificity,0.8,5,87.32,1.1777,2.0193,81.7136,92.9264,87.0 +/- 6.0
+AID_1347037,Scaffold (5-repeat),XGBoost,CCR,0.8,5,57.92,5.1563,8.8408,33.374,82.466,58.0 +/- 25.0
+AID_1347037,Scaffold (5-repeat),XGBoost,MCC,0.8,5,0.0819,0.0446,0.0765,-0.1306,0.2943,0.08 +/- 0.21
+AID_1347037,Scaffold (5-repeat),XGBoost,Bal-Acc,0.8,5,57.92,5.1563,8.8408,33.374,82.466,58.0 +/- 25.0
+AID_1347037,Scaffold (5-repeat),XGBoost,F1,0.8,5,0.1151,0.0278,0.0477,-0.0173,0.2476,0.12 +/- 0.13
+AID_1347037,Scaffold (5-repeat),GCN,ROC-AUC,,5,0.6869,0.0208,0.0357,0.5878,0.786,0.69 +/- 0.1
+AID_1347037,Scaffold (5-repeat),GCN,PR-AUC,,5,0.0825,0.03,0.0515,-0.0605,0.2256,0.08 +/- 0.14
+AID_1347037,Scaffold (5-repeat),GCN,Sensitivity,0.5,5,82.4,3.7914,6.5007,64.3512,100.4488,82.0 +/- 18.0
+AID_1347037,Scaffold (5-repeat),GCN,Specificity,0.5,5,48.94,7.0847,12.1472,15.2138,82.6662,50.0 +/- 30.0
+AID_1347037,Scaffold (5-repeat),GCN,CCR,0.5,5,65.68,4.7357,8.1197,43.136,88.224,66.0 +/- 23.0
+AID_1347037,Scaffold (5-repeat),GCN,MCC,0.5,5,0.1194,0.0456,0.0782,-0.0978,0.3365,0.12 +/- 0.22
+AID_1347037,Scaffold (5-repeat),GCN,Bal-Acc,0.5,5,65.68,4.7357,8.1197,43.136,88.224,66.0 +/- 23.0
+AID_1347037,Scaffold (5-repeat),GCN,F1,0.5,5,0.1098,0.0372,0.0639,-0.0675,0.2871,0.11 +/- 0.18
+AID_1347037,Scaffold (5-repeat),GCN,Sensitivity,0.8,5,29.98,11.6693,20.0078,-25.5707,85.5307,30.0 +/- 60.0
+AID_1347037,Scaffold (5-repeat),GCN,Specificity,0.8,5,84.14,5.8986,10.1135,56.0604,112.2196,84.0 +/- 28.0
+AID_1347037,Scaffold (5-repeat),GCN,CCR,0.8,5,57.08,3.8095,6.5316,38.9454,75.2146,57.0 +/- 18.0
+AID_1347037,Scaffold (5-repeat),GCN,MCC,0.8,5,0.0718,0.0401,0.0687,-0.119,0.2626,0.07 +/- 0.19
+AID_1347037,Scaffold (5-repeat),GCN,Bal-Acc,0.8,5,57.08,3.8095,6.5316,38.9454,75.2146,57.0 +/- 18.0
+AID_1347037,Scaffold (5-repeat),GCN,F1,0.8,5,0.1081,0.0393,0.0673,-0.0787,0.295,0.11 +/- 0.19
+AID_1347037,Scaffold (5-repeat),GAT,ROC-AUC,,5,0.6835,0.0463,0.0794,0.4631,0.904,0.68 +/- 0.22
+AID_1347037,Scaffold (5-repeat),GAT,PR-AUC,,5,0.0812,0.0372,0.0638,-0.0959,0.2584,0.08 +/- 0.18
+AID_1347037,Scaffold (5-repeat),GAT,Sensitivity,0.5,5,71.72,15.8776,27.2233,-3.8639,147.3039,70.0 +/- 80.0
+AID_1347037,Scaffold (5-repeat),GAT,Specificity,0.5,5,55.42,9.9683,17.0914,7.9667,102.8733,60.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),GAT,CCR,0.5,5,63.58,5.7595,9.8751,36.1623,90.9977,64.0 +/- 27.0
+AID_1347037,Scaffold (5-repeat),GAT,MCC,0.5,5,0.1042,0.048,0.0822,-0.1242,0.3325,0.1 +/- 0.23
+AID_1347037,Scaffold (5-repeat),GAT,Bal-Acc,0.5,5,63.58,5.7595,9.8751,36.1623,90.9977,64.0 +/- 27.0
+AID_1347037,Scaffold (5-repeat),GAT,F1,0.5,5,0.1067,0.0328,0.0563,-0.0496,0.2631,0.11 +/- 0.16
+AID_1347037,Scaffold (5-repeat),GAT,Sensitivity,0.8,5,24.96,7.9952,13.7083,-13.1005,63.0205,20.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),GAT,Specificity,0.8,5,87.32,5.7317,9.8274,60.0348,114.6052,87.0 +/- 27.0
+AID_1347037,Scaffold (5-repeat),GAT,CCR,0.8,5,56.12,4.9641,8.5113,32.4889,79.7511,56.0 +/- 24.0
+AID_1347037,Scaffold (5-repeat),GAT,MCC,0.8,5,0.076,0.0613,0.1051,-0.2159,0.3679,0.08 +/- 0.29
+AID_1347037,Scaffold (5-repeat),GAT,Bal-Acc,0.8,5,56.12,4.9641,8.5113,32.4889,79.7511,56.0 +/- 24.0
+AID_1347037,Scaffold (5-repeat),GAT,F1,0.8,5,0.1166,0.0537,0.0921,-0.1392,0.3725,0.12 +/- 0.26
+AID_1347037,Scaffold (5-repeat),GIN,ROC-AUC,,5,0.7265,0.0741,0.1271,0.3736,1.0794,0.7 +/- 0.4
+AID_1347037,Scaffold (5-repeat),GIN,PR-AUC,,5,0.1173,0.0561,0.0962,-0.1499,0.3845,0.12 +/- 0.27
+AID_1347037,Scaffold (5-repeat),GIN,Sensitivity,0.5,5,57.02,20.2155,34.661,-39.2144,153.2544,60.0 +/- 100.0
+AID_1347037,Scaffold (5-repeat),GIN,Specificity,0.5,5,74.12,12.4263,21.3058,14.9657,133.2743,70.0 +/- 60.0
+AID_1347037,Scaffold (5-repeat),GIN,CCR,0.5,5,65.56,9.7079,16.6449,19.3464,111.7736,70.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),GIN,MCC,0.5,5,0.1377,0.0911,0.1562,-0.2961,0.5715,0.1 +/- 0.4
+AID_1347037,Scaffold (5-repeat),GIN,Bal-Acc,0.5,5,65.56,9.7079,16.6449,19.3464,111.7736,70.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),GIN,F1,0.5,5,0.143,0.0706,0.121,-0.1928,0.4789,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),GIN,Sensitivity,0.8,5,26.6,20.5802,35.2863,-71.3705,124.5705,30.0 +/- 100.0
+AID_1347037,Scaffold (5-repeat),GIN,Specificity,0.8,5,93.18,3.3425,5.7309,77.2685,109.0915,93.0 +/- 16.0
+AID_1347037,Scaffold (5-repeat),GIN,CCR,0.8,5,59.9,9.5611,16.3933,14.385,105.415,60.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),GIN,MCC,0.8,5,0.1396,0.1071,0.1836,-0.3701,0.6493,0.1 +/- 0.5
+AID_1347037,Scaffold (5-repeat),GIN,Bal-Acc,0.8,5,59.9,9.5611,16.3933,14.385,105.415,60.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),GIN,F1,0.8,5,0.1634,0.085,0.1458,-0.2412,0.5681,0.2 +/- 0.4
+AID_1347037,Scaffold (5-repeat),SAGE,ROC-AUC,,5,0.6822,0.031,0.0532,0.5344,0.83,0.68 +/- 0.15
+AID_1347037,Scaffold (5-repeat),SAGE,PR-AUC,,5,0.0852,0.0335,0.0575,-0.0743,0.2447,0.09 +/- 0.16
+AID_1347037,Scaffold (5-repeat),SAGE,Sensitivity,0.5,5,74.54,16.2828,27.918,-2.9728,152.0528,70.0 +/- 80.0
+AID_1347037,Scaffold (5-repeat),SAGE,Specificity,0.5,5,53.04,13.6073,23.3307,-11.7364,117.8164,50.0 +/- 60.0
+AID_1347037,Scaffold (5-repeat),SAGE,CCR,0.5,5,63.78,3.8141,6.5395,45.6235,81.9365,64.0 +/- 18.0
+AID_1347037,Scaffold (5-repeat),SAGE,MCC,0.5,5,0.1048,0.0296,0.0508,-0.0363,0.2459,0.1 +/- 0.14
+AID_1347037,Scaffold (5-repeat),SAGE,Bal-Acc,0.5,5,63.78,3.8141,6.5395,45.6235,81.9365,64.0 +/- 18.0
+AID_1347037,Scaffold (5-repeat),SAGE,F1,0.5,5,0.1061,0.0302,0.0517,-0.0375,0.2496,0.11 +/- 0.14
+AID_1347037,Scaffold (5-repeat),SAGE,Sensitivity,0.8,5,20.22,11.1415,19.1029,-32.818,73.258,20.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),SAGE,Specificity,0.8,5,89.12,5.2495,9.0006,64.1303,114.1097,89.0 +/- 25.0
+AID_1347037,Scaffold (5-repeat),SAGE,CCR,0.8,5,54.66,3.9665,6.8008,35.7779,73.5421,55.0 +/- 19.0
+AID_1347037,Scaffold (5-repeat),SAGE,MCC,0.8,5,0.0594,0.0407,0.0698,-0.1344,0.2532,0.06 +/- 0.19
+AID_1347037,Scaffold (5-repeat),SAGE,Bal-Acc,0.8,5,54.66,3.9665,6.8008,35.7779,73.5421,55.0 +/- 19.0
+AID_1347037,Scaffold (5-repeat),SAGE,F1,0.8,5,0.0958,0.0343,0.0587,-0.0672,0.2589,0.1 +/- 0.16
+AID_1347037,Scaffold (5-repeat),Graphormer,ROC-AUC,,5,0.6902,0.0558,0.0957,0.4244,0.956,0.69 +/- 0.27
+AID_1347037,Scaffold (5-repeat),Graphormer,PR-AUC,,5,0.0783,0.0312,0.0535,-0.0703,0.2268,0.08 +/- 0.15
+AID_1347037,Scaffold (5-repeat),Graphormer,Sensitivity,0.5,5,71.02,15.9492,27.3461,-4.9049,146.9449,70.0 +/- 80.0
+AID_1347037,Scaffold (5-repeat),Graphormer,Specificity,0.5,5,57.02,11.5774,19.8504,1.9065,112.1335,60.0 +/- 60.0
+AID_1347037,Scaffold (5-repeat),Graphormer,CCR,0.5,5,64.04,3.3359,5.7196,48.1599,79.9201,64.0 +/- 16.0
+AID_1347037,Scaffold (5-repeat),Graphormer,MCC,0.5,5,0.1077,0.0279,0.0478,-0.025,0.2404,0.11 +/- 0.13
+AID_1347037,Scaffold (5-repeat),Graphormer,Bal-Acc,0.5,5,64.04,3.3359,5.7196,48.1599,79.9201,64.0 +/- 16.0
+AID_1347037,Scaffold (5-repeat),Graphormer,F1,0.5,5,0.1096,0.0329,0.0564,-0.047,0.2661,0.11 +/- 0.16
+AID_1347037,Scaffold (5-repeat),Graphormer,Sensitivity,0.8,5,36.92,29.9606,51.3697,-105.7051,179.5451,40.0 +/- 140.0
+AID_1347037,Scaffold (5-repeat),Graphormer,Specificity,0.8,5,82.68,15.6242,26.7889,8.302,157.058,80.0 +/- 70.0
+AID_1347037,Scaffold (5-repeat),Graphormer,CCR,0.8,5,59.78,7.4808,12.8263,24.1684,95.3916,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),Graphormer,MCC,0.8,5,0.0931,0.0647,0.1109,-0.2149,0.4011,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),Graphormer,Bal-Acc,0.8,5,59.78,7.4808,12.8263,24.1684,95.3916,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),Graphormer,F1,0.8,5,0.106,0.0667,0.1143,-0.2113,0.4233,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),GraphGPS,ROC-AUC,,5,0.7191,0.0742,0.1271,0.3661,1.0721,0.7 +/- 0.4
+AID_1347037,Scaffold (5-repeat),GraphGPS,PR-AUC,,5,0.117,0.0539,0.0924,-0.1395,0.3735,0.12 +/- 0.26
+AID_1347037,Scaffold (5-repeat),GraphGPS,Sensitivity,0.5,5,69.94,40.0042,68.5902,-120.497,260.377,70.0 +/- 190.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,Specificity,0.5,5,52.08,32.2141,55.2334,-101.2726,205.4326,50.0 +/- 150.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,CCR,0.5,5,61.0,7.9284,13.5939,23.2573,98.7427,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,MCC,0.5,5,0.091,0.0614,0.1052,-0.2011,0.3831,0.09 +/- 0.29
+AID_1347037,Scaffold (5-repeat),GraphGPS,Bal-Acc,0.5,5,61.0,7.9284,13.5939,23.2573,98.7427,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,F1,0.5,5,0.0866,0.0578,0.099,-0.1884,0.3616,0.09 +/- 0.28
+AID_1347037,Scaffold (5-repeat),GraphGPS,Sensitivity,0.8,5,61.38,39.2648,67.3225,-125.5372,248.2972,60.0 +/- 190.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,Specificity,0.8,5,64.92,24.6639,42.2881,-52.4905,182.3305,60.0 +/- 120.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,CCR,0.8,5,63.14,7.9892,13.6982,25.1078,101.1722,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,MCC,0.8,5,0.1047,0.0642,0.11,-0.2007,0.4102,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),GraphGPS,Bal-Acc,0.8,5,63.14,7.9892,13.6982,25.1078,101.1722,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),GraphGPS,F1,0.8,5,0.0977,0.0635,0.1089,-0.2046,0.4001,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,ROC-AUC,,5,0.6541,0.0742,0.1272,0.3009,1.0072,0.7 +/- 0.4
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,PR-AUC,,5,0.0823,0.0326,0.0559,-0.0728,0.2375,0.08 +/- 0.16
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,Sensitivity,0.5,5,60.06,30.448,52.2053,-84.8851,205.0051,60.0 +/- 140.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,Specificity,0.5,5,64.64,18.1012,31.0358,-21.5293,150.8093,60.0 +/- 90.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,CCR,0.5,5,62.36,9.6223,16.4981,16.554,108.166,60.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,MCC,0.5,5,0.1003,0.0656,0.1125,-0.2121,0.4127,0.1 +/- 0.3
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,Bal-Acc,0.5,5,62.36,9.6223,16.4981,16.554,108.166,60.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,F1,0.5,5,0.1102,0.0339,0.0582,-0.0513,0.2717,0.11 +/- 0.16
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,Sensitivity,0.8,5,12.44,12.6883,21.755,-47.9617,72.8417,10.0 +/- 60.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,Specificity,0.8,5,92.86,6.9805,11.9687,59.6297,126.0903,90.0 +/- 30.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,CCR,0.8,5,52.66,2.9168,5.0012,38.7746,66.5454,53.0 +/- 14.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,MCC,0.8,5,0.0292,0.0307,0.0526,-0.1169,0.1753,0.03 +/- 0.15
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,Bal-Acc,0.8,5,52.66,2.9168,5.0012,38.7746,66.5454,53.0 +/- 14.0
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross,F1,0.8,5,0.0548,0.0535,0.0918,-0.2001,0.3097,0.05 +/- 0.25
+AID_1347037,Scaffold (5-repeat),Consensus,ROC-AUC,,5,0.7426,0.0619,0.1061,0.448,1.0372,0.74 +/- 0.29
+AID_1347037,Scaffold (5-repeat),Consensus,PR-AUC,,5,0.1327,0.0456,0.0782,-0.0844,0.3498,0.13 +/- 0.22
+AID_1347037,Scaffold (5-repeat),Consensus,Sensitivity,0.5,5,77.1,10.5596,18.1052,26.8319,127.3681,80.0 +/- 50.0
+AID_1347037,Scaffold (5-repeat),Consensus,Specificity,0.5,5,61.0,7.433,12.7445,25.6156,96.3844,60.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),Consensus,CCR,0.5,5,69.04,3.5133,6.0237,52.3154,85.7646,69.0 +/- 17.0
+AID_1347037,Scaffold (5-repeat),Consensus,MCC,0.5,5,0.1463,0.0377,0.0647,-0.0333,0.3259,0.15 +/- 0.18
+AID_1347037,Scaffold (5-repeat),Consensus,Bal-Acc,0.5,5,69.04,3.5133,6.0237,52.3154,85.7646,69.0 +/- 17.0
+AID_1347037,Scaffold (5-repeat),Consensus,F1,0.5,5,0.1289,0.0413,0.0707,-0.0675,0.3253,0.13 +/- 0.2
+AID_1347037,Scaffold (5-repeat),Consensus,Sensitivity,0.8,5,8.02,7.9424,13.6179,-29.7893,45.8293,10.0 +/- 40.0
+AID_1347037,Scaffold (5-repeat),Consensus,Specificity,0.8,5,97.66,2.0256,3.473,88.0174,107.3026,98.0 +/- 10.0
+AID_1347037,Scaffold (5-repeat),Consensus,CCR,0.8,5,52.84,3.9602,6.79,33.9879,71.6921,53.0 +/- 19.0
+AID_1347037,Scaffold (5-repeat),Consensus,MCC,0.8,5,0.0695,0.0902,0.1547,-0.3599,0.499,0.1 +/- 0.4
+AID_1347037,Scaffold (5-repeat),Consensus,Bal-Acc,0.8,5,52.84,3.9602,6.79,33.9879,71.6921,53.0 +/- 19.0
+AID_1347037,Scaffold (5-repeat),Consensus,F1,0.8,5,0.0892,0.086,0.1475,-0.3203,0.4988,0.1 +/- 0.4

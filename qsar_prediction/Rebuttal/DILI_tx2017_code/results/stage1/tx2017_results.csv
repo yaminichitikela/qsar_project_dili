@@ -1,0 +1,2 @@
+Stage,WinningMethod,WinningCutoff,WinningSampler,WinningClassifier,NumFeatures,N_Repeats,Sensitivity_mean,Sensitivity_std,Specificity_mean,Specificity_std,CCR_mean,CCR_std,ROC-AUC_mean,ROC-AUC_std,PR-AUC_mean,PR-AUC_std,MCC_mean,MCC_std,Bal-Acc_mean,Bal-Acc_std,F1_mean,F1_std
+Proxy-only,rf,200.0,up,SVM,200,20,39.72,1.7319,67.99,3.0187,53.85,1.3855,0.5752,0.0145,0.739,0.013,0.0731,0.0266,53.85,1.3855,0.517,0.0154

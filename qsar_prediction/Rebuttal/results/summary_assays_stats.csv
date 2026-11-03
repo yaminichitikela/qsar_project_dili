@@ -1,0 +1,4 @@
+Assay,total rows,rows with CID,rows with SMILES,rows with InChIKey,unique CIDs
+AID_720637 (tox 21 mmp) ,10490,10337,10337,10337,8099
+AID_1347034 (caspase hepg2),9670,9524,9524,9524,7671
+AID_1347037 (caspase cho-k1) ,9670,9524,9524,9524,7671

@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+scaffold_up,2,4,val,SVM,0.5,48.6,78.0,63.3,0.7006,0.5816,0.2775,63.3,0.5312
+scaffold_up,2,4,itest,SVM,0.5,45.0,84.3,64.6,0.726,0.5611,0.3171,64.6,0.5123
+scaffold_up,2,4,test,SVM,0.5,32.9,73.1,53.0,0.5873,0.7353,0.0599,53.0,0.4554
+scaffold_up,2,4,val,SVM,0.8,12.1,96.5,54.3,0.7006,0.5816,0.1651,54.3,0.205
+scaffold_up,2,4,itest,SVM,0.8,10.0,98.0,54.0,0.726,0.5611,0.1807,54.0,0.1765
+scaffold_up,2,4,test,SVM,0.8,10.3,89.6,49.9,0.5873,0.7353,-0.0019,49.9,0.1798

@@ -1,0 +1,5 @@
+Arm,Stage,Repeat,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+structure,2,1,val,SAGE,0.5,69.1,68.3,68.7,0.7531,0.5812,0.3541,68.7,0.5919
+structure,2,1,test,SAGE,0.5,69.0,40.3,54.7,0.5789,0.736,0.0906,54.7,0.7086
+structure,2,1,val,SAGE,0.8,29.4,92.8,61.1,0.7531,0.5812,0.2956,61.1,0.4083
+structure,2,1,test,SAGE,0.8,22.6,85.1,53.8,0.5789,0.736,0.0874,53.8,0.35

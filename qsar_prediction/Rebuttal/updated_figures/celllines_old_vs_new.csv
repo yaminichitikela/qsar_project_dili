@@ -1,0 +1,15 @@
+cell_line,n_active_old,n_significant_old,note_old,n_active_new,n_significant_new,note_new
+HepG2,241,0.0,,303,0.0,
+CHO-K1,115,0.0,,171,1.0,
+Jurkat,48,0.0,,48,1.0,
+HUV-EC-C,5,,skipped (<10 active),5,,skipped (<10 active)
+SH-SY5Y,10,0.0,,10,0.0,
+BJ,6,,skipped (<10 active),6,,skipped (<10 active)
+MRC-5,8,,skipped (<10 active),8,,skipped (<10 active)
+Mesangial,8,,skipped (<10 active),8,,skipped (<10 active)
+SK-N-SH,19,4.0,,19,4.0,
+H-4-II-E,19,8.0,,19,8.0,
+HEK293,17,3.0,,17,3.0,
+N2a,7,,skipped (<10 active),7,,skipped (<10 active)
+NIH 3T3,12,4.0,,12,4.0,
+Renal PT,8,,skipped (<10 active),8,,skipped (<10 active)

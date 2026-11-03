@@ -1,0 +1,10 @@
+DILI set,Assay,DILI n,Overlap n,Overlap %
+Held-223 (DILI test),MMP (AID 720637),222,62,27.9
+Held-223 (DILI test),Caspase HepG2 (654+1347034),222,79,35.6
+Held-223 (DILI test),Caspase CHO-K1 (1347037),222,80,36.0
+NCV-888 (DILI train),MMP (AID 720637),874,168,19.2
+NCV-888 (DILI train),Caspase HepG2 (654+1347034),874,228,26.1
+NCV-888 (DILI train),Caspase CHO-K1 (1347037),874,236,27.0
+Gold-1111 (full),MMP (AID 720637),1096,230,21.0
+Gold-1111 (full),Caspase HepG2 (654+1347034),1096,307,28.0
+Gold-1111 (full),Caspase CHO-K1 (1347037),1096,316,28.8

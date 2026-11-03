@@ -1,0 +1,5 @@
+Arm,Stage,Repeat,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+structure,1,1,val,Graphormer,0.5,66.3,65.1,65.7,0.7177,0.5472,0.2971,65.7,0.5594
+structure,1,1,test,Graphormer,0.5,74.2,37.3,55.8,0.6057,0.7634,0.1161,55.8,0.7372
+structure,1,1,val,Graphormer,0.8,5.0,99.3,52.1,0.7177,0.5472,0.1381,52.1,0.0937
+structure,1,1,test,Graphormer,0.8,3.2,97.0,50.1,0.6057,0.7634,0.0063,50.1,0.0617

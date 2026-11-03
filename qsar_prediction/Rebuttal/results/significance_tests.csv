@@ -1,0 +1,19 @@
+Assay,SplitScheme,Comparison,Model_A,Model_B,N,MeanROCAUC_A,MeanROCAUC_B,MeanDiff_A_minus_B,Reported_Diff,CorrectedT_stat,CorrectedT_pvalue,Wilcoxon_stat,Wilcoxon_pvalue,CorrectedT_pvalue_Holm,Wilcoxon_pvalue_Holm,Significant_at_0.05_Holm
+AID_720637 (MMP summary),LOO (10-fold),Best graph/GT vs. best classical,MV-GNN-cross,SVM,10,0.8949,0.8825,0.0124,0.012 +/- 0.014,1.9592,0.0818,1.0,0.0039,0.0818,0.006,False
+AID_720637 (MMP summary),LOO (10-fold),Consensus vs. best individual,Consensus,MV-GNN-cross,10,0.9114,0.8949,0.0165,0.017 +/- 0.011,3.2868,0.0094,0.0,0.002,0.0282,0.006,True
+AID_720637 (MMP summary),LOO (10-fold),MV-GNN-cross vs. Consensus,MV-GNN-cross,Consensus,10,0.8949,0.9114,-0.0165,-0.017 +/- 0.011,-3.2868,0.0094,0.0,0.002,0.0282,0.006,True
+AID_720637 (MMP summary),Scaffold (5-repeat),Best graph/GT vs. best classical,GCN,SVM,5,0.841,0.8225,0.0186,0.02 +/- 0.07,0.7418,0.4994,3.0,0.3125,0.4994,0.3125,False
+AID_720637 (MMP summary),Scaffold (5-repeat),Consensus vs. best individual,Consensus,GCN,5,0.8678,0.841,0.0268,0.027 +/- 0.026,2.9074,0.0438,0.0,0.0625,0.1314,0.1875,False
+AID_720637 (MMP summary),Scaffold (5-repeat),MV-GNN-cross vs. Consensus,MV-GNN-cross,Consensus,5,0.8178,0.8678,-0.05,-0.05 +/- 0.05,-2.6611,0.0563,0.0,0.0625,0.1314,0.1875,False
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Best graph/GT vs. best classical,GIN,SVM,10,0.8373,0.8497,-0.0125,-0.01 +/- 0.11,-0.2506,0.8078,18.0,0.375,1.0,0.375,False
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),Consensus vs. best individual,Consensus,SVM,10,0.8726,0.8497,0.0229,0.02 +/- 0.07,0.7926,0.4484,0.0,0.002,1.0,0.006,False
+AID_654+1347034 (Caspase-3/7),LOO (10-fold),MV-GNN-cross vs. Consensus,MV-GNN-cross,Consensus,10,0.8305,0.8726,-0.0421,-0.04 +/- 0.1,-0.9427,0.3704,0.0,0.002,1.0,0.006,False
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Best graph/GT vs. best classical,GraphGPS,SVM,5,0.8033,0.7905,0.0128,0.01 +/- 0.18,0.197,0.8534,5.0,0.625,1.0,1.0,False
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),Consensus vs. best individual,Consensus,GraphGPS,5,0.8007,0.8033,-0.0026,-0.0 +/- 0.17,-0.0424,0.9682,6.0,0.8125,1.0,1.0,False
+AID_654+1347034 (Caspase-3/7),Scaffold (5-repeat),MV-GNN-cross vs. Consensus,MV-GNN-cross,Consensus,5,0.7072,0.8007,-0.0934,-0.09 +/- 0.15,-1.7664,0.1521,0.0,0.0625,0.4563,0.1875,False
+AID_1347037,LOO (10-fold),Best graph/GT vs. best classical,GraphGPS,SVM,10,0.7891,0.7855,0.0036,0.0 +/- 0.28,0.0287,0.9777,27.0,1.0,1.0,1.0,False
+AID_1347037,LOO (10-fold),Consensus vs. best individual,Consensus,GraphGPS,10,0.817,0.7891,0.0279,0.03 +/- 0.12,0.5101,0.6223,7.0,0.0371,1.0,0.0742,False
+AID_1347037,LOO (10-fold),MV-GNN-cross vs. Consensus,MV-GNN-cross,Consensus,10,0.7488,0.817,-0.0682,-0.07 +/- 0.16,-0.9946,0.3459,0.0,0.002,1.0,0.006,False
+AID_1347037,Scaffold (5-repeat),Best graph/GT vs. best classical,GIN,SVM,5,0.7265,0.6709,0.0556,0.06 +/- 0.26,0.5998,0.581,0.0,0.0625,1.0,0.1875,False
+AID_1347037,Scaffold (5-repeat),Consensus vs. best individual,Consensus,GIN,5,0.7426,0.7265,0.0161,0.02 +/- 0.13,0.3432,0.7487,3.0,0.3125,1.0,0.3125,False
+AID_1347037,Scaffold (5-repeat),MV-GNN-cross vs. Consensus,MV-GNN-cross,Consensus,5,0.6541,0.7426,-0.0885,-0.09 +/- 0.24,-1.0353,0.359,0.0,0.0625,1.0,0.1875,False

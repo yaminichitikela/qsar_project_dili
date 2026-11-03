@@ -1,0 +1,3 @@
+Dataset,Total,Active,Inactive,Inconclusive,Active_pct
+BEFORE -- raw MMP (AID 720635),8099,1412,3213,3474,17.43
+AFTER -- MMP summary (AID 720637),8099,857,5080,2162,10.58

@@ -1,0 +1,4 @@
+Assay,compounds,Active,Inactive,Inconclusive,Imbalance (Inactive:Active),% Active (of Active+Inactive)
+AID_720637 (tox 21 mmp) ,8099,901,5315,1883,1:5.9,14.49
+AID_1347034 (caspase hepg2),7671,353,6968,350,1:19.7,4.82
+AID_1347037 (caspase cho-k1) ,7671,193,7325,153,1:38.0,2.57

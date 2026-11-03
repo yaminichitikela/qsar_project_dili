@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,GIN Stage-2 (Proxy+DILI),0.5,67.8,74.3,71.1,0.7958,0.5986,0.391,71.1,0.5803
+Test,GIN Stage-2 (Proxy+DILI),0.5,55.5,67.2,61.3,0.6475,0.7657,0.208,61.3,0.654
+Val,GIN Stage-2 (Proxy+DILI),0.8,27.4,95.7,61.6,0.7958,0.5986,0.3351,61.6,0.3964
+Test,GIN Stage-2 (Proxy+DILI),0.8,13.5,91.0,52.3,0.6475,0.7657,0.0645,52.3,0.2308

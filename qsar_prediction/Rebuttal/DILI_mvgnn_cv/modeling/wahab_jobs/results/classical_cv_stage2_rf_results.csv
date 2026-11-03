@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,RF-CV Stage-2 (Proxy+DILI) Ensemble,0.5,33.5,77.6,55.6,0.6179,0.7774,0.1116,55.6,0.4685
+Test,RF-CV Stage-2 (Proxy+DILI) BestFold,0.5,36.1,76.1,56.1,0.5964,0.7705,0.1201,56.1,0.4934
+Test,RF-CV Stage-2 (Proxy+DILI) Ensemble,0.8,0.0,98.5,49.3,0.6179,0.7774,-0.1023,49.3,0.0
+Test,RF-CV Stage-2 (Proxy+DILI) BestFold,0.8,1.3,98.5,49.9,0.5964,0.7705,-0.008,49.9,0.0253

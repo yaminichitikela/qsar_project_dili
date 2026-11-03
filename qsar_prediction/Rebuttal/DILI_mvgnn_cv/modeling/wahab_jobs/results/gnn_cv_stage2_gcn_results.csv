@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,GCN-CV Stage-2 (Proxy+DILI) Ensemble,0.5,67.1,46.3,56.7,0.6143,0.7591,0.1271,56.7,0.7051
+Test,GCN-CV Stage-2 (Proxy+DILI) BestFold,0.5,63.9,49.3,56.6,0.6153,0.7496,0.1229,56.6,0.6875
+Test,GCN-CV Stage-2 (Proxy+DILI) Ensemble,0.8,10.3,92.5,51.4,0.6143,0.7591,0.0449,51.4,0.1818
+Test,GCN-CV Stage-2 (Proxy+DILI) BestFold,0.8,16.1,86.6,51.3,0.6153,0.7496,0.0344,51.3,0.2646

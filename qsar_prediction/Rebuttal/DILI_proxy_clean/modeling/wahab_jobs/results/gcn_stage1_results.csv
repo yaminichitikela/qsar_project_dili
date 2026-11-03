@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,GCN Stage-1 (Proxy-only),0.5,72.6,68.3,70.4,0.7761,0.5695,0.3705,70.4,0.5714
+Test,GCN Stage-1 (Proxy-only),0.5,61.3,46.3,53.8,0.5979,0.7567,0.0706,53.8,0.6643
+Val,GCN Stage-1 (Proxy-only),0.8,20.2,96.9,58.6,0.7761,0.5695,0.2855,58.6,0.3153
+Test,GCN Stage-1 (Proxy-only),0.8,12.3,92.5,52.4,0.5979,0.7567,0.0709,52.4,0.2123

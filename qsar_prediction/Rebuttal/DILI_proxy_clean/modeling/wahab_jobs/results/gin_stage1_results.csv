@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,GIN Stage-1 (Proxy-only),0.5,68.5,73.2,70.8,0.7865,0.593,0.3847,70.8,0.5771
+Test,GIN Stage-1 (Proxy-only),0.5,60.6,53.7,57.2,0.6104,0.7645,0.1331,57.2,0.6714
+Val,GIN Stage-1 (Proxy-only),0.8,24.0,95.9,60.0,0.7865,0.593,0.3032,60.0,0.3568
+Test,GIN Stage-1 (Proxy-only),0.8,12.9,92.5,52.7,0.6104,0.7645,0.079,52.7,0.2222

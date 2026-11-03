@@ -1,0 +1,6 @@
+predictor,ROC-AUC,CI_low,CI_high,no_better_than_guessing,PR-AUC,mean_not_toxic,mean_toxic,gap
+mmp_prob,0.584,0.504,0.663,False,0.735,0.284,0.347,0.063
+caspase_prob,0.537,0.451,0.622,True,0.722,0.193,0.211,0.018
+mean_of_both,0.573,0.489,0.653,True,0.731,0.239,0.279,0.04
+max_of_both,0.581,0.496,0.661,True,0.733,0.319,0.385,0.065
+guessing,0.5,,,True,0.698,,,

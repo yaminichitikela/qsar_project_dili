@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,SAGE-CV Stage-1 (Proxy-only) Ensemble,0.5,64.5,53.7,59.1,0.5858,0.7497,0.1703,59.1,0.6993
+Test,SAGE-CV Stage-1 (Proxy-only) BestFold,0.5,59.4,50.7,55.1,0.5789,0.7398,0.0935,55.1,0.6571
+Test,SAGE-CV Stage-1 (Proxy-only) Ensemble,0.8,14.2,92.5,53.4,0.5858,0.7497,0.0945,53.4,0.2418
+Test,SAGE-CV Stage-1 (Proxy-only) BestFold,0.8,9.7,91.0,50.4,0.5789,0.7398,0.0113,50.4,0.1705

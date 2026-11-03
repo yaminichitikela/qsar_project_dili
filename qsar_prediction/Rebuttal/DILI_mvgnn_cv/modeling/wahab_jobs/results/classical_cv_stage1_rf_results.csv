@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,RF-CV Stage-1 (Proxy-only) Ensemble,0.5,31.6,77.6,54.6,0.6118,0.7699,0.0935,54.6,0.4475
+Test,RF-CV Stage-1 (Proxy-only) BestFold,0.5,32.9,79.1,56.0,0.5912,0.7641,0.1211,56.0,0.4636
+Test,RF-CV Stage-1 (Proxy-only) Ensemble,0.8,0.0,98.5,49.3,0.6118,0.7699,-0.1023,49.3,0.0
+Test,RF-CV Stage-1 (Proxy-only) BestFold,0.8,1.3,98.5,49.9,0.5912,0.7641,-0.008,49.9,0.0253

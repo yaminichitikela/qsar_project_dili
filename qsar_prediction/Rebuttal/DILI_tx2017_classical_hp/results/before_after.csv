@@ -1,0 +1,10 @@
+Stage,Model,Structure only (1024),BEFORE: ours @2048,gap before,AFTER: ours @1024,gap after
+Stage 1,Random Forest,0.563,0.592,0.029,0.575,0.012
+Stage 1,XGBoost,0.563,0.551,-0.012,0.541,-0.022
+Stage 1,SVM,0.563,0.569,0.006,0.546,-0.017
+Stage 2,Random Forest,0.582,0.604,0.022,0.574,-0.008
+Stage 2,XGBoost,0.582,0.617,0.035,0.59,0.008
+Stage 2,SVM,0.582,0.589,0.006,0.569,-0.013
+Both stages,Random Forest,0.573,0.598,0.025,0.575,0.002
+Both stages,XGBoost,0.573,0.584,0.012,0.566,-0.007
+Both stages,SVM,0.573,0.579,0.006,0.558,-0.015

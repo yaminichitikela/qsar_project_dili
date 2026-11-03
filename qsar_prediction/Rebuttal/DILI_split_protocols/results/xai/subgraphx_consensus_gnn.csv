@@ -1,0 +1,7 @@
+model,rank,inchikey,smiles,prob,n_atoms,n_highlighted,fragment,svg,mask
+Consensus-GNN,1,BCQZXOMGPXTTIC-UHFFFAOYSA-N,FC(F)(F)C(Cl)Br,0.9697,7,3,CCF,consensusgnn_tp1.svg,0 1 0 1 1 0 0
+Consensus-GNN,2,FIIAPJASQSDOKY-UHFFFAOYSA-N,Cc1cc(=O)c2c(O)c3c(O)cc(O)c4c5c(O)cc(O)c6c(=O)c7c(O)cc(C)c8c1c2c(c34)c(c65)c78,0.967,38,19,ccc1ccc2c(c)ccc3cc(c)c(cc)c1c32,consensusgnn_tp2.svg,0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1
+Consensus-GNN,3,ACGUYXCXAPNIKK-UHFFFAOYSA-N,Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl,0.9258,21,5,ccccc,consensusgnn_tp3.svg,0 1 1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+Consensus-GNN,4,QZOZORJVUIIALW-UHFFFAOYSA-N,CC(C)=Nc1cc2c(cc1Nc1ccc(Cl)cc1)Nc1ccccc1N2c1ccc(Cl)cc1,0.9234,33,13,cNc(c)cccN(c)c(c)cc,consensusgnn_tp4.svg,0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0
+Consensus-GNN,5,MLKXDPUZXIRXEP-UHFFFAOYSA-N,CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc1ccc([S+](C)[O-])cc1,0.9211,25,9,cC=C1C=Cc(c1)cc,consensusgnn_tp5.svg,0 1 1 0 0 0 0 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+Consensus-GNN,6,HPJKCIUCZWXJDR-UHFFFAOYSA-N,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1,0.9047,22,7,ccC(cc)nn,consensusgnn_tp6.svg,0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0

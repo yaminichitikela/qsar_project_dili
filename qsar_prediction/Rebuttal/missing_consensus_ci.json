@@ -1,0 +1,338 @@
+{
+  "MMP|LOO": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.8501,
+        0.9216
+      ],
+      "PR-AUC": [
+        0.5861,
+        0.728
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.8778,
+        0.922
+      ],
+      "PR-AUC": [
+        0.5592,
+        0.7096
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.8532,
+        0.9188
+      ],
+      "PR-AUC": [
+        0.49,
+        0.737
+      ]
+    }
+  },
+  "MMP|Scaffold": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.7864,
+        0.8563
+      ],
+      "PR-AUC": [
+        0.4866,
+        0.6356
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.7664,
+        0.9309
+      ],
+      "PR-AUC": [
+        0.5041,
+        0.6651
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.7786,
+        0.921
+      ],
+      "PR-AUC": [
+        0.4635,
+        0.6603
+      ]
+    }
+  },
+  "HepG2|LOO": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.75,
+        0.9625
+      ],
+      "PR-AUC": [
+        0.1389,
+        0.5045
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.7578,
+        0.9271
+      ],
+      "PR-AUC": [
+        0.0413,
+        0.3845
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.7613,
+        0.9197
+      ],
+      "PR-AUC": [
+        0.032,
+        0.3628
+      ]
+    }
+  },
+  "HepG2|Scaffold": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.5311,
+        1.0178
+      ],
+      "PR-AUC": [
+        0.0078,
+        0.5078
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.659,
+        0.8636
+      ],
+      "PR-AUC": [
+        -0.0327,
+        0.3776
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.6559,
+        0.8986
+      ],
+      "PR-AUC": [
+        0.0541,
+        0.3551
+      ]
+    }
+  },
+  "HepG2|Up-sampling LOO": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.7825,
+        0.9815
+      ],
+      "PR-AUC": [
+        0.1355,
+        0.6832
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.7938,
+        0.9568
+      ],
+      "PR-AUC": [
+        0.1644,
+        0.6019
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.8037,
+        0.9504
+      ],
+      "PR-AUC": [
+        0.12,
+        0.578
+      ]
+    },
+    "Random Forest": {
+      "ROC-AUC": [
+        0.7932,
+        0.9711
+      ],
+      "PR-AUC": [
+        0.1086,
+        0.6949
+      ]
+    },
+    "XGBoost": {
+      "ROC-AUC": [
+        0.7291,
+        0.9969
+      ],
+      "PR-AUC": [
+        0.1477,
+        0.6525
+      ]
+    },
+    "Graphormer": {
+      "ROC-AUC": [
+        0.8011,
+        0.923
+      ],
+      "PR-AUC": [
+        0.1062,
+        0.4839
+      ]
+    },
+    "GraphGPS": {
+      "ROC-AUC": [
+        0.7483,
+        0.9744
+      ],
+      "PR-AUC": [
+        0.0569,
+        0.4988
+      ]
+    }
+  },
+  "CHOK1|LOO": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.4818,
+        1.0874
+      ],
+      "PR-AUC": [
+        -0.0895,
+        0.452
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.6404,
+        0.9283
+      ],
+      "PR-AUC": [
+        0.0113,
+        0.1554
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.5998,
+        0.9477
+      ],
+      "PR-AUC": [
+        0.006,
+        0.1623
+      ]
+    }
+  },
+  "CHOK1|Scaffold": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.2414,
+        1.0782
+      ],
+      "PR-AUC": [
+        -0.1335,
+        0.357
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.4805,
+        0.9567
+      ],
+      "PR-AUC": [
+        -0.0636,
+        0.26
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.4585,
+        0.9916
+      ],
+      "PR-AUC": [
+        -0.1254,
+        0.3314
+      ]
+    }
+  },
+  "CHOK1|Up-sampling LOO": {
+    "Consensus-Classical": {
+      "ROC-AUC": [
+        0.554,
+        1.0409
+      ],
+      "PR-AUC": [
+        0.0646,
+        0.4172
+      ]
+    },
+    "Consensus-GNN": {
+      "ROC-AUC": [
+        0.706,
+        0.9171
+      ],
+      "PR-AUC": [
+        -0.0099,
+        0.4313
+      ]
+    },
+    "Consensus-GT": {
+      "ROC-AUC": [
+        0.6395,
+        0.954
+      ],
+      "PR-AUC": [
+        -0.0814,
+        0.4855
+      ]
+    },
+    "Random Forest": {
+      "ROC-AUC": [
+        0.5079,
+        1.0594
+      ],
+      "PR-AUC": [
+        0.0712,
+        0.3819
+      ]
+    },
+    "XGBoost": {
+      "ROC-AUC": [
+        0.5313,
+        1.0299
+      ],
+      "PR-AUC": [
+        -0.002,
+        0.4881
+      ]
+    },
+    "Graphormer": {
+      "ROC-AUC": [
+        0.6455,
+        0.9144
+      ],
+      "PR-AUC": [
+        -0.074,
+        0.3666
+      ]
+    },
+    "GraphGPS": {
+      "ROC-AUC": [
+        0.6813,
+        0.9322
+      ],
+      "PR-AUC": [
+        0.0097,
+        0.3628
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "winning": {
+    "hidden": 128,
+    "num_heads": 8,
+    "num_layers": 4,
+    "dropout": 0.4,
+    "lr": 0.0005
+  },
+  "val_auc": 0.8284648102078485,
+  "trials": [
+    {
+      "hidden": 128,
+      "num_heads": 4,
+      "num_layers": 3,
+      "dropout": 0.3,
+      "lr": 0.001,
+      "val_auc": 0.8001,
+      "epochs_run": 53,
+      "seconds": 24.8
+    },
+    {
+      "hidden": 256,
+      "num_heads": 4,
+      "num_layers": 3,
+      "dropout": 0.3,
+      "lr": 0.001,
+      "val_auc": 0.6652,
+      "epochs_run": 44,
+      "seconds": 19.1
+    },
+    {
+      "hidden": 128,
+      "num_heads": 8,
+      "num_layers": 4,
+      "dropout": 0.4,
+      "lr": 0.0005,
+      "val_auc": 0.8285,
+      "epochs_run": 92,
+      "seconds": 46.8
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Regenerable caches: featurised graphs, feature matrices, split indices,
+# model checkpoints (~20 GB). Rebuild with the cleaning/upsampling scripts.
+*.pt
+*.npy
+*.pkl
+*.joblib
+
+# HPC job logs
+*.out
+*.err
+logs/
+
+# Copyrighted reference PDFs and the working draft of the response letter
+references/
+rebuttal_Draft_letter.txt
+
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+
+# Root .gitignore drops *.xlsx; keep the master results workbook
+!QSAR_Rebuttal_All_Results.xlsx

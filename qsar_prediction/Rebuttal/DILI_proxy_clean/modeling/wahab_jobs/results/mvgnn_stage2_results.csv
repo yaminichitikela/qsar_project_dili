@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,MV-GNN Stage-2 (Clinical+NCV),0.5,79.5,62.0,70.8,0.7973,0.6178,0.3731,70.8,0.574
+Test,MV-GNN Stage-2 (Clinical+NCV),0.5,74.2,38.8,56.5,0.5982,0.77,0.1306,56.5,0.7395
+Val,MV-GNN Stage-2 (Clinical+NCV),0.8,25.9,95.3,60.6,0.7973,0.6178,0.3092,60.6,0.3753
+Test,MV-GNN Stage-2 (Clinical+NCV),0.8,14.2,92.5,53.4,0.5982,0.77,0.0945,53.4,0.2418

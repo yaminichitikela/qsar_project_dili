@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,MV-GNN-CV Stage-1 (Proxy-only) Ensemble,0.5,57.4,52.2,54.8,0.5719,0.7482,0.089,54.8,0.6449
+Test,MV-GNN-CV Stage-1 (Proxy-only) BestFold,0.5,62.6,47.8,55.2,0.5915,0.756,0.0967,55.2,0.676
+Test,MV-GNN-CV Stage-1 (Proxy-only) Ensemble,0.8,5.8,95.5,50.7,0.5719,0.7482,0.027,50.7,0.1078
+Test,MV-GNN-CV Stage-1 (Proxy-only) BestFold,0.8,7.1,94.0,50.6,0.5915,0.756,0.0206,50.6,0.1294

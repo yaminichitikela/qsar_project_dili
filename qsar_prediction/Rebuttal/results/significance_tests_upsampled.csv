@@ -1,0 +1,5 @@
+Assay,SplitScheme,Comparison,Model_A,Model_B,n_train_basis,N,MeanROCAUC_A,MeanROCAUC_B,MeanDiff,CorrectedT_stat,CorrectedT_pvalue,Wilcoxon_pvalue,CorrectedT_pvalue_Holm,Wilcoxon_pvalue_Holm,Significant_at_0.05_Holm
+AID_720637 (MMP summary),"LOO (10-fold), up-sampled",Consensus vs. best individual,Consensus,GIN,distinct,10,0.9319,0.9226,0.0093,3.6231,0.0055,0.002,0.011,0.004,True
+AID_720637 (MMP summary),"LOO (10-fold), up-sampled",Consensus vs. best individual,Consensus,GIN,rows,10,0.9319,0.9226,0.0093,4.1314,0.0026,0.002,0.0052,0.004,True
+AID_1347037 (Caspase CHO-K1),"LOO (10-fold), up-sampled",Consensus vs. best individual,Consensus,GIN,distinct,10,0.827,0.8076,0.0194,1.2073,0.2581,0.1602,0.2581,0.1602,False
+AID_1347037 (Caspase CHO-K1),"LOO (10-fold), up-sampled",Consensus vs. best individual,Consensus,GIN,rows,10,0.827,0.8076,0.0194,1.4143,0.1909,0.1602,0.1909,0.1602,False

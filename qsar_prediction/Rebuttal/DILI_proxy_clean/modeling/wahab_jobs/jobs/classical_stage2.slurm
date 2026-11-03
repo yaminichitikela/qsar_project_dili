@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH --job-name=pc_clas_s2
+#SBATCH --account=odu
+#SBATCH --partition=main
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=16G
+#SBATCH --time=05:00:00
+#SBATCH --output=../logs/classical_s2_%j.out
+#SBATCH --error=../logs/classical_s2_%j.err
+
+module load python3/2025.1-py312
+source ~/qsar_env/bin/activate
+
+cd "$SLURM_SUBMIT_DIR/.."
+python train_classical_stage2.py

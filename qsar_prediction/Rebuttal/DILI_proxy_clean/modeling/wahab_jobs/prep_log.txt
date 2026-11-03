@@ -1,0 +1,24 @@
+=== Loading + computing InChIKey for all 4 DILI files ===
+
+=== Deduping each file by InChIKey (majority vote on label conflicts) ===
+Gold-1111:
+  InChIKey dedup: 1,096 rows -> 1,096 unique compounds (0 label conflicts resolved by majority vote, 0 dropped on exact tie)
+Held-223:
+  InChIKey dedup: 222 rows -> 222 unique compounds (0 label conflicts resolved by majority vote, 0 dropped on exact tie)
+Alloriginal:
+  InChIKey dedup: 19,908 rows -> 12,213 unique compounds (974 label conflicts resolved by majority vote, 909 dropped on exact tie)
+NCV-888:
+  InChIKey dedup: 874 rows -> 874 unique compounds (0 label conflicts resolved by majority vote, 0 dropped on exact tie)
+
+Clinical pool (Alloriginal - Gold-1111 - Held-223 - NCV-888, by InChIKey): 11,303  DILI+=3,172  DILI-=8,131
+Leakage check (InChIKey): clinical pool has 0 overlap with Held-223, 0 overlap with NCV-888.
+Clinical train / val : 10,172 / 1,131  (90/10, full pool, nothing discarded)
+
+=== Building features (ECFP4 + atom/bond graphs + Laplacian PE) ===
+clin_train: 10,172  DILI+=2,855  DILI-=7,317
+clin_val: 1,131  DILI+=317  DILI-=814
+NCV-888: 874  DILI+=553  DILI-=321
+held_test (223): 222  DILI+=155  DILI-=67
+
+Atom feature dim: 23  Bond feature dim: 6  ECFP4 bits: 1024
+Saved all split files to /home/ychit001/dili_proxy_clean/data/

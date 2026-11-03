@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,GraphGPS Stage-2 (Proxy+DILI),0.5,83.6,52.6,68.1,0.7648,0.5642,0.3287,68.1,0.5475
+Test,GraphGPS Stage-2 (Proxy+DILI),0.5,76.8,41.8,59.3,0.6273,0.7713,0.1881,59.3,0.7604
+Val,GraphGPS Stage-2 (Proxy+DILI),0.8,29.3,94.6,62.0,0.7648,0.5642,0.3294,62.0,0.4097
+Test,GraphGPS Stage-2 (Proxy+DILI),0.8,16.1,94.0,55.1,0.6273,0.7713,0.1384,55.1,0.2717

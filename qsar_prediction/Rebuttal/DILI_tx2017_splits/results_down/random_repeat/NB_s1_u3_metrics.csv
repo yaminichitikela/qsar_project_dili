@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+random_repeat,1,3,val,NB,0.5,61.1,61.5,61.3,0.6422,0.4425,0.2137,61.3,0.5109
+random_repeat,1,3,itest,NB,0.5,59.9,61.2,60.5,0.6553,0.478,0.1985,60.5,0.5016
+random_repeat,1,3,test,NB,0.5,63.2,56.7,60.0,0.5984,0.7918,0.185,60.0,0.695
+random_repeat,1,3,val,NB,0.8,32.9,82.3,57.6,0.6422,0.4425,0.1709,57.6,0.39
+random_repeat,1,3,itest,NB,0.8,33.7,84.2,58.9,0.6553,0.478,0.2032,58.9,0.406
+random_repeat,1,3,test,NB,0.8,35.5,79.1,57.3,0.5984,0.7918,0.1447,57.3,0.4911

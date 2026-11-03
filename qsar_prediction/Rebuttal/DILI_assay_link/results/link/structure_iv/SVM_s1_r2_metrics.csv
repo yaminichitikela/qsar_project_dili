@@ -1,0 +1,5 @@
+Arm,Stage,Repeat,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+structure_iv,1,2,val,SVM,0.5,44.1,87.5,65.8,0.7642,0.6042,0.3534,65.8,0.5206
+structure_iv,1,2,test,SVM,0.5,30.3,82.1,56.2,0.6025,0.7644,0.129,56.2,0.4393
+structure_iv,1,2,val,SVM,0.8,0.2,100.0,50.1,0.7642,0.6042,0.0409,50.1,0.005
+structure_iv,1,2,test,SVM,0.8,0.0,100.0,50.0,0.6025,0.7644,0.0,50.0,0.0

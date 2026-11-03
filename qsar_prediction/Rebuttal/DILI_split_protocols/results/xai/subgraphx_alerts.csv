@@ -1,0 +1,220 @@
+model,rank,inchikey,smiles,prob,n_atoms,n_highlighted,fragment,svg,mask
+Graphormer,1,VNFPBHJOKIVQEB-UHFFFAOYSA-N,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,0.8866,25,3,ccCl,graphormer_tp1.svg,1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,2,MLDQJTXFUGDVEO-UHFFFAOYSA-N,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,0.8727,32,4,cOcc,graphormer_tp2.svg,0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+Graphormer,3,JZFPYUNJRRFVQU-UHFFFAOYSA-N,O=C(O)c1ccc[nH]c1=Nc1cccc(C(F)(F)F)c1,0.8719,20,7,Cc(c)c=Ncc,graphormer_tp3.svg,0 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+Graphormer,4,HPJKCIUCZWXJDR-UHFFFAOYSA-N,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1,0.8715,22,5,Ccccc,graphormer_tp4.svg,0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,5,LUBHDINQXIHVLS-UHFFFAOYSA-N,COc1ccc2c(C(=S)N(C)CC(=O)O)cccc2c1C(F)(F)F,0.8681,24,6,OccC(F)F,graphormer_tp5.svg,0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0
+Graphormer,6,GPXBXXGIAQBQNI-UHFFFAOYSA-N,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,0.8553,33,7,cccNSCC,graphormer_tp6.svg,0 1 1 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Graphormer,7,FOHHNHSLJDZUGQ-UHFFFAOYSA-N,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c2cc(C(F)(F)F)ccc12,0.8477,33,4,ccCF,graphormer_tp7.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+Graphormer,8,VHOGYURTWQBHIL-UHFFFAOYSA-N,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,0.8434,19,4,Cc(c)c,graphormer_tp8.svg,0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,9,XCPGHVQEEXUHNC-UHFFFAOYSA-N,COc1cc(NS(C)(=O)=O)ccc1N=c1c2ccccc2[nH]c2ccccc12,0.8432,28,5,ccccc,graphormer_tp9.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1
+Graphormer,10,BPQMGSKTAYIVFO-UHFFFAOYSA-N,CS(=O)(=O)c1ccc(C(=O)Nc2ccc(Cl)c(-c3ccccn3)c2)c(Cl)c1,0.8417,27,6,cccc(S)c,graphormer_tp10.svg,0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+Graphormer,11,OEHFRZLKGRKFAS-UHFFFAOYSA-N,CN1c2c(oc(=O)n(-c3ccccn3)c2=O)-c2ccccc2S1(=O)=O,0.8399,25,8,c-nccNScc,graphormer_tp11.svg,0 1 1 0 0 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 1 1 0 0
+Graphormer,12,RITAVMQDGBJQJZ-UHFFFAOYSA-N,CNC(=O)c1ccccc1Sc1ccc2c(C=Cc3ccccn3)[nH]nc2c1,0.8391,28,8,cC=Ccnccc,graphormer_tp12.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 0 0
+Graphormer,13,LMEKQMALGUDUQG-UHFFFAOYSA-N,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12,0.8388,19,4,ccnc,graphormer_tp13.svg,0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+Graphormer,14,DOMXUEMWDBAQBQ-UHFFFAOYSA-N,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12,0.8282,22,4,C=CCN,graphormer_tp14.svg,0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,15,FIIAPJASQSDOKY-UHFFFAOYSA-N,Cc1cc(=O)c2c(O)c3c(O)cc(O)c4c5c(O)cc(O)c6c(=O)c7c(O)cc(C)c8c1c2c(c34)c(c65)c78,0.8256,38,11,cccc(c)cc(c)ccc,graphormer_tp15.svg,0 1 0 1 0 1 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0
+Graphormer,16,DDUHZTYCFQRHIY-UHFFFAOYSA-N,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,0.8244,24,7,ccc(O)ccO,graphormer_tp16.svg,0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 0
+Graphormer,17,FTALBRSUTCGOEG-UHFFFAOYSA-N,N=c1[nH]c2ccc(OC(F)(F)F)cc2s1,0.8223,15,2,cc,graphormer_tp17.svg,0 0 0 1 0 0 0 0 0 0 0 0 0 1 0
+Graphormer,18,QZOZORJVUIIALW-UHFFFAOYSA-N,CC(C)=Nc1cc2c(cc1Nc1ccc(Cl)cc1)Nc1ccccc1N2c1ccc(Cl)cc1,0.8214,33,5,ccccc,graphormer_tp18.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 1
+Graphormer,19,NGBFQHCMQULJNZ-UHFFFAOYSA-N,Cc1cccc(N=c2cc[nH]cc2S(=O)(=O)NC(=O)NC(C)C)c1,0.8189,24,7,ccSNCNC,graphormer_tp19.svg,0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 0 0
+Graphormer,20,ACGUYXCXAPNIKK-UHFFFAOYSA-N,Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl,0.8176,21,5,ccccc,graphormer_tp20.svg,0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 1 0
+Graphormer,21,SVOQIEJWJCQGDQ-UHFFFAOYSA-N,Cc1ccc(-n2[nH]c(C)c(N=Nc3cccc(-c4cccc(C(=O)O)c4)c3O)c2=O)cc1C,0.8155,33,6,c-ccccc,graphormer_tp21.svg,0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+Graphormer,22,WEQAYVWKMWHEJO-UHFFFAOYSA-N,CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1,0.8152,17,5,CCNCS,graphormer_tp22.svg,0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0
+Graphormer,23,UCHDWCPVSPXUMX-UHFFFAOYSA-N,CC(C)(O)c1ccccc1CCC(SCC1(CC(=O)O)CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,0.8152,41,13,CcccccC(CCc)SCC,graphormer_tp23.svg,0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,24,CZFFBEXEKNGXKS-UHFFFAOYSA-N,Cc1nnc(C(=O)NC(C)(C)c2nc(C(=O)NCc3ccc(F)cc3)c(O)c(=O)n2C)o1,0.8095,32,10,CcccncC(C)NC,graphormer_tp24.svg,0 0 0 0 0 1 0 1 1 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0
+Graphormer,25,PZRHRDRVRGEVNW-UHFFFAOYSA-N,Cc1[nH]c(=O)c(C#N)cc1-c1ccncc1,0.8024,16,6,Ccc[nH]cc,graphormer_tp25.svg,0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 0
+Graphormer,26,MYXACKZCYFKMTE-UHFFFAOYSA-N,CCCC1(CCc2ccccc2)CC(=O)C(C(CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,0.7993,42,8,CCC(CC)c(c)c,graphormer_tp26.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+Graphormer,27,HOMGKSMUEGBAAB-UHFFFAOYSA-N,O=P1(NCCCl)OCCCN1CCCl,0.7909,14,4,CCNP,graphormer_tp27.svg,0 1 1 1 1 0 0 0 0 0 0 0 0 0
+Graphormer,28,JBDOSUUXMYMWQH-UHFFFAOYSA-N,S=C=Nc1cccc2ccccc12,0.7864,13,2,cc,graphormer_tp28.svg,0 0 0 0 1 1 0 0 0 0 0 0 0
+Graphormer,29,RZEKVGVHFLEQIL-UHFFFAOYSA-N,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,0.7816,26,5,c-c(c)nn,graphormer_tp29.svg,0 0 0 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,30,CUIHSIWYWATEQL-UHFFFAOYSA-N,Cc1ccc(N=c2nc(N(C)c3ccc4c(C)n(C)nc4c3)cc[nH]2)cc1S(N)(=O)=O,0.7774,31,6,cN=c[nH]cc,graphormer_tp30.svg,0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+Graphormer,31,GSADSJFVCHVKRH-UHFFFAOYSA-N,Cc1ccc(C(=O)NC2C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c2c1Oc1c(C)c(O)c(N)c(C(=O)N=C3C(=O)NC(C(C)C)C(=O)N4CCCC4C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC3C)c1N2,0.7719,90,9,cccc(CN=CC)c,graphormer_tp31.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0
+Graphormer,32,GJPICJJJRGTNOD-UHFFFAOYSA-N,COc1ccccc1Oc1c(OCCO)[nH]c(-c2ncccn2)nc1=NS(=O)(=O)c1ccc(C(C)(C)C)cc1,0.7709,39,8,cccSN=ccc,graphormer_tp32.svg,0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0
+Graphormer,33,DZFQLAHFWAYDSR-UHFFFAOYSA-N,COC12C(=COC(N)=O)c3c(O)c(N)c(C)c(O)c3N1CC1NC12,0.7605,24,11,cccccCC(O)(N)CC,graphormer_tp33.svg,0 1 1 1 0 0 0 0 0 1 1 0 1 0 1 0 1 0 0 1 0 1 0 1
+Graphormer,34,VGKDLMBJGBXTGI-UHFFFAOYSA-N,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,0.7603,20,6,ccccCC,graphormer_tp34.svg,0 0 0 0 1 1 1 0 0 1 0 1 0 1 0 0 0 0 0 0
+Graphormer,35,NSIUCUILQKEQTB-UHFFFAOYSA-N,COC1=NC(C)=NC(Cl)C1N=c1[nH]cc[nH]1,0.7567,16,3,COC,graphormer_tp35.svg,1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,36,CARRCRVKWDEWCD-UHFFFAOYSA-N,Oc1cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2[nH]1,0.7531,28,5,ccccc,graphormer_tp36.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0
+Graphormer,37,HEMJJKBWTPKOJG-UHFFFAOYSA-N,Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1,0.7436,18,4,CCCC,graphormer_tp37.svg,0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0
+Graphormer,38,SGTNSNPWRIOYBX-UHFFFAOYSA-N,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,0.7413,33,5,ccccO,graphormer_tp38.svg,0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0
+Graphormer,39,NASXCEITKQITLD-UHFFFAOYSA-N,O=C1c2ccccc2C(=O)C1c1ccc(F)cc1,0.7395,18,7,cC1Ccc(c)C1,graphormer_tp39.svg,0 1 1 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0
+Graphormer,40,IZEKFCXSFNUWAM-UHFFFAOYSA-N,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,0.7381,36,6,cccncN,graphormer_tp40.svg,0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Graphormer,41,NBQKINXMPLXUET-UHFFFAOYSA-N,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,0.7368,36,4,CCCC,graphormer_tp41.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+Graphormer,42,UNAANXDKBXWMLN-UHFFFAOYSA-N,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1,0.7346,19,2,CN,graphormer_tp42.svg,0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,43,MLKXDPUZXIRXEP-UHFFFAOYSA-N,CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc1ccc([S+](C)[O-])cc1,0.7286,25,6,CCC=CC=C,graphormer_tp43.svg,0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+Graphormer,44,XFYDIVBRZNQMJC-UHFFFAOYSA-N,Clc1ccc2nsnc2c1NC1=NCCN1,0.7282,16,7,cccc(n)cn,graphormer_tp44.svg,0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 0
+Graphormer,45,BYFMCKSPFYVMOU-UHFFFAOYSA-N,O=C(O)COc1nn(Cc2ccccc2)c2ccccc12,0.728,21,7,cCn(n)c(c)c,graphormer_tp45.svg,0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 0 1
+Graphormer,46,XZMCDFZZKTWFGF-UHFFFAOYSA-N,N#CN,0.7274,3,3,N#CN,graphormer_tp46.svg,1 1 1
+Graphormer,47,VXUVVFFRFRITPE-UHFFFAOYSA-N,CN(CCCCCCCCCCN(C)C(=O)Oc1ccccc1[N+](C)(C)C)C(=O)Oc1ccccc1[N+](C)(C)C,0.7271,40,5,ccccc,graphormer_tp47.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+Graphormer,48,YEEZWCHGZNKEEK-UHFFFAOYSA-N,COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,0.7266,41,6,ccNCOC,graphormer_tp48.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 0 0 0 0 0 0
+Graphormer,49,YQEZLKZALYSWHR-UHFFFAOYSA-N,CNC1(c2ccccc2Cl)CCCCC1=O,0.7241,16,3,CCN,graphormer_tp49.svg,0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0
+Graphormer,50,ZJVFLBOZORBYFE-UHFFFAOYSA-N,CC(C)C(=O)c1c(C(C)C)nn2ccccc12,0.7225,17,6,CccCCC,graphormer_tp50.svg,0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0
+Graphormer,51,BBAWEDCPNXPBQM-UHFFFAOYSA-N,CCCC(NC(=O)C1C2CCCC2CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,0.7191,49,7,CCC(CC)NC,graphormer_tp51.svg,0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0
+Graphormer,52,OLNTVTPDXPETLC-UHFFFAOYSA-N,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc(O)cc2)N1c1ccc(F)cc1,0.7188,30,4,CCCc,graphormer_tp52.svg,0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,53,MFFMDFFZMYYVKS-UHFFFAOYSA-N,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F,0.7104,28,10,ccc(CCCCN)cc,graphormer_tp53.svg,0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 0
+Graphormer,54,NAVMQTYZDKMPEU-UHFFFAOYSA-N,C=C(c1ccc(C(=O)O)cc1)c1cc2c(cc1C)C(C)(C)CCC2(C)C,0.7096,26,12,Cc(c)cccCc(c)ccC,graphormer_tp54.svg,0 1 1 0 1 1 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 1 0 0
+Graphormer,55,GWNOTCOIYUNTQP-UHFFFAOYSA-N,CCCCN1C(=O)C(C(O)C2CCCCC2)NC(=O)C12CCN(Cc1ccc(Oc3ccc(C(=O)O)cc3)cc1)CC2,0.7039,42,7,CCCCN(C)C,graphormer_tp55.svg,0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,56,OZWKMVRBQXNZKK-UHFFFAOYSA-N,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,0.7035,19,5,cCccc,graphormer_tp56.svg,0 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+Graphormer,57,ALLWOAVDORUJLA-UHFFFAOYSA-N,O=C(NC(Cc1cc(=O)[nH]c2ccccc12)C(=O)O)c1ccc(Cl)cc1,0.702,26,5,ccc[nH]c,graphormer_tp57.svg,0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,58,BQSJTQLCZDPROO-UHFFFAOYSA-N,Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O,0.6974,22,5,Cc(c)sc,graphormer_tp58.svg,0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0
+Graphormer,59,MWLSOWXNZPKENC-UHFFFAOYSA-N,CC(c1cc2ccccc2s1)N(O)C(N)=O,0.6957,16,5,CNCcs,graphormer_tp59.svg,0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0
+Graphormer,60,CJBJHOAVZSMMDJ-UHFFFAOYSA-N,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1,0.6933,38,14,cSN(CC)CCC(Ccc)NCO,graphormer_tp60.svg,0 1 0 1 1 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0
+Graphormer,61,YBSJFWOBGCMAKL-UHFFFAOYSA-N,Cn1c(CNc2ccc(C(=N)N)cc2)nc2cc(C(=O)N(CCC(=O)O)c3ccccn3)ccc21,0.6873,35,7,cCN(c)CCC,graphormer_tp61.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+Graphormer,62,FAEKWTJYAYMJKF-UHFFFAOYSA-N,CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,0.6833,33,6,CccccC,graphormer_tp62.svg,0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+Graphormer,63,QCTRMDIJRRVPPY-UHFFFAOYSA-N,CN1CCN(C(=O)Oc2c3nccnc3c(O)n2-c2ccc(Cl)cn2)CC1,0.6769,27,6,nc1ccnc1,graphormer_tp63.svg,0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0
+Graphormer,64,OQIQSTLJSLGHID-UHFFFAOYSA-N,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)C1C=COC1O2,0.6753,23,5,ccCCC,graphormer_tp64.svg,0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0
+Graphormer,65,ZBPLOVFIXSTCRZ-UHFFFAOYSA-N,Nc1c(CC(=O)O)cccc1C(=O)c1ccc(Br)cc1,0.6723,20,8,CCc(c)cc(C)c,graphormer_tp65.svg,0 1 1 1 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0
+Graphormer,66,JICJBGPOMZQUBB-UHFFFAOYSA-N,CN1c2ccccc2C(NCCCCCCC(=O)O)c2ccc(Cl)cc2S1(=O)=O,0.6716,29,7,CCCCCCC,graphormer_tp66.svg,0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,67,OFPXSFXSNFPTHF-UHFFFAOYSA-N,O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1,0.6705,22,4,CCCc,graphormer_tp67.svg,0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,68,DYYIUCVAQGRACE-UHFFFAOYSA-N,COC1C(OC(N)=O)C(O)C(Oc2ccc3c(=O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(O)oc3c2C)OC1(C)C,0.6683,44,7,CCC(OC)CO,graphormer_tp68.svg,1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+Graphormer,69,NMTBSNPBIGRZBL-UHFFFAOYSA-N,Cc1nc([N+](=O)[O-])cn1-c1ccc([N+](=O)[O-])cc1,0.6681,18,4,cc-nc,graphormer_tp69.svg,0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+Graphormer,70,CXAGHAZMQSCAKJ-UHFFFAOYSA-N,CCOC1OC(=O)CC1NC(=O)C1CCCN2C(=O)CCC(NC(=O)c3nccc4ccccc34)C(=O)N12,0.6663,38,7,CCC(NCC)C,graphormer_tp70.svg,0 0 0 1 0 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,71,QCHFTSOMWOSFHM-UHFFFAOYSA-N,CCC1C(=O)OCC1Cc1cncn1C,0.6578,15,4,CC(C)C,graphormer_tp71.svg,0 1 1 1 0 0 0 1 0 0 0 0 0 0 0
+Graphormer,72,JMNCPTSDROGKTR-UHFFFAOYSA-N,CC(=O)OC1=C(C(CCC=C(C)C)C(=O)O)C2CC(O)C3C4(C)CCC(O)C(C)C4CCC3(C)C2(C)C1,0.6558,37,6,CCCCCO,graphormer_tp72.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0
+Graphormer,73,MFZWMTSUNYWVBU-UHFFFAOYSA-N,CCN(CC)CCNc1ccc(CO)c2sc3ccccc3c(=O)c12,0.6499,25,3,cNC,graphormer_tp73.svg,0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,74,XXROGKLTLUQVRX-UHFFFAOYSA-N,C=CCO,0.6491,4,3,C=CC,graphormer_tp74.svg,1 1 1 0
+Graphormer,75,XQYZDYMELSJDRZ-UHFFFAOYSA-N,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,0.648,25,5,cc(O)cO,graphormer_tp75.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 0
+Graphormer,76,GDLBFKVLRPITMI-UHFFFAOYSA-N,CC1=NS(=O)(=O)c2cc(Cl)ccc2N1,0.6467,14,5,ScccCl,graphormer_tp76.svg,0 0 0 1 0 0 1 1 1 1 0 0 0 0
+Graphormer,77,AUZONCFQVSMFAP-UHFFFAOYSA-N,CCN(CC)C(=S)SSC(=S)N(CC)CC,0.6452,16,4,CN(C)C,graphormer_tp77.svg,0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0
+Graphormer,78,WKSAUQYGYAYLPV-UHFFFAOYSA-N,CCc1[nH]c(=N)[nH]c(=N)c1-c1ccc(Cl)cc1,0.6451,17,2,cC,graphormer_tp78.svg,0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,79,NJBFOOCLYDNZJN-UHFFFAOYSA-N,O=C(CCBr)N1CCN(C(=O)CCBr)CC1,0.6443,16,6,CNCCNC,graphormer_tp79.svg,0 1 0 0 0 1 0 0 1 1 0 0 0 0 1 1
+Graphormer,80,PKVRCIRHQMSYJX-UHFFFAOYSA-N,COc1cc2c(cc1O)CCNC21CSC2c3c(OC(C)=O)c(C)c4c(c3C(COC1=O)N1C(O)C3Cc5cc(C)c(OC)c(O)c5C(C21)N3C)OCO4,0.6436,54,7,Oc1ccccc1,graphormer_tp80.svg,0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,81,NNYBQONXHNTVIJ-UHFFFAOYSA-N,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3,0.6421,21,5,CCC(C)c,graphormer_tp81.svg,0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 1 0 0 0 0 0
+Graphormer,82,JUUFBMODXQKSTD-UHFFFAOYSA-N,CCOC(=O)Nc1ccc(=NCc2ccc(F)cc2)[nH]c1N,0.6349,22,4,CNcc,graphormer_tp82.svg,0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Graphormer,83,ZBNZXTGUTAYRHI-UHFFFAOYSA-N,Cc1nc(=Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)[nH]1,0.6348,33,7,CCNCCNC,graphormer_tp83.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 1 0
+Graphormer,84,YYJKSCIIZGQWEE-UHFFFAOYSA-N,OCCN=CCNc1ccc(NCCNCCO)c2c(O)c3c(O)ccc(O)c3c(O)c12,0.6309,32,5,cNCC=N,graphormer_tp84.svg,0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,85,WSEQXVZVJXJVFP-UHFFFAOYSA-N,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,0.6304,24,6,cc(c)CCC,graphormer_tp85.svg,0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1
+Graphormer,86,XSDQTOBWRPYKKA-UHFFFAOYSA-N,N=C(N)NC(=O)c1nc(Cl)c(=N)[nH]c1N,0.6304,15,6,Ccc[nH]cc,graphormer_tp86.svg,0 0 0 0 1 0 1 0 1 0 1 0 1 1 0
+Graphormer,87,KTEIFNKAUNYNJU-UHFFFAOYSA-N,CC(Oc1cc(-c2cnn(C3CCNCC3)c2)c[nH]c1=N)c1c(Cl)ccc(F)c1Cl,0.6191,30,6,cccccCl,graphormer_tp87.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 1 1
+Graphormer,88,CFOYWRHIYXMDOT-UHFFFAOYSA-N,CCOC(=O)n1ccn(C)c1=S,0.6164,12,5,CncnC,graphormer_tp88.svg,0 0 0 1 0 1 0 0 1 1 1 0
+Graphormer,89,NQDJXKOVJZTUJA-UHFFFAOYSA-N,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,0.6119,20,5,CCNcn,graphormer_tp89.svg,0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0
+Graphormer,90,GJJFMKBJSRMPLA-UHFFFAOYSA-N,CCN(CC)C(=O)C1(c2ccccc2)CC1CN,0.6114,18,4,CCNC,graphormer_tp90.svg,1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,91,XRQDFNLINLXZLB-UHFFFAOYSA-N,CCC(CC)C(NC(C)=O)C1C(N=C(N)N)CC(C(=O)O)C1O,0.6086,23,4,CCCC,graphormer_tp91.svg,0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0
+Graphormer,92,CFCUWKMKBJTWLW-UHFFFAOYSA-N,COC(C(=O)C(O)C(C)O)C1Cc2cc3cc(OC4CC(OC5CC(O)C(O)C(C)O5)C(O)C(C)O4)c(C)c(O)c3c(O)c2C(=O)C1OC1CC(OC2CC(OC3CC(C)(O)C(O)C(C)O3)C(O)C(C)O2)C(O)C(C)O1,0.6074,76,8,CccccccC,graphormer_tp92.svg,0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,93,IMWZZHHPURKASS-UHFFFAOYSA-N,Cc1cc(C)cc(OCC2CNC(=O)O2)c1,0.6049,16,5,ccccc,graphormer_tp93.svg,0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 1
+Graphormer,94,IEDVJHCEMCRBQM-UHFFFAOYSA-N,COc1cc(Cc2c[nH]c(=N)[nH]c2=N)cc(OC)c1OC,0.6046,21,6,ccc(O)cO,graphormer_tp94.svg,0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0
+Graphormer,95,AAKJLRGGTJKAMG-UHFFFAOYSA-N,C#Cc1cccc(N=c2[nH]cnc3cc(OCCOC)c(OCCOC)cc23)c1,0.602,29,3,ccc,graphormer_tp95.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+Graphormer,96,JMOVFFLYGIQXMM-UHFFFAOYSA-N,Cc1cc(Br)c(O)c2ncccc12,0.6003,13,2,cc,graphormer_tp96.svg,0 1 0 0 0 0 0 0 0 0 0 0 1
+Graphormer,97,IPOBOOXFSRWSHL-UHFFFAOYSA-N,c1ccc(C2(c3ccccc3)CC2C2=NCCN2)cc1,0.5967,20,5,cC(cc)C,graphormer_tp97.svg,0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+Graphormer,98,ALVHFWNGOPERPY-UHFFFAOYSA-N,CCN(CC)CC=NC(=O)c1c(C)[nH]c(Cc2c(O)[nH]c3ccc(F)cc23)c1C,0.5958,29,4,CCNC,graphormer_tp98.svg,1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,99,YSEXMKHXIOCEJA-UHFFFAOYSA-N,COC12CC(COC(=O)c3cncc(Br)c3)CN(C)C1Cc1cn(C)c3cccc2c13,0.5834,31,5,ccCOC,graphormer_tp99.svg,1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+Graphormer,100,DJBNUMBKLMJRSA-UHFFFAOYSA-N,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F,0.5822,28,7,Cc(cc)ccO,graphormer_tp100.svg,0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+Graphormer,101,FBYFJOVKHROJSY-UHFFFAOYSA-N,CCCN(CCC)CCc1cccc2[nH]c(O)cc12,0.5789,19,5,CCNCC,graphormer_tp101.svg,0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,102,PMATZTZNYRCHOR-UHFFFAOYSA-N,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,0.5755,85,9,CN(C)C(C)CNCC,graphormer_tp102.svg,0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1
+Graphormer,103,GSNHKUDZZFZSJB-UHFFFAOYSA-N,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1,0.5584,37,6,Ccn(C)cn,graphormer_tp103.svg,0 1 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,104,JQSHBVHOMNKWFT-UHFFFAOYSA-N,c1cnc2cc3c(cc2n1)C1CNCC3C1,0.552,16,7,cccc(cC)C,graphormer_tp104.svg,0 0 0 1 1 1 1 0 1 0 1 0 0 0 1 0
+Graphormer,105,CMSMOCZEIVJLDB-UHFFFAOYSA-N,O=P1(N(CCCl)CCCl)NCCCO1,0.5436,14,6,CCNP(N)O,graphormer_tp105.svg,0 1 1 0 0 0 0 0 0 1 1 1 0 1
+Graphormer,106,WDTAYDBPNYFWDR-UHFFFAOYSA-N,COc1cccc2c1C1CN(CCCCn3c(=O)[nH]c4c(sc5ncc(-c6ccccc6)nc54)c3=O)CC1CO2,0.5416,40,6,cccccn,graphormer_tp106.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+Graphormer,107,QXKHYNVANLEOEG-UHFFFAOYSA-N,COc1c2occc2cc2ccc(=O)oc12,0.5348,16,3,ccc,graphormer_tp107.svg,0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+Graphormer,108,KTUFNOKKBVMGRW-UHFFFAOYSA-N,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1N=c1nc(-c2cccnc2)cc[nH]1,0.5331,37,7,cCNcccc,graphormer_tp108.svg,0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,109,XXPANQJNYNUNES-UHFFFAOYSA-N,CN1Cc2c(N)cccc2C(c2ccccc2)C1,0.5251,18,3,CNC,graphormer_tp109.svg,0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+Graphormer,110,GSNOZLZNQMLSKJ-UHFFFAOYSA-N,CCN(CC)c1cc(C)nc2ncnn12,0.5243,15,3,CNC,graphormer_tp110.svg,0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+Graphormer,111,AHOUBRCZNHFOSL-UHFFFAOYSA-N,Fc1ccc(C2CCNCC2COc2ccc3c(c2)OCO3)cc1,0.5236,24,6,c1ccccc1,graphormer_tp111.svg,0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+Graphormer,112,YLJREFDVOIBQDA-UHFFFAOYSA-N,N=c1c2c([nH]c3ccccc13)CCCC2,0.5195,15,6,cccc(c)c,graphormer_tp112.svg,0 1 0 0 0 1 0 1 1 1 1 0 0 0 0
+Graphormer,113,CMCCHHWTTBEZNM-UHFFFAOYSA-N,CC(C)C(Br)C(=O)NC(N)=O,0.5184,11,5,CNCCC,graphormer_tp113.svg,0 1 0 1 0 1 0 1 1 0 0
+Graphormer,114,OLBCVFGFOZPWHH-UHFFFAOYSA-N,CC(C)c1cccc(C(C)C)c1O,0.5155,13,6,cc(C)ccC,graphormer_tp114.svg,0 1 0 1 0 0 1 1 1 0 0 1 0
+Graphormer,115,ICFJFFQQTFMIBG-UHFFFAOYSA-N,N=C(N)N=C(N)NCCc1ccccc1,0.5133,15,4,ccCC,graphormer_tp115.svg,0 0 0 0 0 0 0 1 1 1 1 0 0 0 0
+Graphormer,116,AQIXAKUUQRKLND-UHFFFAOYSA-N,CN=C(NC#N)NCCSCc1[nH]cnc1C,0.5126,17,4,cnc[nH],graphormer_tp116.svg,0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0
+Graphormer,117,TYNLGDBUJLVSMA-UHFFFAOYSA-N,CC(=O)Oc1cccc2c1C(=O)c1c(OC(C)=O)cc(C(=O)O)cc1C2=O,0.5028,27,7,cCc(c)c(c)C,graphormer_tp117.svg,0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0
+Graphormer,118,AHLBNYSZXLDEJQ-UHFFFAOYSA-N,CCCCCCCCCCCC(CC1OC(=O)C1CCCCCC)OC(=O)C(CC(C)C)NC=O,0.501,35,5,CCCCC,graphormer_tp118.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,1,AHLBNYSZXLDEJQ-UHFFFAOYSA-N,CCCCCCCCCCCC(CC1OC(=O)C1CCCCCC)OC(=O)C(CC(C)C)NC=O,0.9967,35,6,CC1COC1=O,graphgps_tp1.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,2,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,0.9962,11,4,CNP=S,graphgps_tp2.svg,1 1 0 0 0 1 1 0 0 0 0
+GraphGPS,3,ACGUYXCXAPNIKK-UHFFFAOYSA-N,Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl,0.9957,21,5,ccccc,graphgps_tp3.svg,0 1 1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,4,WSEQXVZVJXJVFP-UHFFFAOYSA-N,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,0.9938,24,3,CCC,graphgps_tp4.svg,0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,5,WDTAYDBPNYFWDR-UHFFFAOYSA-N,COc1cccc2c1C1CN(CCCCn3c(=O)[nH]c4c(sc5ncc(-c6ccccc6)nc54)c3=O)CC1CO2,0.9899,40,5,cc-c(c)c,graphgps_tp5.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0
+GraphGPS,6,AHOUBRCZNHFOSL-UHFFFAOYSA-N,Fc1ccc(C2CCNCC2COc2ccc3c(c2)OCO3)cc1,0.9877,24,6,cccccF,graphgps_tp6.svg,1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+GraphGPS,7,KJADKKWYZYXHBB-UHFFFAOYSA-N,CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1,0.9866,22,4,CCCC,graphgps_tp7.svg,0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0
+GraphGPS,8,FIIAPJASQSDOKY-UHFFFAOYSA-N,Cc1cc(=O)c2c(O)c3c(O)cc(O)c4c5c(O)cc(O)c6c(=O)c7c(O)cc(C)c8c1c2c(c34)c(c65)c78,0.9815,38,6,ccc(c)c=O,graphgps_tp8.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+GraphGPS,9,BCQZXOMGPXTTIC-UHFFFAOYSA-N,FC(F)(F)C(Cl)Br,0.9812,7,3,CCF,graphgps_tp9.svg,0 1 0 1 1 0 0
+GraphGPS,10,GPXBXXGIAQBQNI-UHFFFAOYSA-N,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,0.9807,33,4,cccF,graphgps_tp10.svg,0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,11,VGKDLMBJGBXTGI-UHFFFAOYSA-N,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,0.9799,20,5,ccccc,graphgps_tp11.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1
+GraphGPS,12,YLJREFDVOIBQDA-UHFFFAOYSA-N,N=c1c2c([nH]c3ccccc13)CCCC2,0.9796,15,5,ccc(c)c,graphgps_tp12.svg,0 1 0 0 0 1 1 0 0 1 1 0 0 0 0
+GraphGPS,13,ALLWOAVDORUJLA-UHFFFAOYSA-N,O=C(NC(Cc1cc(=O)[nH]c2ccccc12)C(=O)O)c1ccc(Cl)cc1,0.9795,26,9,CCCc(c)c(c)cc,graphgps_tp13.svg,0 0 0 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+GraphGPS,14,AAKJLRGGTJKAMG-UHFFFAOYSA-N,C#Cc1cccc(N=c2[nH]cnc3cc(OCCOC)c(OCCOC)cc23)c1,0.9781,29,9,cccc(OC)c(O)c,graphgps_tp14.svg,0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 1 1 0
+GraphGPS,15,JBDOSUUXMYMWQH-UHFFFAOYSA-N,S=C=Nc1cccc2ccccc12,0.9764,13,3,ccc,graphgps_tp15.svg,0 0 0 0 0 0 0 0 1 1 1 0 0
+GraphGPS,16,YQEZLKZALYSWHR-UHFFFAOYSA-N,CNC1(c2ccccc2Cl)CCCCC1=O,0.9755,16,7,cc(Cl)cCCC,graphgps_tp16.svg,0 0 1 1 0 0 0 1 1 1 0 0 0 1 1 0
+GraphGPS,17,QCTRMDIJRRVPPY-UHFFFAOYSA-N,CN1CCN(C(=O)Oc2c3nccnc3c(O)n2-c2ccc(Cl)cn2)CC1,0.9723,27,5,ccc(Cl)c,graphgps_tp17.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0
+GraphGPS,18,SVOQIEJWJCQGDQ-UHFFFAOYSA-N,Cc1ccc(-n2[nH]c(C)c(N=Nc3cccc(-c4cccc(C(=O)O)c4)c3O)c2=O)cc1C,0.9701,33,5,ccccc,graphgps_tp18.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0
+GraphGPS,19,NBQKINXMPLXUET-UHFFFAOYSA-N,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,0.9697,36,7,ccc(c=O)cc,graphgps_tp19.svg,0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,20,CJBJHOAVZSMMDJ-UHFFFAOYSA-N,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc(N)cc1,0.9697,38,5,CNCCC,graphgps_tp20.svg,0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,21,YYJKSCIIZGQWEE-UHFFFAOYSA-N,OCCN=CCNc1ccc(NCCNCCO)c2c(O)c3c(O)ccc(O)c3c(O)c12,0.9696,32,9,ccccccccc,graphgps_tp21.svg,0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1
+GraphGPS,22,WEQAYVWKMWHEJO-UHFFFAOYSA-N,CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1,0.9686,17,5,ccccCl,graphgps_tp22.svg,0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1
+GraphGPS,23,UCHDWCPVSPXUMX-UHFFFAOYSA-N,CC(C)(O)c1ccccc1CCC(SCC1(CC(=O)O)CC1)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,0.9686,41,8,cccc(C(C)C)c,graphgps_tp23.svg,1 1 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,24,XCPGHVQEEXUHNC-UHFFFAOYSA-N,COc1cc(NS(C)(=O)=O)ccc1N=c1c2ccccc2[nH]c2ccccc12,0.9667,28,5,ccccc,graphgps_tp24.svg,0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,25,MLDQJTXFUGDVEO-UHFFFAOYSA-N,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,0.9646,32,4,cccc,graphgps_tp25.svg,0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+GraphGPS,26,XXPANQJNYNUNES-UHFFFAOYSA-N,CN1Cc2c(N)cccc2C(c2ccccc2)C1,0.9632,18,6,cccc(N)c,graphgps_tp26.svg,0 0 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0
+GraphGPS,27,CARRCRVKWDEWCD-UHFFFAOYSA-N,Oc1cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2[nH]1,0.9627,28,7,ccc(c)c(c)s,graphgps_tp27.svg,0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0
+GraphGPS,28,LUBHDINQXIHVLS-UHFFFAOYSA-N,COc1ccc2c(C(=S)N(C)CC(=O)O)cccc2c1C(F)(F)F,0.9622,24,9,Ccccc(CF)cc,graphgps_tp28.svg,0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0
+GraphGPS,29,GWNOTCOIYUNTQP-UHFFFAOYSA-N,CCCCN1C(=O)C(C(O)C2CCCCC2)NC(=O)C12CCN(Cc1ccc(Oc3ccc(C(=O)O)cc3)cc1)CC2,0.9608,42,6,CCCNCC,graphgps_tp29.svg,0 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,30,SGTNSNPWRIOYBX-UHFFFAOYSA-N,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,0.9567,33,4,cccc,graphgps_tp30.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+GraphGPS,31,MFFMDFFZMYYVKS-UHFFFAOYSA-N,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F,0.9509,28,4,FC(F)F,graphgps_tp31.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,32,GSADSJFVCHVKRH-UHFFFAOYSA-N,Cc1ccc(C(=O)NC2C(=O)NC(C(C)C)C(=O)N3CCCC3C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC2C)c2c1Oc1c(C)c(O)c(N)c(C(=O)N=C3C(=O)NC(C(C)C)C(=O)N4CCCC4C(=O)N(C)CC(=O)N(C)C(C(C)C)C(=O)OC3C)c1N2,0.9456,90,8,Cc1cccc(N)c1,graphgps_tp32.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+GraphGPS,33,XZWYZXLIPXDOLR-UHFFFAOYSA-N,CN(C)C(N)=NC(=N)N,0.9455,9,1,C,graphgps_tp33.svg,1 0 0 0 0 0 0 0 0
+GraphGPS,34,BPQMGSKTAYIVFO-UHFFFAOYSA-N,CS(=O)(=O)c1ccc(C(=O)Nc2ccc(Cl)c(-c3ccccn3)c2)c(Cl)c1,0.9344,27,5,ccccc,graphgps_tp34.svg,0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+GraphGPS,35,NGBFQHCMQULJNZ-UHFFFAOYSA-N,Cc1cccc(N=c2cc[nH]cc2S(=O)(=O)NC(=O)NC(C)C)c1,0.9333,24,4,cccC,graphgps_tp35.svg,1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+GraphGPS,36,DDUHZTYCFQRHIY-UHFFFAOYSA-N,COC1=CC(=O)CC(C)C12Oc1c(Cl)c(OC)cc(OC)c1C2=O,0.933,24,6,cccc(Cl)c,graphgps_tp36.svg,0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0 0 0 0 0
+GraphGPS,37,RITAVMQDGBJQJZ-UHFFFAOYSA-N,CNC(=O)c1ccccc1Sc1ccc2c(C=Cc3ccccn3)[nH]nc2c1,0.9304,28,6,c1ccccc1,graphgps_tp37.svg,0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1
+GraphGPS,38,OLNTVTPDXPETLC-UHFFFAOYSA-N,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc(O)cc2)N1c1ccc(F)cc1,0.9298,30,5,ccc(C)c,graphgps_tp38.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+GraphGPS,39,UNAANXDKBXWMLN-UHFFFAOYSA-N,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1,0.9276,19,5,ccccc,graphgps_tp39.svg,0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0
+GraphGPS,40,NASXCEITKQITLD-UHFFFAOYSA-N,O=C1c2ccccc2C(=O)C1c1ccc(F)cc1,0.926,18,4,cccF,graphgps_tp40.svg,0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0
+GraphGPS,41,GJJFMKBJSRMPLA-UHFFFAOYSA-N,CCN(CC)C(=O)C1(c2ccccc2)CC1CN,0.9257,18,7,CCc(c)ccc,graphgps_tp41.svg,0 0 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0
+GraphGPS,42,BQSJTQLCZDPROO-UHFFFAOYSA-N,Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O,0.9206,22,5,CccCO,graphgps_tp42.svg,1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1
+GraphGPS,43,CFOYWRHIYXMDOT-UHFFFAOYSA-N,CCOC(=O)n1ccn(C)c1=S,0.9102,12,3,nc=S,graphgps_tp43.svg,0 0 0 0 0 1 0 0 0 0 1 1
+GraphGPS,44,HPJKCIUCZWXJDR-UHFFFAOYSA-N,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1,0.9093,22,6,Cccccc,graphgps_tp44.svg,0 0 0 0 0 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0
+GraphGPS,45,PMATZTZNYRCHOR-UHFFFAOYSA-N,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,0.8975,85,5,CCCC=O,graphgps_tp45.svg,0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,46,MYXACKZCYFKMTE-UHFFFAOYSA-N,CCCC1(CCc2ccccc2)CC(=O)C(C(CC)c2cccc(NS(=O)(=O)c3ccc(C(F)(F)F)cn3)c2)C(=O)O1,0.896,42,3,CCC,graphgps_tp46.svg,1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,47,CFCUWKMKBJTWLW-UHFFFAOYSA-N,COC(C(=O)C(O)C(C)O)C1Cc2cc3cc(OC4CC(OC5CC(O)C(O)C(C)O5)C(O)C(C)O4)c(C)c(O)c3c(O)c2C(=O)C1OC1CC(OC2CC(OC3CC(C)(O)C(O)C(C)O3)C(O)C(C)O2)C(O)C(C)O1,0.8923,76,6,CCCC(C)C,graphgps_tp47.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,48,DYYIUCVAQGRACE-UHFFFAOYSA-N,COC1C(OC(N)=O)C(O)C(Oc2ccc3c(=O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(O)oc3c2C)OC1(C)C,0.8885,44,6,cc(c)ccC,graphgps_tp48.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0
+GraphGPS,49,FBYFJOVKHROJSY-UHFFFAOYSA-N,CCCN(CCC)CCc1cccc2[nH]c(O)cc12,0.8868,19,6,ccc(c)cc,graphgps_tp49.svg,0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1
+GraphGPS,50,YEEZWCHGZNKEEK-UHFFFAOYSA-N,COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,0.8818,41,10,ccCc(c)ccccc,graphgps_tp50.svg,0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1
+GraphGPS,51,OQIQSTLJSLGHID-UHFFFAOYSA-N,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)C1C=COC1O2,0.8706,23,8,cccc(cO)cc,graphgps_tp51.svg,0 1 1 0 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+GraphGPS,52,AEOCXXJPGCBFJA-UHFFFAOYSA-N,CCc1cc(C(N)=S)ccn1,0.8669,11,5,cc(C=S)c,graphgps_tp52.svg,0 0 0 1 1 1 0 1 1 0 0
+GraphGPS,53,OLBCVFGFOZPWHH-UHFFFAOYSA-N,CC(C)c1cccc(C(C)C)c1O,0.8606,13,2,cc,graphgps_tp53.svg,0 0 0 1 1 0 0 0 0 0 0 0 0
+GraphGPS,54,MLKXDPUZXIRXEP-UHFFFAOYSA-N,CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc1ccc([S+](C)[O-])cc1,0.8537,25,8,C=C1cc(c)C=C1C,graphgps_tp54.svg,1 1 1 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+GraphGPS,55,IPOBOOXFSRWSHL-UHFFFAOYSA-N,c1ccc(C2(c3ccccc3)CC2C2=NCCN2)cc1,0.852,20,4,cccc,graphgps_tp55.svg,1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+GraphGPS,56,GDLBFKVLRPITMI-UHFFFAOYSA-N,CC1=NS(=O)(=O)c2cc(Cl)ccc2N1,0.8516,14,6,cccc(c)S,graphgps_tp56.svg,0 0 0 1 0 0 1 1 0 0 1 1 1 0
+GraphGPS,57,GSNOZLZNQMLSKJ-UHFFFAOYSA-N,CCN(CC)c1cc(C)nc2ncnn12,0.8511,15,3,ccC,graphgps_tp57.svg,0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+GraphGPS,58,XFYDIVBRZNQMJC-UHFFFAOYSA-N,Clc1ccc2nsnc2c1NC1=NCCN1,0.841,16,6,cccc(Cl)c,graphgps_tp58.svg,1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0
+GraphGPS,59,MWLSOWXNZPKENC-UHFFFAOYSA-N,CC(c1cc2ccccc2s1)N(O)C(N)=O,0.8384,16,5,ccc(c)c,graphgps_tp59.svg,0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 0
+GraphGPS,60,QXKHYNVANLEOEG-UHFFFAOYSA-N,COc1c2occc2cc2ccc(=O)oc12,0.8334,16,6,ccc(o)cc,graphgps_tp60.svg,0 0 1 1 1 0 0 1 1 0 0 0 0 0 0 1
+GraphGPS,61,JICJBGPOMZQUBB-UHFFFAOYSA-N,CN1c2ccccc2C(NCCCCCCC(=O)O)c2ccc(Cl)cc2S1(=O)=O,0.8289,29,7,Clc1ccccc1,graphgps_tp61.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0
+GraphGPS,62,DZFQLAHFWAYDSR-UHFFFAOYSA-N,COC12C(=COC(N)=O)c3c(O)c(N)c(C)c(O)c3N1CC1NC12,0.8213,24,6,cccc(C)c,graphgps_tp62.svg,0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 1 0 0 0 0 0
+GraphGPS,63,KTEIFNKAUNYNJU-UHFFFAOYSA-N,CC(Oc1cc(-c2cnn(C3CCNCC3)c2)c[nH]c1=N)c1c(Cl)ccc(F)c1Cl,0.8175,30,7,cccc(F)cCl,graphgps_tp63.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1
+GraphGPS,64,CXAGHAZMQSCAKJ-UHFFFAOYSA-N,CCOC1OC(=O)CC1NC(=O)C1CCCN2C(=O)CCC(NC(=O)c3nccc4ccccc34)C(=O)N12,0.8102,38,9,ccc1ccccc1c,graphgps_tp64.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0 0 0
+GraphGPS,65,FDKXTQMXEQVLRF-UHFFFAOYSA-N,CN(C)N=Nc1[nH]cnc1C(N)=O,0.8017,13,2,CN,graphgps_tp65.svg,0 0 0 0 0 0 0 0 0 0 1 1 0
+GraphGPS,66,YSEXMKHXIOCEJA-UHFFFAOYSA-N,COC12CC(COC(=O)c3cncc(Br)c3)CN(C)C1Cc1cn(C)c3cccc2c13,0.8003,31,6,ccn(C)cc,graphgps_tp66.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0
+GraphGPS,67,ICFJFFQQTFMIBG-UHFFFAOYSA-N,N=C(N)N=C(N)NCCc1ccccc1,0.7879,15,4,cccc,graphgps_tp67.svg,0 0 0 0 0 0 0 0 0 1 1 1 0 0 1
+GraphGPS,68,PMRYVIKBURPHAH-UHFFFAOYSA-N,Cn1cc[nH]c1=S,0.787,7,2,cc,graphgps_tp68.svg,0 0 1 1 0 0 0
+GraphGPS,69,XSDQTOBWRPYKKA-UHFFFAOYSA-N,N=C(N)NC(=O)c1nc(Cl)c(=N)[nH]c1N,0.7837,15,7,NCNCccN,graphgps_tp69.svg,0 1 1 1 1 0 1 0 0 0 0 0 0 1 1
+GraphGPS,70,DJBNUMBKLMJRSA-UHFFFAOYSA-N,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F,0.7808,28,4,FC(F)F,graphgps_tp70.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+GraphGPS,71,XRQDFNLINLXZLB-UHFFFAOYSA-N,CCC(CC)C(NC(C)=O)C1C(N=C(N)N)CC(C(=O)O)C1O,0.771,23,7,CCCCC(C)C,graphgps_tp71.svg,0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0
+GraphGPS,72,JMOVFFLYGIQXMM-UHFFFAOYSA-N,Cc1cc(Br)c(O)c2ncccc12,0.7687,13,3,ccBr,graphgps_tp72.svg,0 0 1 1 1 0 0 0 0 0 0 0 0
+GraphGPS,73,ZJVFLBOZORBYFE-UHFFFAOYSA-N,CC(C)C(=O)c1c(C(C)C)nn2ccccc12,0.7563,17,3,ccc,graphgps_tp73.svg,0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1
+GraphGPS,74,BBAWEDCPNXPBQM-UHFFFAOYSA-N,CCCC(NC(=O)C1C2CCCC2CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,0.7529,49,6,CCC(C)(C)C,graphgps_tp74.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+GraphGPS,75,VNFPBHJOKIVQEB-UHFFFAOYSA-N,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,0.7496,25,4,cccc,graphgps_tp75.svg,0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,76,JZFPYUNJRRFVQU-UHFFFAOYSA-N,O=C(O)c1ccc[nH]c1=Nc1cccc(C(F)(F)F)c1,0.7358,20,5,ccccc,graphgps_tp76.svg,0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1
+GraphGPS,77,NQDJXKOVJZTUJA-UHFFFAOYSA-N,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,0.7355,20,3,ccc,graphgps_tp77.svg,0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,78,NMTBSNPBIGRZBL-UHFFFAOYSA-N,Cc1nc([N+](=O)[O-])cn1-c1ccc([N+](=O)[O-])cc1,0.713,18,6,Ccncc[N+],graphgps_tp78.svg,1 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0
+GraphGPS,79,OEHFRZLKGRKFAS-UHFFFAOYSA-N,CN1c2c(oc(=O)n(-c3ccccn3)c2=O)-c2ccccc2S1(=O)=O,0.6961,25,4,ccc-n,graphgps_tp79.svg,0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,80,KLPWJLBORRMFGK-UHFFFAOYSA-N,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2,0.6956,20,7,cc(ccC)CC,graphgps_tp80.svg,0 0 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0
+GraphGPS,81,KZQYIMCESJLPQH-UHFFFAOYSA-N,Cc1cc(=O)n(-c2ccccc2)[nH]1,0.6934,13,6,cc-nccc,graphgps_tp81.svg,0 1 1 1 0 1 1 1 0 0 0 0 0
+GraphGPS,82,HEMJJKBWTPKOJG-UHFFFAOYSA-N,Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1,0.6648,18,5,ccc(C)c,graphgps_tp82.svg,0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,83,LMEKQMALGUDUQG-UHFFFAOYSA-N,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12,0.6595,19,3,c[N+][O-],graphgps_tp83.svg,0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,84,ZHHZHHSFKCANOC-UHFFFAOYSA-N,C=CCOC=O,0.6432,6,2,C=C,graphgps_tp84.svg,1 1 0 0 0 0
+GraphGPS,85,VSNHCAURESNICA-UHFFFAOYSA-N,NC(O)=NO,0.6288,5,2,CO,graphgps_tp85.svg,0 1 1 0 0
+GraphGPS,86,JRURYQJSLYLRLN-UHFFFAOYSA-N,CCN(CC)C(=O)C(C#N)=Cc1cc(O)c(O)c([N+](=O)[O-])c1,0.6277,22,5,cC=CC#N,graphgps_tp86.svg,0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+GraphGPS,87,KTUFNOKKBVMGRW-UHFFFAOYSA-N,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1N=c1nc(-c2cccnc2)cc[nH]1,0.6248,37,6,ccc(C)cc,graphgps_tp87.svg,1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,88,VHOGYURTWQBHIL-UHFFFAOYSA-N,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,0.6152,19,4,cccC,graphgps_tp88.svg,1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,89,RZEKVGVHFLEQIL-UHFFFAOYSA-N,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,0.6029,26,8,O=Sc1ccccc1,graphgps_tp89.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 1 0 0
+GraphGPS,90,VXFQOIANLLNPGH-UHFFFAOYSA-N,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)Nc3c(O)[nH]c(c(O)[nH]c(=C(O)O)c4cc(O)cc(O)c4c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,0.5919,101,11,ccOc(c)cc(c)CC=O,graphgps_tp90.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,91,CUIHSIWYWATEQL-UHFFFAOYSA-N,Cc1ccc(N=c2nc(N(C)c3ccc4c(C)n(C)nc4c3)cc[nH]2)cc1S(N)(=O)=O,0.5883,31,5,CccS=O,graphgps_tp91.svg,1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0
+GraphGPS,92,FZNCGRZWXLXZSZ-UHFFFAOYSA-N,OCC(CO)NC1CC(O)(CO)C(O)C(O)C1O,0.584,18,8,CCCCCNCC,graphgps_tp92.svg,0 1 1 0 0 1 1 0 1 0 0 0 1 0 1 0 1 0
+GraphGPS,93,AFCGFAGUEYAMAO-UHFFFAOYSA-N,CC(=O)NCCCS(=O)(=O)O,0.5797,11,2,CC,graphgps_tp93.svg,1 1 0 0 0 0 0 0 0 0 0
+GraphGPS,94,FTALBRSUTCGOEG-UHFFFAOYSA-N,N=c1[nH]c2ccc(OC(F)(F)F)cc2s1,0.571,15,5,ccccc,graphgps_tp94.svg,0 0 0 1 1 0 1 0 0 0 0 0 1 1 0
+GraphGPS,95,JMNCPTSDROGKTR-UHFFFAOYSA-N,CC(=O)OC1=C(C(CCC=C(C)C)C(=O)O)C2CC(O)C3C4(C)CCC(O)C(C)C4CCC3(C)C2(C)C1,0.5523,37,5,CCC(C)C,graphgps_tp95.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0
+GraphGPS,96,QCQGNTXXPCJRFZ-UHFFFAOYSA-N,CC1(C(=O)O)CCC2(C)CCC3(C)C(=C2C1)CC(=O)C1C2(C)CCC(OC4OC(C(=O)O)C(O)C(O)C4OC4OC(C(=O)O)C(O)C(O)C4O)C(C)(C)C2CCC13C,0.5487,58,9,CC(C)C(C=O)C(C)C,graphgps_tp96.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1
+GraphGPS,97,TYNLGDBUJLVSMA-UHFFFAOYSA-N,CC(=O)Oc1cccc2c1C(=O)c1c(OC(C)=O)cc(C(=O)O)cc1C2=O,0.5296,27,6,Cccccc,graphgps_tp97.svg,0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+GraphGPS,98,GSNHKUDZZFZSJB-UHFFFAOYSA-N,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1,0.5217,37,7,Cc1ccccc1,graphgps_tp98.svg,0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+GraphGPS,99,XZMCDFZZKTWFGF-UHFFFAOYSA-N,N#CN,0.5216,3,3,N#CN,graphgps_tp99.svg,1 1 1
+GraphGPS,100,QZOZORJVUIIALW-UHFFFAOYSA-N,CC(C)=Nc1cc2c(cc1Nc1ccc(Cl)cc1)Nc1ccccc1N2c1ccc(Cl)cc1,0.5193,33,6,cccN=CC,graphgps_tp100.svg,1 1 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+GraphGPS,101,OZWKMVRBQXNZKK-UHFFFAOYSA-N,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,0.5024,19,4,cccc,graphgps_tp101.svg,0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0

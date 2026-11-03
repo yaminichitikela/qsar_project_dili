@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,SVM-CV Stage-2 (Proxy+DILI) Ensemble,0.5,23.2,92.5,57.9,0.6102,0.7888,0.1865,57.9,0.3673
+Test,SVM-CV Stage-2 (Proxy+DILI) BestFold,0.5,23.2,89.6,56.4,0.599,0.7662,0.1484,56.4,0.3636
+Test,SVM-CV Stage-2 (Proxy+DILI) Ensemble,0.8,0.6,98.5,49.6,0.6102,0.7888,-0.0412,49.6,0.0127
+Test,SVM-CV Stage-2 (Proxy+DILI) BestFold,0.8,2.6,98.5,50.5,0.599,0.7662,0.0337,50.5,0.05

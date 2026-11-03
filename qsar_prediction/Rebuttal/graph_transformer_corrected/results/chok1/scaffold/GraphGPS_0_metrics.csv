@@ -1,0 +1,5 @@
+Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+0,Val,GraphGPS,0.5,0.0,100.0,50.0,0.6815,0.0637,0.0,50.0,0.0
+0,Test,GraphGPS,0.5,0.0,100.0,50.0,0.6188,0.1615,0.0,50.0,0.0
+0,Val,GraphGPS,0.8,0.0,100.0,50.0,0.6815,0.0637,0.0,50.0,0.0
+0,Test,GraphGPS,0.8,0.0,100.0,50.0,0.6188,0.1615,0.0,50.0,0.0

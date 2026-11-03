@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+scaffold,2,2,val,SAGE,0.5,78.5,59.0,68.8,0.7371,0.5749,0.3646,68.8,0.6334
+scaffold,2,2,itest,SAGE,0.5,70.5,59.5,65.0,0.714,0.5338,0.2852,65.0,0.568
+scaffold,2,2,test,SAGE,0.5,65.8,49.3,57.5,0.5933,0.7509,0.1419,57.5,0.701
+scaffold,2,2,val,SAGE,0.8,29.9,89.6,59.7,0.7371,0.5749,0.2461,59.7,0.4048
+scaffold,2,2,itest,SAGE,0.8,23.5,91.9,57.7,0.714,0.5338,0.2153,57.7,0.3383
+scaffold,2,2,test,SAGE,0.8,16.8,86.6,51.7,0.5933,0.7509,0.0421,51.7,0.2737

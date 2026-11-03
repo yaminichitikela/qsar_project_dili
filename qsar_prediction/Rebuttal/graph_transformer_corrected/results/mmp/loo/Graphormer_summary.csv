@@ -1,0 +1,5 @@
+Model,CPT,Stat,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Graphormer,0.5,mean,83.07,71.8,77.45,0.8561,0.5187,0.4045,77.45,0.4767
+Graphormer,0.5,std,6.58,5.39,2.92,0.0224,0.0635,0.0481,2.92,0.0387
+Graphormer,0.8,mean,60.94,87.38,74.16,0.8561,0.5187,0.4323,74.16,0.5135
+Graphormer,0.8,std,13.25,4.61,4.73,0.0224,0.0635,0.0497,4.73,0.0436

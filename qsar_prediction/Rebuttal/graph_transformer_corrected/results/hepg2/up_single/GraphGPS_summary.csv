@@ -1,0 +1,5 @@
+Model,CPT,Stat,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+GraphGPS,0.5,mean,85.7,72.0,78.9,0.8531,0.3547,0.2418,78.9,0.1935
+GraphGPS,0.5,std,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GraphGPS,0.8,mean,75.0,81.2,78.1,0.8531,0.3547,0.2651,78.1,0.232
+GraphGPS,0.8,std,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

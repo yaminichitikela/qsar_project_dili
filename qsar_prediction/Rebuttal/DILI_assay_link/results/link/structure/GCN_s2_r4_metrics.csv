@@ -1,0 +1,5 @@
+Arm,Stage,Repeat,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+structure,2,4,val,GCN,0.5,72.3,67.9,70.1,0.7639,0.5788,0.3802,70.1,0.6092
+structure,2,4,test,GCN,0.5,69.0,49.3,59.1,0.6263,0.7718,0.1744,59.1,0.723
+structure,2,4,val,GCN,0.8,28.2,93.2,60.7,0.7639,0.5788,0.2918,60.7,0.3972
+structure,2,4,test,GCN,0.8,16.1,91.0,53.6,0.6263,0.7718,0.095,53.6,0.2688

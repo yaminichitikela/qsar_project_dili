@@ -1,0 +1,5 @@
+Arm,Stage,Repeat,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+structure,1,4,val,GraphGPS,0.5,68.3,73.2,70.8,0.7793,0.6048,0.398,70.8,0.6137
+structure,1,4,test,GraphGPS,0.5,49.7,58.2,53.9,0.5528,0.7394,0.0725,53.9,0.5923
+structure,1,4,val,GraphGPS,0.8,28.7,91.9,60.3,0.7793,0.6048,0.2717,60.3,0.3952
+structure,1,4,test,GraphGPS,0.8,18.1,88.1,53.1,0.5528,0.7394,0.0763,53.1,0.2932

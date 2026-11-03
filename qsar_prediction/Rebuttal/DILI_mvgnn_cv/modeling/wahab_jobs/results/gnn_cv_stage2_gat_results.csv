@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,GAT-CV Stage-2 (Proxy+DILI) Ensemble,0.5,67.7,50.7,59.2,0.6152,0.7622,0.175,59.2,0.7167
+Test,GAT-CV Stage-2 (Proxy+DILI) BestFold,0.5,69.7,41.8,55.7,0.6075,0.7568,0.1113,55.7,0.7152
+Test,GAT-CV Stage-2 (Proxy+DILI) Ensemble,0.8,9.7,92.5,51.1,0.6152,0.7622,0.0355,51.1,0.1714
+Test,GAT-CV Stage-2 (Proxy+DILI) BestFold,0.8,10.3,92.5,51.4,0.6075,0.7568,0.0449,51.4,0.1818

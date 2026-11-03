@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,SAGE Stage-1 (Proxy-only),0.5,81.1,62.4,71.7,0.7892,0.6012,0.3906,71.7,0.5841
+Test,SAGE Stage-1 (Proxy-only),0.5,65.8,43.3,54.5,0.5798,0.7372,0.0865,54.5,0.6915
+Val,SAGE Stage-1 (Proxy-only),0.8,28.1,94.7,61.4,0.7892,0.6012,0.3188,61.4,0.3964
+Test,SAGE Stage-1 (Proxy-only),0.8,16.8,86.6,51.7,0.5798,0.7372,0.0421,51.7,0.2737

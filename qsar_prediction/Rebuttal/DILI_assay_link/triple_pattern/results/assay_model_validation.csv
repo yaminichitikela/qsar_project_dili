@@ -1,0 +1,3 @@
+assay,n_measured,actives,roc_auc,pr_auc,threshold
+mmp,230,25,0.959,0.744,0.549
+caspase,307,21,0.936,0.623,0.268

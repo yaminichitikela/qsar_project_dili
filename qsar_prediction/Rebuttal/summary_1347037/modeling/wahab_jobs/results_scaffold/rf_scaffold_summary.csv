@@ -1,0 +1,5 @@
+Model,CPT,Stat,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Random Forest,0.5,mean,45.28,75.98,60.62,0.646,0.1145,0.0867,60.62,0.1087
+Random Forest,0.5,std,21.3253,7.8465,7.2199,0.0553,0.0398,0.044,7.2199,0.0221
+Random Forest,0.8,mean,2.98,99.84,51.42,0.646,0.1145,0.1114,51.42,0.0545
+Random Forest,0.8,std,3.7158,0.305,1.9018,0.0553,0.0398,0.1129,1.9018,0.0653

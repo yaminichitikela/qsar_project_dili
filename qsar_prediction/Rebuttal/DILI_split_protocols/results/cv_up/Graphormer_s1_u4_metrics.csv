@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+cv_up,1,4,val,Graphormer,0.5,74.0,58.2,66.1,0.7258,0.5299,0.3033,66.1,0.5714
+cv_up,1,4,itest,Graphormer,0.5,75.8,56.3,66.0,0.7321,0.5539,0.3028,66.0,0.573
+cv_up,1,4,test,Graphormer,0.5,72.3,32.8,52.5,0.5991,0.7608,0.0514,52.5,0.7179
+cv_up,1,4,val,Graphormer,0.8,22.2,92.8,57.5,0.7258,0.5299,0.2155,57.5,0.3248
+cv_up,1,4,itest,Graphormer,0.8,27.7,92.0,59.8,0.7321,0.5539,0.2631,59.8,0.3847
+cv_up,1,4,test,Graphormer,0.8,20.0,89.6,54.8,0.5991,0.7608,0.1164,54.8,0.3212

@@ -1,0 +1,5 @@
+unit,model,old_auc,new_auc
+0,Graphormer,0.8196,0.7914
+0,GraphGPS,0.8333,0.8531
+0,Consensus-GT,0.8385,0.8352
+0,Consensus,0.8596,0.8648

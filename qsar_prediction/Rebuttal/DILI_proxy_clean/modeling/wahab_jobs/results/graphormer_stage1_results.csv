@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,Graphormer Stage-1 (Proxy-only),0.5,76.7,64.9,70.8,0.7837,0.5897,0.3738,70.8,0.5745
+Test,Graphormer Stage-1 (Proxy-only),0.5,65.8,49.3,57.5,0.6449,0.7708,0.1419,57.5,0.701
+Val,Graphormer Stage-1 (Proxy-only),0.8,37.5,92.1,64.8,0.7837,0.5897,0.3619,64.8,0.476
+Test,Graphormer Stage-1 (Proxy-only),0.8,24.5,88.1,56.3,0.6449,0.7708,0.1424,56.3,0.3781

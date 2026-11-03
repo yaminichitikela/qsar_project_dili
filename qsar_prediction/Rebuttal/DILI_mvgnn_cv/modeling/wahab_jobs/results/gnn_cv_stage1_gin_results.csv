@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Test,GIN-CV Stage-1 (Proxy-only) Ensemble,0.5,63.9,52.2,58.1,0.6128,0.7564,0.1504,58.1,0.6923
+Test,GIN-CV Stage-1 (Proxy-only) BestFold,0.5,57.4,56.7,57.1,0.6113,0.7597,0.13,57.1,0.652
+Test,GIN-CV Stage-1 (Proxy-only) Ensemble,0.8,14.8,88.1,51.4,0.6128,0.7564,0.0384,51.4,0.2473
+Test,GIN-CV Stage-1 (Proxy-only) BestFold,0.8,16.1,88.1,52.1,0.6113,0.7597,0.0541,52.1,0.266

@@ -1,0 +1,7 @@
+Protocol,Stage,Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+scaffold,2,2,val,MVGNN,0.5,75.0,62.4,68.7,0.7426,0.587,0.3615,68.7,0.6284
+scaffold,2,2,itest,MVGNN,0.5,67.1,58.6,62.8,0.6921,0.5047,0.2436,62.8,0.5439
+scaffold,2,2,test,MVGNN,0.5,58.7,52.2,55.5,0.5782,0.7542,0.1011,55.5,0.6547
+scaffold,2,2,val,MVGNN,0.8,13.3,95.7,54.5,0.7426,0.587,0.1631,54.5,0.2202
+scaffold,2,2,itest,MVGNN,0.8,10.3,96.6,53.4,0.6921,0.5047,0.1388,53.4,0.1758
+scaffold,2,2,test,MVGNN,0.8,5.8,98.5,52.2,0.5782,0.7542,0.0955,52.2,0.1091

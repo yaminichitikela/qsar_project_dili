@@ -1,0 +1,5 @@
+Unit,Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+4,Val,Graphormer,0.5,90.0,43.7,66.9,0.7326,0.3915,0.2987,66.9,0.4837
+4,Test,Graphormer,0.5,89.2,58.6,73.9,0.8661,0.596,0.3481,73.9,0.4334
+4,Val,Graphormer,0.8,51.4,76.8,64.1,0.7326,0.3915,0.2622,64.1,0.4543
+4,Test,Graphormer,0.8,71.0,85.2,78.1,0.8661,0.596,0.481,78.1,0.5665

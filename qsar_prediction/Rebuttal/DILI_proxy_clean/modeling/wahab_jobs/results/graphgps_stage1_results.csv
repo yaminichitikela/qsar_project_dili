@@ -1,0 +1,5 @@
+Split,Model,CPT,Sensitivity,Specificity,CCR,ROC-AUC,PR-AUC,MCC,Bal-Acc,F1
+Val,GraphGPS Stage-1 (Proxy-only),0.5,77.9,62.5,70.2,0.7781,0.5616,0.3634,70.2,0.5685
+Test,GraphGPS Stage-1 (Proxy-only),0.5,61.3,55.2,58.3,0.6073,0.7632,0.1528,58.3,0.6786
+Val,GraphGPS Stage-1 (Proxy-only),0.8,34.1,92.1,63.1,0.7781,0.5616,0.3278,63.1,0.4417
+Test,GraphGPS Stage-1 (Proxy-only),0.8,19.4,88.1,53.7,0.6073,0.7632,0.0904,53.7,0.3109
